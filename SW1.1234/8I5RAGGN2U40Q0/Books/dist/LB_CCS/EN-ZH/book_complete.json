@@ -1,0 +1,975 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cc",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cc",
+            "en_trans": "cc_cc_cc",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "cc_cc_cc",
+            "trans_text": "Cc",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "3.03",
+                    "word": "cc",
+                    "start": "0"
+                },
+                {
+                    "end": "3.03",
+                    "word": "cc",
+                    "start": "3.03"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.771",
+                    "word": "cc",
+                    "start": "0"
+                },
+                {
+                    "end": "3.54",
+                    "word": "cc",
+                    "roman": "cc",
+                    "start": "1.77"
+                }
+            ],
+            "nar_audio_en": "CCS_narr_CCS_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "cc",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "Cc",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "city",
+            "en_trans": "city_城市_chéng shì",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_city_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "城市_city_chéng shì",
+            "trans_text": "城市",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "city",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "city",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "城市",
+                    "start": "0"
+                },
+                {
+                    "end": "3.44",
+                    "word": "城市",
+                    "roman": "chéng shì",
+                    "start": "1.72"
+                }
+            ],
+            "nar_audio_en": "CCS_narr_city_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "城市",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "city",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cents",
+            "en_trans": "cents_美分_měi fēn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_cents_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "美分_cents_měi fēn",
+            "trans_text": "美分",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.21",
+                    "word": "cents",
+                    "start": "0"
+                },
+                {
+                    "end": "2.21",
+                    "word": "cents",
+                    "start": "2.21"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "美分",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "美分",
+                    "roman": "měi fēn",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "CCS_narr_cents_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "美分",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cents",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "circus",
+            "en_trans": "circus_马戏团_mǎ xì tuán",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_circus_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "马戏团_circus_mǎ xì tuán",
+            "trans_text": "马戏团",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.42",
+                    "word": "circus",
+                    "start": "0"
+                },
+                {
+                    "end": "2.42",
+                    "word": "circus",
+                    "start": "2.42"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.032",
+                    "word": "马戏团",
+                    "start": "0"
+                },
+                {
+                    "end": "4.06",
+                    "word": "马戏团",
+                    "roman": "mǎ xì tuán",
+                    "start": "2.03"
+                }
+            ],
+            "nar_audio_en": "CCS_narr_circus_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "马戏团",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "circus",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "celery",
+            "en_trans": "celery_芹菜_qín cài",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_celery_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "芹菜_celery_qín cài",
+            "trans_text": "芹菜",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.32",
+                    "word": "celery",
+                    "start": "0"
+                },
+                {
+                    "end": "2.32",
+                    "word": "celery",
+                    "start": "2.32"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.693",
+                    "word": "芹菜",
+                    "start": "0"
+                },
+                {
+                    "end": "3.38",
+                    "word": "芹菜",
+                    "roman": "qín cài",
+                    "start": "1.69"
+                }
+            ],
+            "nar_audio_en": "CCS_narr_celery_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "芹菜",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "celery",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cereal",
+            "en_trans": "cereal_麦片_mài piàn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_cereal_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "麦片_cereal_mài piàn",
+            "trans_text": "麦片",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.29",
+                    "word": "cereal",
+                    "start": "0"
+                },
+                {
+                    "end": "2.29",
+                    "word": "cereal",
+                    "start": "2.29"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "麦片",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "麦片",
+                    "roman": "mài piàn",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "CCS_narr_cereal_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "麦片",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cereal",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "circle",
+            "en_trans": "circle_圆圈_yuán quān",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_circle_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "圆圈_circle_yuán quān",
+            "trans_text": "圆圈",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "circle",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "circle",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "圆圈",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "圆圈",
+                    "roman": "yuán quān",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "CCS_narr_circle_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "圆圈",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "circle",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cents_美分_měi fēn,city_城市_chéng shì,celery_芹菜_qín cài,cereal_麦片_mài piàn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCS_celery_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "celery_芹菜",
+            "trans_en": "cents_美分_cents,city_城市_city,celery_芹菜_celery,cereal_麦片_cereal",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.21",
+                    "word": "cents",
+                    "start": "0"
+                },
+                {
+                    "end": "4.12",
+                    "word": "city",
+                    "start": "2.21"
+                },
+                {
+                    "end": "6.44",
+                    "word": "celery",
+                    "start": "4.12"
+                },
+                {
+                    "end": "8.73",
+                    "word": "cereal",
+                    "start": "6.44"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "美分",
+                    "roman": "měi fēn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.333",
+                    "word": "城市",
+                    "roman": "chéng shì",
+                    "start": "1.614"
+                },
+                {
+                    "end": "5.025",
+                    "word": "芹菜",
+                    "roman": "qín cài",
+                    "start": "3.333"
+                },
+                {
+                    "end": "6.64",
+                    "word": "麦片",
+                    "roman": "mài piàn",
+                    "start": "5.025"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cents_美分_měi fēn,circle_圆圈_yuán quān,cereal_麦片_mài piàn,city_城市_chéng shì",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCS_city_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "city_城市",
+            "trans_en": "cents_美分_cents,circle_圆圈_circle,cereal_麦片_cereal,city_城市_city",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.21",
+                    "word": "cents",
+                    "start": "0"
+                },
+                {
+                    "end": "4.33",
+                    "word": "circle",
+                    "start": "2.21"
+                },
+                {
+                    "end": "6.62",
+                    "word": "cereal",
+                    "start": "4.33"
+                },
+                {
+                    "end": "8.52",
+                    "word": "city",
+                    "start": "6.62"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "美分",
+                    "roman": "měi fēn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.281",
+                    "word": "圆圈",
+                    "roman": "yuán quān",
+                    "start": "1.614"
+                },
+                {
+                    "end": "4.895",
+                    "word": "麦片",
+                    "roman": "mài piàn",
+                    "start": "3.281"
+                },
+                {
+                    "end": "6.614",
+                    "word": "城市",
+                    "roman": "chéng shì",
+                    "start": "4.895"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "city_城市_chéng shì,circle_圆圈_yuán quān,celery_芹菜_qín cài,cereal_麦片_mài piàn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCS_cereal_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cereal_麦片",
+            "trans_en": "city_城市_city,circle_圆圈_circle,celery_芹菜_celery,cereal_麦片_cereal",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "city",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "circle",
+                    "start": "1.9"
+                },
+                {
+                    "end": "6.33",
+                    "word": "celery",
+                    "start": "4.01"
+                },
+                {
+                    "end": "8.62",
+                    "word": "cereal",
+                    "start": "6.33"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "城市",
+                    "roman": "chéng shì",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "圆圈",
+                    "roman": "yuán quān",
+                    "start": "1.719"
+                },
+                {
+                    "end": "5.078",
+                    "word": "芹菜",
+                    "roman": "qín cài",
+                    "start": "3.385"
+                },
+                {
+                    "end": "6.692",
+                    "word": "麦片",
+                    "roman": "mài piàn",
+                    "start": "5.078"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cereal_麦片_mài piàn,circus_马戏团_mǎ xì tuán,circle_圆圈_yuán quān,celery_芹菜_qín cài",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCS_circus_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "circus_马戏团",
+            "trans_en": "cereal_麦片_cereal,circus_马戏团_circus,circle_圆圈_circle,celery_芹菜_celery",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.29",
+                    "word": "cereal",
+                    "start": "0"
+                },
+                {
+                    "end": "4.72",
+                    "word": "circus",
+                    "start": "2.29"
+                },
+                {
+                    "end": "6.83",
+                    "word": "circle",
+                    "start": "4.72"
+                },
+                {
+                    "end": "9.15",
+                    "word": "celery",
+                    "start": "6.83"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "麦片",
+                    "roman": "mài piàn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.646",
+                    "word": "马戏团",
+                    "roman": "mǎ xì tuán",
+                    "start": "1.614"
+                },
+                {
+                    "end": "5.313",
+                    "word": "圆圈",
+                    "roman": "yuán quān",
+                    "start": "3.646"
+                },
+                {
+                    "end": "7.005",
+                    "word": "芹菜",
+                    "roman": "qín cài",
+                    "start": "5.313"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cereal_麦片_mài piàn,celery_芹菜_qín cài,circle_圆圈_yuán quān,circus_马戏团_mǎ xì tuán",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCS_circle_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "circle_圆圈",
+            "trans_en": "cereal_麦片_cereal,celery_芹菜_celery,circle_圆圈_circle,circus_马戏团_circus",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.29",
+                    "word": "cereal",
+                    "start": "0"
+                },
+                {
+                    "end": "4.61",
+                    "word": "celery",
+                    "start": "2.29"
+                },
+                {
+                    "end": "6.72",
+                    "word": "circle",
+                    "start": "4.61"
+                },
+                {
+                    "end": "9.15",
+                    "word": "circus",
+                    "start": "6.72"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "麦片",
+                    "roman": "mài piàn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.307",
+                    "word": "芹菜",
+                    "roman": "qín cài",
+                    "start": "1.614"
+                },
+                {
+                    "end": "4.973",
+                    "word": "圆圈",
+                    "roman": "yuán quān",
+                    "start": "3.307"
+                },
+                {
+                    "end": "7.005",
+                    "word": "马戏团",
+                    "roman": "mǎ xì tuán",
+                    "start": "4.973"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "circus_马戏团_mǎ xì tuán,celery_芹菜_qín cài,cents_美分_měi fēn,city_城市_chéng shì",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCS_cents_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cents_美分",
+            "trans_en": "circus_马戏团_circus,celery_芹菜_celery,cents_美分_cents,city_城市_city",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.42",
+                    "word": "circus",
+                    "start": "0"
+                },
+                {
+                    "end": "4.74",
+                    "word": "celery",
+                    "start": "2.42"
+                },
+                {
+                    "end": "6.96",
+                    "word": "cents",
+                    "start": "4.74"
+                },
+                {
+                    "end": "8.86",
+                    "word": "city",
+                    "start": "6.96"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.032",
+                    "word": "马戏团",
+                    "roman": "mǎ xì tuán",
+                    "start": "0"
+                },
+                {
+                    "end": "3.725",
+                    "word": "芹菜",
+                    "roman": "qín cài",
+                    "start": "2.032"
+                },
+                {
+                    "end": "5.339",
+                    "word": "美分",
+                    "roman": "měi fēn",
+                    "start": "3.725"
+                },
+                {
+                    "end": "7.058",
+                    "word": "城市",
+                    "roman": "chéng shì",
+                    "start": "5.339"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCS_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c  (\\\"s\\\" sound)\",\n        \"ES\": \"C c  (\\\"s\\\" sound)\",\n        \"ZH\": \"C c  (\\\"s\\\" sound)\",\n        \"VI\": \"C c  (\\\"s\\\" sound)\",\n        \"AR\": \"C c  (\\\"s\\\" sound)\",\n        \"KO\": \"C c  (\\\"s\\\" sound)\",\n        \"DA\": \"C c  (\\\"s\\\" sound)\",\n        \"PS\": \"C c  (\\\"s\\\" sound)\",\n        \"TL\": \"C c  (\\\"s\\\" sound)\",\n        \"BN\": \"C c  (\\\"s\\\" sound)\",\n        \"PT\": \"C c  (\\\"s\\\" sound)\",\n        \"HK\": \"C c  (\\\"s\\\" sound)\",\n        \"TW\": \"C c  (\\\"s\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_CCS"
+        }
+    ]
+}

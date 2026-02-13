@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A i",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A i",
+            "en_trans": "a i_a i",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "a i_a i",
+            "trans_text": "A i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "3.7",
+                    "word": "a i",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "a i",
+                    "start": "3.7"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "a i",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "a i",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "AIX_narr_AI_p1.mp3",
+            "nar_audio_trans": "BN_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "a i",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "A i",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "paint",
+            "en_trans": "paint_রং",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_paint_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "রং_paint",
+            "trans_text": "রং",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "paint",
+                    "start": "0"
+                },
+                {
+                    "end": "1.74",
+                    "word": "paint",
+                    "start": "1.74"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.612",
+                    "word": "রং",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "রং",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "AIX_narr_paint_p2.mp3",
+            "nar_audio_trans": "BN_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "রং",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "paint",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "waist",
+            "en_trans": "waist_কোমর",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_waist_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "কোমর_waist",
+            "trans_text": "কোমর",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "waist",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "waist",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "কোমর",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "কোমর",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "AIX_narr_waist_p3.mp3",
+            "nar_audio_trans": "BN_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "কোমর",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "waist",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "rain",
+            "en_trans": "rain_বৃষ্টি",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_rain_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "বৃষ্টি_rain",
+            "trans_text": "বৃষ্টি",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "rain",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "rain",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "বৃষ্টি",
+                    "start": "0"
+                },
+                {
+                    "end": "3.94",
+                    "word": "বৃষ্টি",
+                    "start": "1.97"
+                }
+            ],
+            "nar_audio_en": "AIX_narr_rain_p4.mp3",
+            "nar_audio_trans": "BN_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "বৃষ্টি",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "rain",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "snail",
+            "en_trans": "snail_শামুক",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_snail_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "শামুক_snail",
+            "trans_text": "শামুক",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "snail",
+                    "start": "0"
+                },
+                {
+                    "end": "2.14",
+                    "word": "snail",
+                    "start": "2.14"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "শামুক",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "শামুক",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "AIX_narr_snail_p5.mp3",
+            "nar_audio_trans": "BN_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "শামুক",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "snail",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "tail",
+            "en_trans": "tail_লেজ",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_tail_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "লেজ_tail",
+            "trans_text": "লেজ",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.72",
+                    "word": "tail",
+                    "start": "0"
+                },
+                {
+                    "end": "1.72",
+                    "word": "tail",
+                    "start": "1.72"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "লেজ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "লেজ",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "AIX_narr_tail_p6.mp3",
+            "nar_audio_trans": "BN_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "লেজ",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "tail",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "train",
+            "en_trans": "train_ট্রেন",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_train_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ট্রেন_train",
+            "trans_text": "ট্রেন",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "train",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "train",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "ট্রেন",
+                    "start": "0"
+                },
+                {
+                    "end": "3.46",
+                    "word": "ট্রেন",
+                    "start": "1.73"
+                }
+            ],
+            "nar_audio_en": "AIX_narr_train_p7.mp3",
+            "nar_audio_trans": "BN_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ট্রেন",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "train",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "rain_বৃষ্টি,waist_কোমর,paint_রং,train_ট্রেন",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AIX_paint_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "paint_রং",
+            "trans_en": "rain_বৃষ্টি,waist_কোমর,paint_রং,train_ট্রেন",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "BN_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "rain",
+                    "start": "0"
+                },
+                {
+                    "end": "3.75",
+                    "word": "waist",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.5",
+                    "word": "paint",
+                    "start": "3.75"
+                },
+                {
+                    "end": "7.19",
+                    "word": "train",
+                    "start": "5.5"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "বৃষ্টি",
+                    "start": "0"
+                },
+                {
+                    "end": "3.632",
+                    "word": "কোমর",
+                    "start": "1.972"
+                },
+                {
+                    "end": "5.244",
+                    "word": "রং",
+                    "start": "3.632"
+                },
+                {
+                    "end": "6.976",
+                    "word": "ট্রেন",
+                    "start": "5.244"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "snail_শামুক,train_ট্রেন,rain_বৃষ্টি,tail_লেজ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AIX_train_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "train_ট্রেন",
+            "trans_en": "snail_শামুক,train_ট্রেন,rain_বৃষ্টি,tail_লেজ",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "BN_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "snail",
+                    "start": "0"
+                },
+                {
+                    "end": "3.83",
+                    "word": "train",
+                    "start": "2.14"
+                },
+                {
+                    "end": "5.73",
+                    "word": "rain",
+                    "start": "3.83"
+                },
+                {
+                    "end": "7.45",
+                    "word": "tail",
+                    "start": "5.73"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "শামুক",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "ট্রেন",
+                    "start": "1.852"
+                },
+                {
+                    "end": "5.556",
+                    "word": "বৃষ্টি",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.239",
+                    "word": "লেজ",
+                    "start": "5.556"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "tail_লেজ,rain_বৃষ্টি,paint_রং,snail_শামুক",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AIX_rain_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "rain_বৃষ্টি",
+            "trans_en": "tail_লেজ,rain_বৃষ্টি,paint_রং,snail_শামুক",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "BN_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.72",
+                    "word": "tail",
+                    "start": "0"
+                },
+                {
+                    "end": "3.62",
+                    "word": "rain",
+                    "start": "1.72"
+                },
+                {
+                    "end": "5.36",
+                    "word": "paint",
+                    "start": "3.62"
+                },
+                {
+                    "end": "7.5",
+                    "word": "snail",
+                    "start": "5.36"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "লেজ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.656",
+                    "word": "বৃষ্টি",
+                    "start": "1.684"
+                },
+                {
+                    "end": "5.268",
+                    "word": "রং",
+                    "start": "3.656"
+                },
+                {
+                    "end": "7.12",
+                    "word": "শামুক",
+                    "start": "5.268"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "train_ট্রেন,waist_কোমর,tail_লেজ,rain_বৃষ্টি",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AIX_tail_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "tail_লেজ",
+            "trans_en": "train_ট্রেন,waist_কোমর,tail_লেজ,rain_বৃষ্টি",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "BN_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "train",
+                    "start": "0"
+                },
+                {
+                    "end": "3.54",
+                    "word": "waist",
+                    "start": "1.69"
+                },
+                {
+                    "end": "5.26",
+                    "word": "tail",
+                    "start": "3.54"
+                },
+                {
+                    "end": "7.16",
+                    "word": "rain",
+                    "start": "5.26"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "ট্রেন",
+                    "start": "0"
+                },
+                {
+                    "end": "3.392",
+                    "word": "কোমর",
+                    "start": "1.732"
+                },
+                {
+                    "end": "5.076",
+                    "word": "লেজ",
+                    "start": "3.392"
+                },
+                {
+                    "end": "7.048",
+                    "word": "বৃষ্টি",
+                    "start": "5.076"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "snail_শামুক,train_ট্রেন,paint_রং,tail_লেজ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AIX_snail_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "snail_শামুক",
+            "trans_en": "snail_শামুক,train_ট্রেন,paint_রং,tail_লেজ",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "BN_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "snail",
+                    "start": "0"
+                },
+                {
+                    "end": "3.83",
+                    "word": "train",
+                    "start": "2.14"
+                },
+                {
+                    "end": "5.57",
+                    "word": "paint",
+                    "start": "3.83"
+                },
+                {
+                    "end": "7.29",
+                    "word": "tail",
+                    "start": "5.57"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "শামুক",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "ট্রেন",
+                    "start": "1.852"
+                },
+                {
+                    "end": "5.196",
+                    "word": "রং",
+                    "start": "3.584"
+                },
+                {
+                    "end": "6.88",
+                    "word": "লেজ",
+                    "start": "5.196"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "paint_রং,waist_কোমর,snail_শামুক,rain_বৃষ্টি",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AIX_waist_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "waist_কোমর",
+            "trans_en": "paint_রং,waist_কোমর,snail_শামুক,rain_বৃষ্টি",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "BN_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "paint",
+                    "start": "0"
+                },
+                {
+                    "end": "3.59",
+                    "word": "waist",
+                    "start": "1.74"
+                },
+                {
+                    "end": "5.73",
+                    "word": "snail",
+                    "start": "3.59"
+                },
+                {
+                    "end": "7.63",
+                    "word": "rain",
+                    "start": "5.73"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.612",
+                    "word": "রং",
+                    "start": "0"
+                },
+                {
+                    "end": "3.272",
+                    "word": "কোমর",
+                    "start": "1.612"
+                },
+                {
+                    "end": "5.124",
+                    "word": "শামুক",
+                    "start": "3.272"
+                },
+                {
+                    "end": "7.096",
+                    "word": "বৃষ্টি",
+                    "start": "5.124"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AIX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AI  ai \",\n        \"ES\": \"AI  ai \",\n        \"ZH\": \"AI  ai \",\n        \"VI\": \"AI  ai \",\n        \"AR\": \"AI  ai \",\n        \"KO\": \"AI  ai \",\n        \"DA\": \"AI  ai \",\n        \"PS\": \"AI  ai \",\n        \"TL\": \"AI  ai \",\n        \"BN\": \"AI  ai \",\n        \"PT\": \"AI  ai \",\n        \"HK\": \"AI  ai \",\n        \"TW\": \"AI  ai \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mansura Akter",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "লিখিত এবং দ্বারা বর্ণিত:Cynthia Harrison Barbera",
+                "অনুবাদিত:Mansura Akter",
+                "দ্বারা চিত্রিত:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_AIX"
+        }
+    ]
+}

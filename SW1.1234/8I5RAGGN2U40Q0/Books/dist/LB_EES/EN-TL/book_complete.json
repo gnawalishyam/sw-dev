@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "E e",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "E e",
+            "en_trans": "e e_e e",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "e e_e e",
+            "trans_text": "E e",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.44",
+                    "word": "e e",
+                    "start": "0"
+                },
+                {
+                    "end": "2.44",
+                    "word": "e e",
+                    "start": "2.44"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "e e",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "e e",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "EES_narr_Ee_short_p1.mp3",
+            "nar_audio_trans": "TL_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "e e",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "E E",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "egg",
+            "en_trans": "egg_itlog",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_egg_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "itlog_egg",
+            "trans_text": "itlog",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.45",
+                    "word": "egg",
+                    "start": "0"
+                },
+                {
+                    "end": "1.45",
+                    "word": "egg",
+                    "start": "1.45"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "itlog",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "itlog",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "EES_narr_egg_p2.mp3",
+            "nar_audio_trans": "TL_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "itlog",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "egg",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "hen",
+            "en_trans": "hen_inahin",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_hen_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "inahin_hen",
+            "trans_text": "inahin",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.41",
+                    "word": "hen",
+                    "start": "0"
+                },
+                {
+                    "end": "1.41",
+                    "word": "hen",
+                    "start": "1.41"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "inahin",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "inahin",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "EES_narr_hen_p3.mp3",
+            "nar_audio_trans": "TL_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "inahin",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "hen",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "red",
+            "en_trans": "red_pula",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_red_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "pula_red",
+            "trans_text": "pula",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.47",
+                    "word": "red",
+                    "start": "0"
+                },
+                {
+                    "end": "1.47",
+                    "word": "red",
+                    "start": "1.47"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "pula",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "pula",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "EES_narr_red_p4.mp3",
+            "nar_audio_trans": "TL_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "pula",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "red",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "smell",
+            "en_trans": "smell_amuyin",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_smell_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "amuyin_smell",
+            "trans_text": "amuyin",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "smell",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "smell",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "amuyin",
+                    "start": "0"
+                },
+                {
+                    "end": "3.76",
+                    "word": "amuyin",
+                    "start": "1.88"
+                }
+            ],
+            "nar_audio_en": "EES_narr_smell_p5.mp3",
+            "nar_audio_trans": "TL_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "amuyin",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "smell",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "nest",
+            "en_trans": "nest_pugad",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_nest_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "pugad_nest",
+            "trans_text": "pugad",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "nest",
+                    "start": "0"
+                },
+                {
+                    "end": "1.66",
+                    "word": "nest",
+                    "start": "1.66"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "pugad",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "pugad",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "EES_narr_nest_p6.mp3",
+            "nar_audio_trans": "TL_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "pugad",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "nest",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "tent",
+            "en_trans": "tent_tolda",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_tent_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tolda_tent",
+            "trans_text": "tolda",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.47",
+                    "word": "tent",
+                    "start": "0"
+                },
+                {
+                    "end": "1.47",
+                    "word": "tent",
+                    "start": "1.47"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "tolda",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "tolda",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "EES_narr_tent_p7.mp3",
+            "nar_audio_trans": "TL_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tolda",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "tent",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "smell_amuyin,hen_inahin,egg_itlog,tent_tolda",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EES_hen_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "hen_inahin",
+            "trans_en": "smell_amuyin,hen_inahin,egg_itlog,tent_tolda",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "TL_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "smell",
+                    "start": "0"
+                },
+                {
+                    "end": "3.1",
+                    "word": "hen",
+                    "start": "1.69"
+                },
+                {
+                    "end": "4.55",
+                    "word": "egg",
+                    "start": "3.1"
+                },
+                {
+                    "end": "6.02",
+                    "word": "tent",
+                    "start": "4.55"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "amuyin",
+                    "start": "0"
+                },
+                {
+                    "end": "3.728",
+                    "word": "inahin",
+                    "start": "1.876"
+                },
+                {
+                    "end": "5.388",
+                    "word": "itlog",
+                    "start": "3.728"
+                },
+                {
+                    "end": "7.048",
+                    "word": "tolda",
+                    "start": "5.388"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "egg_itlog,tent_tolda,hen_inahin,nest_pugad",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EES_nest_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "nest_pugad",
+            "trans_en": "egg_itlog,tent_tolda,hen_inahin,nest_pugad",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "TL_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.45",
+                    "word": "egg",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "tent",
+                    "start": "1.45"
+                },
+                {
+                    "end": "4.33",
+                    "word": "hen",
+                    "start": "2.92"
+                },
+                {
+                    "end": "5.99",
+                    "word": "nest",
+                    "start": "4.33"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "itlog",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "tolda",
+                    "start": "1.66"
+                },
+                {
+                    "end": "5.172",
+                    "word": "inahin",
+                    "start": "3.32"
+                },
+                {
+                    "end": "6.76",
+                    "word": "pugad",
+                    "start": "5.172"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "tent_tolda,hen_inahin,nest_pugad,red_pula",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EES_tent_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "tent_tolda",
+            "trans_en": "tent_tolda,hen_inahin,nest_pugad,red_pula",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "TL_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.47",
+                    "word": "tent",
+                    "start": "0"
+                },
+                {
+                    "end": "2.88",
+                    "word": "hen",
+                    "start": "1.47"
+                },
+                {
+                    "end": "4.54",
+                    "word": "nest",
+                    "start": "2.88"
+                },
+                {
+                    "end": "6.0",
+                    "word": "red",
+                    "start": "4.54"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "tolda",
+                    "start": "0"
+                },
+                {
+                    "end": "3.512",
+                    "word": "inahin",
+                    "start": "1.66"
+                },
+                {
+                    "end": "5.1",
+                    "word": "pugad",
+                    "start": "3.512"
+                },
+                {
+                    "end": "6.639",
+                    "word": "pula",
+                    "start": "5.1"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "egg_itlog,tent_tolda,hen_inahin,smell_amuyin",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EES_egg_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "egg_itlog",
+            "trans_en": "egg_itlog,tent_tolda,hen_inahin,smell_amuyin",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "TL_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.45",
+                    "word": "egg",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "tent",
+                    "start": "1.45"
+                },
+                {
+                    "end": "4.33",
+                    "word": "hen",
+                    "start": "2.92"
+                },
+                {
+                    "end": "6.02",
+                    "word": "smell",
+                    "start": "4.33"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "itlog",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "tolda",
+                    "start": "1.66"
+                },
+                {
+                    "end": "5.172",
+                    "word": "inahin",
+                    "start": "3.32"
+                },
+                {
+                    "end": "7.048",
+                    "word": "amuyin",
+                    "start": "5.172"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "smell_amuyin,hen_inahin,nest_pugad,red_pula",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EES_red_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "red_pula",
+            "trans_en": "smell_amuyin,hen_inahin,nest_pugad,red_pula",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "TL_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "smell",
+                    "start": "0"
+                },
+                {
+                    "end": "3.1",
+                    "word": "hen",
+                    "start": "1.69"
+                },
+                {
+                    "end": "4.76",
+                    "word": "nest",
+                    "start": "3.1"
+                },
+                {
+                    "end": "6.22",
+                    "word": "red",
+                    "start": "4.76"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "amuyin",
+                    "start": "0"
+                },
+                {
+                    "end": "3.728",
+                    "word": "inahin",
+                    "start": "1.876"
+                },
+                {
+                    "end": "5.316",
+                    "word": "pugad",
+                    "start": "3.728"
+                },
+                {
+                    "end": "6.856",
+                    "word": "pula",
+                    "start": "5.316"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "hen_inahin,red_pula,tent_tolda,smell_amuyin",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EES_smell_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "smell_amuyin",
+            "trans_en": "hen_inahin,red_pula,tent_tolda,smell_amuyin",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "TL_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.41",
+                    "word": "hen",
+                    "start": "0"
+                },
+                {
+                    "end": "2.88",
+                    "word": "red",
+                    "start": "1.41"
+                },
+                {
+                    "end": "4.34",
+                    "word": "tent",
+                    "start": "2.88"
+                },
+                {
+                    "end": "6.03",
+                    "word": "smell",
+                    "start": "4.34"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "inahin",
+                    "start": "0"
+                },
+                {
+                    "end": "3.392",
+                    "word": "pula",
+                    "start": "1.852"
+                },
+                {
+                    "end": "5.052",
+                    "word": "tolda",
+                    "start": "3.392"
+                },
+                {
+                    "end": "6.928",
+                    "word": "amuyin",
+                    "start": "5.052"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EES_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EES\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"E e  (short e)\",\n        \"ES\": \"E e  (short e)\",\n        \"ZH\": \"E e  (short e)\",\n        \"VI\": \"E e  (short e)\",\n        \"AR\": \"E e  (short e)\",\n        \"KO\": \"E e  (short e)\",\n        \"DA\": \"E e  (short e)\",\n        \"PS\": \"E e  (short e)\",\n        \"TL\": \"E e  (short e)\",\n        \"BN\": \"E e  (short e)\",\n        \"PT\": \"E e  (short e)\",\n        \"HK\": \"E e  (short e)\",\n        \"TW\": \"E e  (short e)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mar Anthony dela Cruz",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Isinulat at Nasalaysay ni:Cynthia Harrison Barbera",
+                "Isinalin sa pamamagitan ng:Mar Anthony dela Cruz",
+                "Isinalarawan sa pamamagitan ng:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_EES"
+        }
+    ]
+}

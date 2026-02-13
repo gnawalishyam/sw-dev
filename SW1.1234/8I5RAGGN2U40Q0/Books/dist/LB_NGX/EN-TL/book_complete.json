@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "N g",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "N g",
+            "en_trans": "n g_n g",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "n g_n g",
+            "trans_text": "N g",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "n g",
+                    "start": "0"
+                },
+                {
+                    "end": "1.82",
+                    "word": "n g",
+                    "start": "1.82"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "n g",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "n g",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "NGX_narr_NG_p1.mp3",
+            "nar_audio_trans": "TL_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "n g",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "N g",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sing",
+            "en_trans": "sing_umawit",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_sing_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "umawit_sing",
+            "trans_text": "umawit",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "sing",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "sing",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "umawit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "umawit",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "NGX_narr_sing_p2.mp3",
+            "nar_audio_trans": "TL_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "umawit",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sing",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "swing",
+            "en_trans": "swing_iduyan",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_swing_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "iduyan_swing",
+            "trans_text": "iduyan",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "swing",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "swing",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "iduyan",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "iduyan",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "NGX_narr_swing_p3.mp3",
+            "nar_audio_trans": "TL_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "iduyan",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "swing",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "hang",
+            "en_trans": "hang_isabit",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_hang_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "isabit_hang",
+            "trans_text": "isabit",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "hang",
+                    "start": "0"
+                },
+                {
+                    "end": "2.06",
+                    "word": "hang",
+                    "start": "2.06"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "isabit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.46",
+                    "word": "isabit",
+                    "start": "1.73"
+                }
+            ],
+            "nar_audio_en": "NGX_narr_hang_p4.mp3",
+            "nar_audio_trans": "TL_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "isabit",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "hang",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "string",
+            "en_trans": "string_tali",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_string_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tali_string",
+            "trans_text": "tali",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.29",
+                    "word": "string",
+                    "start": "0"
+                },
+                {
+                    "end": "2.29",
+                    "word": "string",
+                    "start": "2.29"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "tali",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "tali",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "NGX_narr_string_p5.mp3",
+            "nar_audio_trans": "TL_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tali",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "string",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "strong",
+            "en_trans": "strong_malakas",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_strong_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "malakas_strong",
+            "trans_text": "malakas",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.84",
+                    "word": "strong",
+                    "start": "0"
+                },
+                {
+                    "end": "2.84",
+                    "word": "strong",
+                    "start": "2.84"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "malakas",
+                    "start": "0"
+                },
+                {
+                    "end": "4.14",
+                    "word": "malakas",
+                    "start": "2.07"
+                }
+            ],
+            "nar_audio_en": "NGX_narr_strong_p6.mp3",
+            "nar_audio_trans": "TL_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "malakas",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "strong",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "spring",
+            "en_trans": "spring_tagsibol",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_spring_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tagsibol_spring",
+            "trans_text": "tagsibol",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "spring",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "spring",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.948",
+                    "word": "tagsibol",
+                    "start": "0"
+                },
+                {
+                    "end": "3.9",
+                    "word": "tagsibol",
+                    "start": "1.95"
+                }
+            ],
+            "nar_audio_en": "NGX_narr_spring_p7.mp3",
+            "nar_audio_trans": "TL_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tagsibol",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "spring",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "string_tali,strong_malakas,swing_iduyan,hang_isabit",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_NGX_swing_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "swing_iduyan",
+            "trans_en": "string_tali,strong_malakas,swing_iduyan,hang_isabit",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "TL_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.29",
+                    "word": "string",
+                    "start": "0"
+                },
+                {
+                    "end": "5.14",
+                    "word": "strong",
+                    "start": "2.29"
+                },
+                {
+                    "end": "7.25",
+                    "word": "swing",
+                    "start": "5.14"
+                },
+                {
+                    "end": "9.3",
+                    "word": "hang",
+                    "start": "7.25"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "tali",
+                    "start": "0"
+                },
+                {
+                    "end": "3.656",
+                    "word": "malakas",
+                    "start": "1.588"
+                },
+                {
+                    "end": "5.58",
+                    "word": "iduyan",
+                    "start": "3.656"
+                },
+                {
+                    "end": "7.311",
+                    "word": "isabit",
+                    "start": "5.58"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sing_umawit,strong_malakas,hang_isabit,spring_tagsibol",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_NGX_spring_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "spring_tagsibol",
+            "trans_en": "sing_umawit,strong_malakas,hang_isabit,spring_tagsibol",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "TL_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "sing",
+                    "start": "0"
+                },
+                {
+                    "end": "4.82",
+                    "word": "strong",
+                    "start": "1.98"
+                },
+                {
+                    "end": "6.88",
+                    "word": "hang",
+                    "start": "4.82"
+                },
+                {
+                    "end": "8.86",
+                    "word": "spring",
+                    "start": "6.88"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "umawit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.824",
+                    "word": "malakas",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.556",
+                    "word": "isabit",
+                    "start": "3.824"
+                },
+                {
+                    "end": "7.503",
+                    "word": "tagsibol",
+                    "start": "5.556"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "spring_tagsibol,hang_isabit,string_tali,sing_umawit",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_NGX_string_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "string_tali",
+            "trans_en": "spring_tagsibol,hang_isabit,string_tali,sing_umawit",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "TL_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "spring",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "hang",
+                    "start": "1.98"
+                },
+                {
+                    "end": "6.33",
+                    "word": "string",
+                    "start": "4.04"
+                },
+                {
+                    "end": "8.31",
+                    "word": "sing",
+                    "start": "6.33"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.948",
+                    "word": "tagsibol",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "isabit",
+                    "start": "1.948"
+                },
+                {
+                    "end": "5.268",
+                    "word": "tali",
+                    "start": "3.68"
+                },
+                {
+                    "end": "7.024",
+                    "word": "umawit",
+                    "start": "5.268"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sing_umawit,swing_iduyan,string_tali,strong_malakas",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_NGX_strong_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "strong_malakas",
+            "trans_en": "sing_umawit,swing_iduyan,string_tali,strong_malakas",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "TL_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "sing",
+                    "start": "0"
+                },
+                {
+                    "end": "4.09",
+                    "word": "swing",
+                    "start": "1.98"
+                },
+                {
+                    "end": "6.38",
+                    "word": "string",
+                    "start": "4.09"
+                },
+                {
+                    "end": "9.23",
+                    "word": "strong",
+                    "start": "6.38"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "umawit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "iduyan",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.268",
+                    "word": "tali",
+                    "start": "3.68"
+                },
+                {
+                    "end": "7.335",
+                    "word": "malakas",
+                    "start": "5.268"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "strong_malakas,sing_umawit,hang_isabit,swing_iduyan",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_NGX_hang_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "hang_isabit",
+            "trans_en": "strong_malakas,sing_umawit,hang_isabit,swing_iduyan",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "TL_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.84",
+                    "word": "strong",
+                    "start": "0"
+                },
+                {
+                    "end": "4.82",
+                    "word": "sing",
+                    "start": "2.84"
+                },
+                {
+                    "end": "6.88",
+                    "word": "hang",
+                    "start": "4.82"
+                },
+                {
+                    "end": "8.99",
+                    "word": "swing",
+                    "start": "6.88"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "malakas",
+                    "start": "0"
+                },
+                {
+                    "end": "3.824",
+                    "word": "umawit",
+                    "start": "2.068"
+                },
+                {
+                    "end": "5.556",
+                    "word": "isabit",
+                    "start": "3.824"
+                },
+                {
+                    "end": "7.479",
+                    "word": "iduyan",
+                    "start": "5.556"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "hang_isabit,spring_tagsibol,swing_iduyan,sing_umawit",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_NGX_sing_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sing_umawit",
+            "trans_en": "hang_isabit,spring_tagsibol,swing_iduyan,sing_umawit",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "TL_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "hang",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "spring",
+                    "start": "2.06"
+                },
+                {
+                    "end": "6.15",
+                    "word": "swing",
+                    "start": "4.04"
+                },
+                {
+                    "end": "8.13",
+                    "word": "sing",
+                    "start": "6.15"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "isabit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "tagsibol",
+                    "start": "1.732"
+                },
+                {
+                    "end": "5.604",
+                    "word": "iduyan",
+                    "start": "3.68"
+                },
+                {
+                    "end": "7.359",
+                    "word": "umawit",
+                    "start": "5.604"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_NGX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_NGX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"NG  ng\",\n        \"ES\": \"NG  ng\",\n        \"ZH\": \"NG  ng\",\n        \"VI\": \"NG  ng\",\n        \"AR\": \"NG  ng\",\n        \"KO\": \"NG  ng\",\n        \"DA\": \"NG  ng\",\n        \"PS\": \"NG  ng\",\n        \"TL\": \"NG  ng\",\n        \"BN\": \"NG  ng\",\n        \"PT\": \"NG  ng\",\n        \"HK\": \"NG  ng\",\n        \"TW\": \"NG  ng\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mar Anthony dela Cruz",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Isinulat at Nasalaysay ni:Cynthia Harrison Barbera",
+                "Isinalin sa pamamagitan ng:Mar Anthony dela Cruz",
+                "Isinalarawan sa pamamagitan ng:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_NGX"
+        }
+    ]
+}

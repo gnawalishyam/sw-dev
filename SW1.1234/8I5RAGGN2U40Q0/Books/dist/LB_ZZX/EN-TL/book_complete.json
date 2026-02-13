@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Z z",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "Z z",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Z z",
+            "en_trans": "z z_z z",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "z z_z z",
+            "trans_text": "Z z",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "3.26",
+                    "word": "z z",
+                    "start": "0"
+                },
+                {
+                    "end": "3.26",
+                    "word": "z z",
+                    "start": "3.26"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "z z",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "z z",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "ZZX_narr_Zz_p1.mp3",
+            "nar_audio_trans": "TL_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "z z",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "Z Z",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "zero",
+            "en_trans": "zero_sero",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_zero_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "sero_zero",
+            "trans_text": "sero",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.81",
+                    "word": "zero",
+                    "start": "0"
+                },
+                {
+                    "end": "1.81",
+                    "word": "zero",
+                    "start": "1.81"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.708",
+                    "word": "sero",
+                    "start": "0"
+                },
+                {
+                    "end": "3.42",
+                    "word": "sero",
+                    "start": "1.71"
+                }
+            ],
+            "nar_audio_en": "ZZX_narr_zero_p2.mp3",
+            "nar_audio_trans": "TL_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "sero",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "zero",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "zoo",
+            "en_trans": "zoo_zoo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_zoo_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "zoo_zoo",
+            "trans_text": "zoo",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.52",
+                    "word": "zoo",
+                    "start": "0"
+                },
+                {
+                    "end": "1.52",
+                    "word": "zoo",
+                    "start": "1.52"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.564",
+                    "word": "zoo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "zoo",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "ZZX_narr_zoo_p3.mp3",
+            "nar_audio_trans": "TL_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "zoo",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "zoo",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "zipper",
+            "en_trans": "zipper_siper",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_zipper_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "siper_zipper",
+            "trans_text": "siper",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.63",
+                    "word": "zipper",
+                    "start": "0"
+                },
+                {
+                    "end": "1.63",
+                    "word": "zipper",
+                    "start": "1.63"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "siper",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "siper",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "ZZX_narr_zipper_p4.mp3",
+            "nar_audio_trans": "TL_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "siper",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "zipper",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "zombie",
+            "en_trans": "zombie_zombie",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_zombie_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "zombie_zombie",
+            "trans_text": "zombie",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.81",
+                    "word": "zombie",
+                    "start": "0"
+                },
+                {
+                    "end": "1.81",
+                    "word": "zombie",
+                    "start": "1.81"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "zombie",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "zombie",
+                    "start": "1.78"
+                }
+            ],
+            "nar_audio_en": "ZZX_narr_zombie_p5.mp3",
+            "nar_audio_trans": "TL_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "zombie",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "zombie",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "zoom",
+            "en_trans": "zoom_kumaripas",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_zoom_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "kumaripas_zoom",
+            "trans_text": "kumaripas",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "zoom",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "zoom",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "kumaripas",
+                    "start": "0"
+                },
+                {
+                    "end": "4.0",
+                    "word": "kumaripas",
+                    "start": "2.0"
+                }
+            ],
+            "nar_audio_en": "ZZX_narr_zoom_p6.mp3",
+            "nar_audio_trans": "TL_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "kumaripas",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "zoom",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "zigzag",
+            "en_trans": "zigzag_zigzag",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_zig-zag_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "zigzag_zigzag",
+            "trans_text": "zigzag",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.76",
+                    "word": "zigzag",
+                    "start": "0"
+                },
+                {
+                    "end": "1.76",
+                    "word": "zigzag",
+                    "start": "1.76"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "zigzag",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "zigzag",
+                    "start": "1.9"
+                }
+            ],
+            "nar_audio_en": "ZZX_narr_zig-zag_p7.mp3",
+            "nar_audio_trans": "TL_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "zigzag",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "zigzag",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "zoom_kumaripas,zero_sero,zigzag_zigzag,zoo_zoo",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_ZZX_zig-zag_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "zigzag_zigzag",
+            "trans_en": "zoom_kumaripas,zero_sero,zigzag_zigzag,zoo_zoo",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "TL_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "zoom",
+                    "start": "0"
+                },
+                {
+                    "end": "3.5",
+                    "word": "zero",
+                    "start": "1.69"
+                },
+                {
+                    "end": "5.26",
+                    "word": "zigzag",
+                    "start": "3.5"
+                },
+                {
+                    "end": "6.78",
+                    "word": "zoo",
+                    "start": "5.26"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "kumaripas",
+                    "start": "0"
+                },
+                {
+                    "end": "3.704",
+                    "word": "sero",
+                    "start": "1.996"
+                },
+                {
+                    "end": "5.604",
+                    "word": "zigzag",
+                    "start": "3.704"
+                },
+                {
+                    "end": "7.168",
+                    "word": "zoo",
+                    "start": "5.604"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "zoo_zoo,zombie_zombie,zero_sero,zipper_siper",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_ZZX_zoo_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "zoo_zoo",
+            "trans_en": "zoo_zoo,zombie_zombie,zero_sero,zipper_siper",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "TL_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.52",
+                    "word": "zoo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "zombie",
+                    "start": "1.52"
+                },
+                {
+                    "end": "5.13",
+                    "word": "zero",
+                    "start": "3.32"
+                },
+                {
+                    "end": "6.76",
+                    "word": "zipper",
+                    "start": "5.13"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.564",
+                    "word": "zoo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.344",
+                    "word": "zombie",
+                    "start": "1.564"
+                },
+                {
+                    "end": "5.052",
+                    "word": "sero",
+                    "start": "3.344"
+                },
+                {
+                    "end": "6.904",
+                    "word": "siper",
+                    "start": "5.052"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "zoom_kumaripas,zombie_zombie,zero_sero,zigzag_zigzag",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_ZZX_zombie_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "zombie_zombie",
+            "trans_en": "zoom_kumaripas,zombie_zombie,zero_sero,zigzag_zigzag",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "TL_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "zoom",
+                    "start": "0"
+                },
+                {
+                    "end": "3.5",
+                    "word": "zombie",
+                    "start": "1.69"
+                },
+                {
+                    "end": "5.3",
+                    "word": "zero",
+                    "start": "3.5"
+                },
+                {
+                    "end": "7.07",
+                    "word": "zigzag",
+                    "start": "5.3"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "kumaripas",
+                    "start": "0"
+                },
+                {
+                    "end": "3.776",
+                    "word": "zombie",
+                    "start": "1.996"
+                },
+                {
+                    "end": "5.484",
+                    "word": "sero",
+                    "start": "3.776"
+                },
+                {
+                    "end": "7.383",
+                    "word": "zigzag",
+                    "start": "5.484"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "zombie_zombie,zoom_kumaripas,zigzag_zigzag,zipper_siper",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_ZZX_zipper_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "zipper_siper",
+            "trans_en": "zombie_zombie,zoom_kumaripas,zigzag_zigzag,zipper_siper",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "TL_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.81",
+                    "word": "zombie",
+                    "start": "0"
+                },
+                {
+                    "end": "3.5",
+                    "word": "zoom",
+                    "start": "1.81"
+                },
+                {
+                    "end": "5.26",
+                    "word": "zigzag",
+                    "start": "3.5"
+                },
+                {
+                    "end": "6.89",
+                    "word": "zipper",
+                    "start": "5.26"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "zombie",
+                    "start": "0"
+                },
+                {
+                    "end": "3.776",
+                    "word": "kumaripas",
+                    "start": "1.78"
+                },
+                {
+                    "end": "5.676",
+                    "word": "zigzag",
+                    "start": "3.776"
+                },
+                {
+                    "end": "7.527",
+                    "word": "siper",
+                    "start": "5.676"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "zigzag_zigzag,zoo_zoo,zipper_siper,zoom_kumaripas",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_ZZX_zoom_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "zoom_kumaripas",
+            "trans_en": "zigzag_zigzag,zoo_zoo,zipper_siper,zoom_kumaripas",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "TL_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.76",
+                    "word": "zigzag",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "zoo",
+                    "start": "1.76"
+                },
+                {
+                    "end": "4.91",
+                    "word": "zipper",
+                    "start": "3.28"
+                },
+                {
+                    "end": "6.6",
+                    "word": "zoom",
+                    "start": "4.91"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "zigzag",
+                    "start": "0"
+                },
+                {
+                    "end": "3.464",
+                    "word": "zoo",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.316",
+                    "word": "siper",
+                    "start": "3.464"
+                },
+                {
+                    "end": "7.311",
+                    "word": "kumaripas",
+                    "start": "5.316"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "zigzag_zigzag,zombie_zombie,zero_sero,zoo_zoo",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_ZZX_zero_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "zero_sero",
+            "trans_en": "zigzag_zigzag,zombie_zombie,zero_sero,zoo_zoo",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "TL_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.76",
+                    "word": "zigzag",
+                    "start": "0"
+                },
+                {
+                    "end": "3.57",
+                    "word": "zombie",
+                    "start": "1.76"
+                },
+                {
+                    "end": "5.38",
+                    "word": "zero",
+                    "start": "3.57"
+                },
+                {
+                    "end": "6.89",
+                    "word": "zoo",
+                    "start": "5.38"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "zigzag",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "zombie",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.388",
+                    "word": "sero",
+                    "start": "3.68"
+                },
+                {
+                    "end": "6.952",
+                    "word": "zoo",
+                    "start": "5.388"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ZZX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ZZX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Z z\",\n        \"ES\": \"Z z\",\n        \"ZH\": \"Z z\",\n        \"VI\": \"Z z\",\n        \"AR\": \"Z z\",\n        \"KO\": \"Z z\",\n        \"DA\": \"Z z\",\n        \"PS\": \"Z z\",\n        \"TL\": \"Z z\",\n        \"BN\": \"Z z\",\n        \"PT\": \"Z z\",\n        \"HK\": \"Z z\",\n        \"TW\": \"Z z\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mar Anthony dela Cruz",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Isinulat at Nasalaysay ni:Cynthia Harrison Barbera",
+                "Isinalin sa pamamagitan ng:Mar Anthony dela Cruz",
+                "Isinalarawan sa pamamagitan ng:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_ZZX"
+        }
+    ]
+}

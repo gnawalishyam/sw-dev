@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U e",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U e",
+            "en_trans": "u e_u e",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "u e_u e",
+            "trans_text": "U e",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "u e",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "u e",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "u e",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "u e",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_UE_p1.mp3",
+            "nar_audio_trans": "VI_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "u e",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "U e",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "glue",
+            "en_trans": "glue_keo dán",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_glue_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "keo dán_glue",
+            "trans_text": "keo dán",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "keo dán",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "keo dán",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_glue_p2.mp3",
+            "nar_audio_trans": "VI_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "keo dán",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "glue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "clue",
+            "en_trans": "clue_manh mối",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_clue_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "manh mối_clue",
+            "trans_text": "manh mối",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "clue",
+                    "start": "0"
+                },
+                {
+                    "end": "1.95",
+                    "word": "clue",
+                    "start": "1.95"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "manh mối",
+                    "start": "0"
+                },
+                {
+                    "end": "4.28",
+                    "word": "manh mối",
+                    "start": "2.14"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_clue_p3.mp3",
+            "nar_audio_trans": "VI_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "manh mối",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "clue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "true",
+            "en_trans": "true_đúng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_true_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "đúng_true",
+            "trans_text": "đúng",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.612",
+                    "word": "đúng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "đúng",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_true_p4.mp3",
+            "nar_audio_trans": "VI_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "đúng",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "true",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "blue",
+            "en_trans": "blue_màu xanh lam",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_blue_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "màu xanh lam_blue",
+            "trans_text": "màu xanh lam",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "blue",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "blue",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.236",
+                    "word": "màu xanh lam",
+                    "start": "0"
+                },
+                {
+                    "end": "4.48",
+                    "word": "màu xanh lam",
+                    "start": "2.24"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_blue_p5.mp3",
+            "nar_audio_trans": "VI_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "màu xanh lam",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "blue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "argue",
+            "en_trans": "argue_tranh cãi",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_argue_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tranh cãi_argue",
+            "trans_text": "tranh cãi",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.32",
+                    "word": "argue",
+                    "start": "0"
+                },
+                {
+                    "end": "2.32",
+                    "word": "argue",
+                    "start": "2.32"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.044",
+                    "word": "tranh cãi",
+                    "start": "0"
+                },
+                {
+                    "end": "4.08",
+                    "word": "tranh cãi",
+                    "start": "2.04"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_argue_p6.mp3",
+            "nar_audio_trans": "VI_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tranh cãi",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "argue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "rescue",
+            "en_trans": "rescue_giải cứu",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_rescue_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "giải cứu_rescue",
+            "trans_text": "giải cứu",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "rescue",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "rescue",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.02",
+                    "word": "giải cứu",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "giải cứu",
+                    "start": "2.02"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_rescue_p7.mp3",
+            "nar_audio_trans": "VI_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "giải cứu",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "rescue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "glue_keo dán,rescue_giải cứu,blue_màu xanh lam,clue_manh mối",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_rescue_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "rescue_giải cứu",
+            "trans_en": "glue_keo dán,rescue_giải cứu,blue_màu xanh lam,clue_manh mối",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "VI_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "0"
+                },
+                {
+                    "end": "4.12",
+                    "word": "rescue",
+                    "start": "2.11"
+                },
+                {
+                    "end": "5.97",
+                    "word": "blue",
+                    "start": "4.12"
+                },
+                {
+                    "end": "7.92",
+                    "word": "clue",
+                    "start": "5.97"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "keo dán",
+                    "start": "0"
+                },
+                {
+                    "end": "3.944",
+                    "word": "giải cứu",
+                    "start": "1.924"
+                },
+                {
+                    "end": "6.18",
+                    "word": "màu xanh lam",
+                    "start": "3.944"
+                },
+                {
+                    "end": "8.319",
+                    "word": "manh mối",
+                    "start": "6.18"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "true_đúng,glue_keo dán,rescue_giải cứu,argue_tranh cãi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_argue_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "argue_tranh cãi",
+            "trans_en": "true_đúng,glue_keo dán,rescue_giải cứu,argue_tranh cãi",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "VI_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "glue",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.2",
+                    "word": "rescue",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.52",
+                    "word": "argue",
+                    "start": "6.2"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.612",
+                    "word": "đúng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.536",
+                    "word": "keo dán",
+                    "start": "1.612"
+                },
+                {
+                    "end": "5.556",
+                    "word": "giải cứu",
+                    "start": "3.536"
+                },
+                {
+                    "end": "7.599",
+                    "word": "tranh cãi",
+                    "start": "5.556"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "clue_manh mối,argue_tranh cãi,glue_keo dán,blue_màu xanh lam",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_glue_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "glue_keo dán",
+            "trans_en": "clue_manh mối,argue_tranh cãi,glue_keo dán,blue_màu xanh lam",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "VI_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "clue",
+                    "start": "0"
+                },
+                {
+                    "end": "4.27",
+                    "word": "argue",
+                    "start": "1.95"
+                },
+                {
+                    "end": "6.38",
+                    "word": "glue",
+                    "start": "4.27"
+                },
+                {
+                    "end": "8.23",
+                    "word": "blue",
+                    "start": "6.38"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "manh mối",
+                    "start": "0"
+                },
+                {
+                    "end": "4.184",
+                    "word": "tranh cãi",
+                    "start": "2.14"
+                },
+                {
+                    "end": "6.108",
+                    "word": "keo dán",
+                    "start": "4.184"
+                },
+                {
+                    "end": "8.344",
+                    "word": "màu xanh lam",
+                    "start": "6.108"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "blue_màu xanh lam,argue_tranh cãi,true_đúng,rescue_giải cứu",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_true_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "true_đúng",
+            "trans_en": "blue_màu xanh lam,argue_tranh cãi,true_đúng,rescue_giải cứu",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "VI_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "blue",
+                    "start": "0"
+                },
+                {
+                    "end": "4.17",
+                    "word": "argue",
+                    "start": "1.85"
+                },
+                {
+                    "end": "6.25",
+                    "word": "true",
+                    "start": "4.17"
+                },
+                {
+                    "end": "8.26",
+                    "word": "rescue",
+                    "start": "6.25"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.236",
+                    "word": "màu xanh lam",
+                    "start": "0"
+                },
+                {
+                    "end": "4.28",
+                    "word": "tranh cãi",
+                    "start": "2.236"
+                },
+                {
+                    "end": "5.892",
+                    "word": "đúng",
+                    "start": "4.28"
+                },
+                {
+                    "end": "7.912",
+                    "word": "giải cứu",
+                    "start": "5.892"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "glue_keo dán,blue_màu xanh lam,clue_manh mối,true_đúng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_blue_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "blue_màu xanh lam",
+            "trans_en": "glue_keo dán,blue_màu xanh lam,clue_manh mối,true_đúng",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "VI_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "blue",
+                    "start": "2.11"
+                },
+                {
+                    "end": "5.91",
+                    "word": "clue",
+                    "start": "3.96"
+                },
+                {
+                    "end": "8.0",
+                    "word": "true",
+                    "start": "5.91"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "keo dán",
+                    "start": "0"
+                },
+                {
+                    "end": "4.16",
+                    "word": "màu xanh lam",
+                    "start": "1.924"
+                },
+                {
+                    "end": "6.3",
+                    "word": "manh mối",
+                    "start": "4.16"
+                },
+                {
+                    "end": "7.912",
+                    "word": "đúng",
+                    "start": "6.3"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "true_đúng,glue_keo dán,clue_manh mối,argue_tranh cãi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_clue_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "clue_manh mối",
+            "trans_en": "true_đúng,glue_keo dán,clue_manh mối,argue_tranh cãi",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "VI_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "glue",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.15",
+                    "word": "clue",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.47",
+                    "word": "argue",
+                    "start": "6.15"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.612",
+                    "word": "đúng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.536",
+                    "word": "keo dán",
+                    "start": "1.612"
+                },
+                {
+                    "end": "5.676",
+                    "word": "manh mối",
+                    "start": "3.536"
+                },
+                {
+                    "end": "7.72",
+                    "word": "tranh cãi",
+                    "start": "5.676"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Viết và thuật lại bởi:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Minh họa bởi:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_UEX"
+        }
+    ]
+}

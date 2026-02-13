@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O y",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O y",
+            "en_trans": "o y_o y",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "o y_o y",
+            "trans_text": "O y",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "o y",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "o y",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "o y",
+                    "start": "0"
+                },
+                {
+                    "end": "2.66",
+                    "word": "o y",
+                    "start": "1.33"
+                }
+            ],
+            "nar_audio_en": "OYX_narr_OY_p1.mp3",
+            "nar_audio_trans": "ES_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "o y",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "O y",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "toy",
+            "en_trans": "toy_juguete",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_toy_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "juguete_toy",
+            "trans_text": "juguete",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "toy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "toy",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "juguete",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "juguete",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "OYX_narr_toy_p2.mp3",
+            "nar_audio_trans": "ES_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "juguete",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "toy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "boy",
+            "en_trans": "boy_niño",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_boy_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "niño_boy",
+            "trans_text": "niño",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.29",
+                    "word": "boy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.29",
+                    "word": "boy",
+                    "start": "2.29"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "niño",
+                    "start": "0"
+                },
+                {
+                    "end": "2.96",
+                    "word": "niño",
+                    "start": "1.48"
+                }
+            ],
+            "nar_audio_en": "OYX_narr_boy_p3.mp3",
+            "nar_audio_trans": "ES_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "niño",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "boy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "joy",
+            "en_trans": "joy_alegría",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_joy_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "alegría_joy",
+            "trans_text": "alegría",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.19",
+                    "word": "joy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.19",
+                    "word": "joy",
+                    "start": "2.19"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "alegría",
+                    "start": "0"
+                },
+                {
+                    "end": "3.44",
+                    "word": "alegría",
+                    "start": "1.72"
+                }
+            ],
+            "nar_audio_en": "OYX_narr_joy_p4.mp3",
+            "nar_audio_trans": "ES_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "alegría",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "joy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cowboy",
+            "en_trans": "cowboy_vaquero",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_cowboy_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "vaquero_cowboy",
+            "trans_text": "vaquero",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "cowboy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "cowboy",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "vaquero",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "vaquero",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "OYX_narr_cowboy_p5.mp3",
+            "nar_audio_trans": "ES_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "vaquero",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cowboy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "destroy",
+            "en_trans": "destroy_destruir",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_destroy_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "destruir_destroy",
+            "trans_text": "destruir",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.35",
+                    "word": "destroy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.35",
+                    "word": "destroy",
+                    "start": "2.35"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.771",
+                    "word": "destruir",
+                    "start": "0"
+                },
+                {
+                    "end": "3.54",
+                    "word": "destruir",
+                    "start": "1.77"
+                }
+            ],
+            "nar_audio_en": "OYX_narr_destroy_p6.mp3",
+            "nar_audio_trans": "ES_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "destruir",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "destroy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "enjoy",
+            "en_trans": "enjoy_disfrutar",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_enjoy_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "disfrutar_enjoy",
+            "trans_text": "disfrutar",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.32",
+                    "word": "enjoy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.32",
+                    "word": "enjoy",
+                    "start": "2.32"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "disfrutar",
+                    "start": "0"
+                },
+                {
+                    "end": "3.49",
+                    "word": "disfrutar",
+                    "start": "1.74"
+                }
+            ],
+            "nar_audio_en": "OYX_narr_enjoy_p7.mp3",
+            "nar_audio_trans": "ES_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "disfrutar",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "enjoy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "boy_niño,enjoy_disfrutar,cowboy_vaquero,joy_alegría",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OYX_joy_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "joy_alegría",
+            "trans_en": "boy_niño,enjoy_disfrutar,cowboy_vaquero,joy_alegría",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ES_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.29",
+                    "word": "boy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.61",
+                    "word": "enjoy",
+                    "start": "2.29"
+                },
+                {
+                    "end": "6.72",
+                    "word": "cowboy",
+                    "start": "4.61"
+                },
+                {
+                    "end": "8.91",
+                    "word": "joy",
+                    "start": "6.72"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "niño",
+                    "start": "0"
+                },
+                {
+                    "end": "3.228",
+                    "word": "disfrutar",
+                    "start": "1.484"
+                },
+                {
+                    "end": "4.79",
+                    "word": "vaquero",
+                    "start": "3.228"
+                },
+                {
+                    "end": "6.509",
+                    "word": "alegría",
+                    "start": "4.79"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "enjoy_disfrutar,destroy_destruir,cowboy_vaquero,toy_juguete",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OYX_cowboy_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cowboy_vaquero",
+            "trans_en": "enjoy_disfrutar,destroy_destruir,cowboy_vaquero,toy_juguete",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ES_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.32",
+                    "word": "enjoy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.67",
+                    "word": "destroy",
+                    "start": "2.32"
+                },
+                {
+                    "end": "6.78",
+                    "word": "cowboy",
+                    "start": "4.67"
+                },
+                {
+                    "end": "8.86",
+                    "word": "toy",
+                    "start": "6.78"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "disfrutar",
+                    "start": "0"
+                },
+                {
+                    "end": "3.516",
+                    "word": "destruir",
+                    "start": "1.745"
+                },
+                {
+                    "end": "5.078",
+                    "word": "vaquero",
+                    "start": "3.516"
+                },
+                {
+                    "end": "6.718",
+                    "word": "juguete",
+                    "start": "5.078"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "toy_juguete,joy_alegría,enjoy_disfrutar,boy_niño",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OYX_toy_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "toy_juguete",
+            "trans_en": "toy_juguete,joy_alegría,enjoy_disfrutar,boy_niño",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ES_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "toy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.27",
+                    "word": "joy",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.59",
+                    "word": "enjoy",
+                    "start": "4.27"
+                },
+                {
+                    "end": "8.89",
+                    "word": "boy",
+                    "start": "6.59"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "juguete",
+                    "start": "0"
+                },
+                {
+                    "end": "3.359",
+                    "word": "alegría",
+                    "start": "1.64"
+                },
+                {
+                    "end": "5.104",
+                    "word": "disfrutar",
+                    "start": "3.359"
+                },
+                {
+                    "end": "6.587",
+                    "word": "niño",
+                    "start": "5.104"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cowboy_vaquero,boy_niño,toy_juguete,destroy_destruir",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OYX_boy_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "boy_niño",
+            "trans_en": "cowboy_vaquero,boy_niño,toy_juguete,destroy_destruir",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ES_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "cowboy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.4",
+                    "word": "boy",
+                    "start": "2.11"
+                },
+                {
+                    "end": "6.49",
+                    "word": "toy",
+                    "start": "4.4"
+                },
+                {
+                    "end": "8.83",
+                    "word": "destroy",
+                    "start": "6.49"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "vaquero",
+                    "start": "0"
+                },
+                {
+                    "end": "3.046",
+                    "word": "niño",
+                    "start": "1.562"
+                },
+                {
+                    "end": "4.686",
+                    "word": "juguete",
+                    "start": "3.046"
+                },
+                {
+                    "end": "6.457",
+                    "word": "destruir",
+                    "start": "4.686"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "enjoy_disfrutar,toy_juguete,joy_alegría,boy_niño",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OYX_enjoy_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "enjoy_disfrutar",
+            "trans_en": "enjoy_disfrutar,toy_juguete,joy_alegría,boy_niño",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ES_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.32",
+                    "word": "enjoy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.4",
+                    "word": "toy",
+                    "start": "2.32"
+                },
+                {
+                    "end": "6.59",
+                    "word": "joy",
+                    "start": "4.4"
+                },
+                {
+                    "end": "8.89",
+                    "word": "boy",
+                    "start": "6.59"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "disfrutar",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "juguete",
+                    "start": "1.745"
+                },
+                {
+                    "end": "5.104",
+                    "word": "alegría",
+                    "start": "3.385"
+                },
+                {
+                    "end": "6.587",
+                    "word": "niño",
+                    "start": "5.104"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "destroy_destruir,enjoy_disfrutar,joy_alegría,boy_niño",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OYX_destroy_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "destroy_destruir",
+            "trans_en": "destroy_destruir,enjoy_disfrutar,joy_alegría,boy_niño",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ES_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.35",
+                    "word": "destroy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.67",
+                    "word": "enjoy",
+                    "start": "2.35"
+                },
+                {
+                    "end": "6.85",
+                    "word": "joy",
+                    "start": "4.67"
+                },
+                {
+                    "end": "9.15",
+                    "word": "boy",
+                    "start": "6.85"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.771",
+                    "word": "destruir",
+                    "start": "0"
+                },
+                {
+                    "end": "3.516",
+                    "word": "disfrutar",
+                    "start": "1.771"
+                },
+                {
+                    "end": "5.234",
+                    "word": "alegría",
+                    "start": "3.516"
+                },
+                {
+                    "end": "6.718",
+                    "word": "niño",
+                    "start": "5.234"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OYX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"OY  oy\",\n        \"ES\": \"OY  oy\",\n        \"ZH\": \"OY  oy\",\n        \"VI\": \"OY  oy\",\n        \"AR\": \"OY  oy\",\n        \"KO\": \"OY  oy\",\n        \"DA\": \"OY  oy\",\n        \"PS\": \"OY  oy\",\n        \"TL\": \"OY  oy\",\n        \"BN\": \"OY  oy\",\n        \"PT\": \"OY  oy\",\n        \"HK\": \"OY  oy\",\n        \"TW\": \"OY  oy\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Luis Montiel & Mafe Pulido Duarte",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Escrito y narrado por:Cynthia Harrison Barbera",
+                "Traducido por:Luis Montiel & Mafe Pulido Duarte",
+                "Ilustrado por:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_OYX"
+        }
+    ]
+}

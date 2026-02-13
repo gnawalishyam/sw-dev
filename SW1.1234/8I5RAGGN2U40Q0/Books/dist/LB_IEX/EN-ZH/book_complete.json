@@ -1,0 +1,975 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "I e",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "I e",
+            "en_trans": "i e_i e_i e",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "i e_i e_i e",
+            "trans_text": "I e",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "i e",
+                    "start": "0"
+                },
+                {
+                    "end": "2.06",
+                    "word": "i e",
+                    "start": "2.06"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.405",
+                    "word": "i e",
+                    "start": "0"
+                },
+                {
+                    "end": "2.81",
+                    "word": "i e",
+                    "roman": "i e",
+                    "start": "1.41"
+                }
+            ],
+            "nar_audio_en": "IEX_narr_IE_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "i e",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "I e",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "chief",
+            "en_trans": "chief_长官_zhǎng guān",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_chief_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "长官_chief_zhǎng guān",
+            "trans_text": "长官",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "chief",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "chief",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "长官",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "长官",
+                    "roman": "zhǎng guān",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "IEX_narr_chief_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "长官",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "chief",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "piece",
+            "en_trans": "piece_片_piàn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_piece_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "片_piece_piàn",
+            "trans_text": "片",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "piece",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "piece",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.301",
+                    "word": "片",
+                    "start": "0"
+                },
+                {
+                    "end": "2.6",
+                    "word": "片",
+                    "roman": "piàn",
+                    "start": "1.3"
+                }
+            ],
+            "nar_audio_en": "IEX_narr_piece_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "片",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "piece",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "field",
+            "en_trans": "field_地_dì",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_field_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "地_field_dì",
+            "trans_text": "地",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "field",
+                    "start": "0"
+                },
+                {
+                    "end": "2.16",
+                    "word": "field",
+                    "start": "2.16"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "地",
+                    "start": "0"
+                },
+                {
+                    "end": "2.54",
+                    "word": "地",
+                    "roman": "dì",
+                    "start": "1.27"
+                }
+            ],
+            "nar_audio_en": "IEX_narr_field_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "地",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "field",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "shield",
+            "en_trans": "shield_盾_dùn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_shield_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "盾_shield_dùn",
+            "trans_text": "盾",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.19",
+                    "word": "shield",
+                    "start": "0"
+                },
+                {
+                    "end": "2.19",
+                    "word": "shield",
+                    "start": "2.19"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.301",
+                    "word": "盾",
+                    "start": "0"
+                },
+                {
+                    "end": "2.6",
+                    "word": "盾",
+                    "roman": "dùn",
+                    "start": "1.3"
+                }
+            ],
+            "nar_audio_en": "IEX_narr_shield_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "盾",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "shield",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "thief",
+            "en_trans": "thief_贼_zéi",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_thief_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "贼_thief_zéi",
+            "trans_text": "贼",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "thief",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "thief",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.353",
+                    "word": "贼",
+                    "start": "0"
+                },
+                {
+                    "end": "2.7",
+                    "word": "贼",
+                    "roman": "zéi",
+                    "start": "1.35"
+                }
+            ],
+            "nar_audio_en": "IEX_narr_thief_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "贼",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "thief",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "movie",
+            "en_trans": "movie_电影_diàn yǐng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_movie_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "电影_movie_diàn yǐng",
+            "trans_text": "电影",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "movie",
+                    "start": "0"
+                },
+                {
+                    "end": "1.77",
+                    "word": "movie",
+                    "start": "1.77"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "电影",
+                    "start": "0"
+                },
+                {
+                    "end": "3.02",
+                    "word": "电影",
+                    "roman": "diàn yǐng",
+                    "start": "1.51"
+                }
+            ],
+            "nar_audio_en": "IEX_narr_movie_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "电影",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "movie",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "field_地_dì,piece_片_piàn,chief_长官_zhǎng guān,movie_电影_diàn yǐng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IEX_piece_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "piece_片",
+            "trans_en": "field_地_field,piece_片_piece,chief_长官_chief,movie_电影_movie",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "field",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "piece",
+                    "start": "2.16"
+                },
+                {
+                    "end": "5.89",
+                    "word": "chief",
+                    "start": "4.01"
+                },
+                {
+                    "end": "7.66",
+                    "word": "movie",
+                    "start": "5.89"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "地",
+                    "roman": "dì",
+                    "start": "0"
+                },
+                {
+                    "end": "2.575",
+                    "word": "片",
+                    "roman": "piàn",
+                    "start": "1.275"
+                },
+                {
+                    "end": "4.216",
+                    "word": "长官",
+                    "roman": "zhǎng guān",
+                    "start": "2.575"
+                },
+                {
+                    "end": "5.725",
+                    "word": "电影",
+                    "roman": "diàn yǐng",
+                    "start": "4.216"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "movie_电影_diàn yǐng,field_地_dì,piece_片_piàn,chief_长官_zhǎng guān",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IEX_field_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "field_地",
+            "trans_en": "movie_电影_movie,field_地_field,piece_片_piece,chief_长官_chief",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "movie",
+                    "start": "0"
+                },
+                {
+                    "end": "3.93",
+                    "word": "field",
+                    "start": "1.77"
+                },
+                {
+                    "end": "5.78",
+                    "word": "piece",
+                    "start": "3.93"
+                },
+                {
+                    "end": "7.66",
+                    "word": "chief",
+                    "start": "5.78"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "电影",
+                    "roman": "diàn yǐng",
+                    "start": "0"
+                },
+                {
+                    "end": "2.784",
+                    "word": "地",
+                    "roman": "dì",
+                    "start": "1.51"
+                },
+                {
+                    "end": "4.085",
+                    "word": "片",
+                    "roman": "piàn",
+                    "start": "2.784"
+                },
+                {
+                    "end": "5.725",
+                    "word": "长官",
+                    "roman": "zhǎng guān",
+                    "start": "4.085"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "chief_长官_zhǎng guān,thief_贼_zéi,piece_片_piàn,movie_电影_diàn yǐng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IEX_thief_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "thief_贼",
+            "trans_en": "chief_长官_chief,thief_贼_thief,piece_片_piece,movie_电影_movie",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "chief",
+                    "start": "0"
+                },
+                {
+                    "end": "3.75",
+                    "word": "thief",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.6",
+                    "word": "piece",
+                    "start": "3.75"
+                },
+                {
+                    "end": "7.37",
+                    "word": "movie",
+                    "start": "5.6"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "长官",
+                    "roman": "zhǎng guān",
+                    "start": "0"
+                },
+                {
+                    "end": "2.993",
+                    "word": "贼",
+                    "roman": "zéi",
+                    "start": "1.64"
+                },
+                {
+                    "end": "4.294",
+                    "word": "片",
+                    "roman": "piàn",
+                    "start": "2.993"
+                },
+                {
+                    "end": "5.804",
+                    "word": "电影",
+                    "roman": "diàn yǐng",
+                    "start": "4.294"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "movie_电影_diàn yǐng,thief_贼_zéi,shield_盾_dùn,field_地_dì",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IEX_movie_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "movie_电影",
+            "trans_en": "movie_电影_movie,thief_贼_thief,shield_盾_shield,field_地_field",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "movie",
+                    "start": "0"
+                },
+                {
+                    "end": "3.65",
+                    "word": "thief",
+                    "start": "1.77"
+                },
+                {
+                    "end": "5.84",
+                    "word": "shield",
+                    "start": "3.65"
+                },
+                {
+                    "end": "8.0",
+                    "word": "field",
+                    "start": "5.84"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "电影",
+                    "roman": "diàn yǐng",
+                    "start": "0"
+                },
+                {
+                    "end": "2.863",
+                    "word": "贼",
+                    "roman": "zéi",
+                    "start": "1.51"
+                },
+                {
+                    "end": "4.163",
+                    "word": "盾",
+                    "roman": "dùn",
+                    "start": "2.863"
+                },
+                {
+                    "end": "5.438",
+                    "word": "地",
+                    "roman": "dì",
+                    "start": "4.163"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "field_地_dì,chief_长官_zhǎng guān,movie_电影_diàn yǐng,shield_盾_dùn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IEX_chief_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "chief_长官",
+            "trans_en": "field_地_field,chief_长官_chief,movie_电影_movie,shield_盾_shield",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "field",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "chief",
+                    "start": "2.16"
+                },
+                {
+                    "end": "5.81",
+                    "word": "movie",
+                    "start": "4.04"
+                },
+                {
+                    "end": "8.0",
+                    "word": "shield",
+                    "start": "5.81"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "地",
+                    "roman": "dì",
+                    "start": "0"
+                },
+                {
+                    "end": "2.915",
+                    "word": "长官",
+                    "roman": "zhǎng guān",
+                    "start": "1.275"
+                },
+                {
+                    "end": "4.425",
+                    "word": "电影",
+                    "roman": "diàn yǐng",
+                    "start": "2.915"
+                },
+                {
+                    "end": "5.725",
+                    "word": "盾",
+                    "roman": "dùn",
+                    "start": "4.425"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "thief_贼_zéi,shield_盾_dùn,chief_长官_zhǎng guān,movie_电影_diàn yǐng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IEX_shield_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "shield_盾",
+            "trans_en": "thief_贼_thief,shield_盾_shield,chief_长官_chief,movie_电影_movie",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "thief",
+                    "start": "0"
+                },
+                {
+                    "end": "4.06",
+                    "word": "shield",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.94",
+                    "word": "chief",
+                    "start": "4.06"
+                },
+                {
+                    "end": "7.71",
+                    "word": "movie",
+                    "start": "5.94"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.353",
+                    "word": "贼",
+                    "roman": "zéi",
+                    "start": "0"
+                },
+                {
+                    "end": "2.654",
+                    "word": "盾",
+                    "roman": "dùn",
+                    "start": "1.353"
+                },
+                {
+                    "end": "4.294",
+                    "word": "长官",
+                    "roman": "zhǎng guān",
+                    "start": "2.654"
+                },
+                {
+                    "end": "5.804",
+                    "word": "电影",
+                    "roman": "diàn yǐng",
+                    "start": "4.294"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IEX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"IE  ie\",\n        \"ES\": \"IE  ie\",\n        \"ZH\": \"IE  ie\",\n        \"VI\": \"IE  ie\",\n        \"AR\": \"IE  ie\",\n        \"KO\": \"IE  ie\",\n        \"DA\": \"IE  ie\",\n        \"PS\": \"IE  ie\",\n        \"TL\": \"IE  ie\",\n        \"BN\": \"IE  ie\",\n        \"PT\": \"IE  ie\",\n        \"HK\": \"IE  ie\",\n        \"TW\": \"IE  ie\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_IEX"
+        }
+    ]
+}

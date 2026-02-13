@@ -1,0 +1,975 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A a",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A a",
+            "en_trans": "a a_a a_a a",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "a a_a a_a a",
+            "trans_text": "A a",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.81",
+                    "word": "a a",
+                    "start": "0"
+                },
+                {
+                    "end": "2.81",
+                    "word": "a a",
+                    "start": "2.81"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "a a",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "a a",
+                    "roman": "a a",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "AAL_narr_Aa_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "a a",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "A A",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ace",
+            "en_trans": "ace_王牌_wáng pái",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_ace_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "王牌_ace_wáng pái",
+            "trans_text": "王牌",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.42",
+                    "word": "ace",
+                    "start": "0"
+                },
+                {
+                    "end": "1.42",
+                    "word": "ace",
+                    "start": "1.42"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "王牌",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "王牌",
+                    "roman": "wáng pái",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "AAL_narr_ace_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "王牌",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ace",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bake",
+            "en_trans": "bake_烤_kǎo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_bake_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "烤_bake_kǎo",
+            "trans_text": "烤",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "bake",
+                    "start": "0"
+                },
+                {
+                    "end": "1.54",
+                    "word": "bake",
+                    "start": "1.54"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "烤",
+                    "start": "0"
+                },
+                {
+                    "end": "2.66",
+                    "word": "烤",
+                    "roman": "kǎo",
+                    "start": "1.33"
+                }
+            ],
+            "nar_audio_en": "AAL_narr_bake_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "烤",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bake",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cake",
+            "en_trans": "cake_蛋糕_dàn gāo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_cake_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "蛋糕_cake_dàn gāo",
+            "trans_text": "蛋糕",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "cake",
+                    "start": "0"
+                },
+                {
+                    "end": "1.43",
+                    "word": "cake",
+                    "start": "1.43"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "蛋糕",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "蛋糕",
+                    "roman": "dàn gāo",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "AAL_narr_cake_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "蛋糕",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cake",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "lake",
+            "en_trans": "lake_湖_hú",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_lake_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "湖_lake_hú",
+            "trans_text": "湖",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.49",
+                    "word": "lake",
+                    "start": "0"
+                },
+                {
+                    "end": "1.49",
+                    "word": "lake",
+                    "start": "1.49"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.431",
+                    "word": "湖",
+                    "start": "0"
+                },
+                {
+                    "end": "2.86",
+                    "word": "湖",
+                    "roman": "hú",
+                    "start": "1.43"
+                }
+            ],
+            "nar_audio_en": "AAL_narr_lake_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "湖",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "lake",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "plane",
+            "en_trans": "plane_飞机_fēi jī",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_plane_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "飞机_plane_fēi jī",
+            "trans_text": "飞机",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.7",
+                    "word": "plane",
+                    "start": "0"
+                },
+                {
+                    "end": "1.7",
+                    "word": "plane",
+                    "start": "1.7"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "飞机",
+                    "start": "0"
+                },
+                {
+                    "end": "3.49",
+                    "word": "飞机",
+                    "roman": "fēi jī",
+                    "start": "1.74"
+                }
+            ],
+            "nar_audio_en": "AAL_narr_plane_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "飞机",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "plane",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "snake",
+            "en_trans": "snake_蛇_shé",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_snake_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "蛇_snake_shé",
+            "trans_text": "蛇",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "snake",
+                    "start": "0"
+                },
+                {
+                    "end": "1.66",
+                    "word": "snake",
+                    "start": "1.66"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "蛇",
+                    "start": "0"
+                },
+                {
+                    "end": "2.66",
+                    "word": "蛇",
+                    "roman": "shé",
+                    "start": "1.33"
+                }
+            ],
+            "nar_audio_en": "AAL_narr_snake_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "蛇",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "snake",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "snake_蛇_shé,plane_飞机_fēi jī,cake_蛋糕_dàn gāo,lake_湖_hú",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAL_cake_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cake_蛋糕",
+            "trans_en": "snake_蛇_snake,plane_飞机_plane,cake_蛋糕_cake,lake_湖_lake",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "snake",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "plane",
+                    "start": "1.66"
+                },
+                {
+                    "end": "4.79",
+                    "word": "cake",
+                    "start": "3.36"
+                },
+                {
+                    "end": "6.29",
+                    "word": "lake",
+                    "start": "4.79"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "蛇",
+                    "roman": "shé",
+                    "start": "0"
+                },
+                {
+                    "end": "3.072",
+                    "word": "飞机",
+                    "roman": "fēi jī",
+                    "start": "1.327"
+                },
+                {
+                    "end": "4.738",
+                    "word": "蛋糕",
+                    "roman": "dàn gāo",
+                    "start": "3.072"
+                },
+                {
+                    "end": "6.169",
+                    "word": "湖",
+                    "roman": "hú",
+                    "start": "4.738"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "lake_湖_hú,ace_王牌_wáng pái,bake_烤_kǎo,snake_蛇_shé",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAL_bake_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bake_烤",
+            "trans_en": "lake_湖_lake,ace_王牌_ace,bake_烤_bake,snake_蛇_snake",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.49",
+                    "word": "lake",
+                    "start": "0"
+                },
+                {
+                    "end": "2.91",
+                    "word": "ace",
+                    "start": "1.49"
+                },
+                {
+                    "end": "4.45",
+                    "word": "bake",
+                    "start": "2.91"
+                },
+                {
+                    "end": "6.11",
+                    "word": "snake",
+                    "start": "4.45"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.431",
+                    "word": "湖",
+                    "roman": "hú",
+                    "start": "0"
+                },
+                {
+                    "end": "3.098",
+                    "word": "王牌",
+                    "roman": "wáng pái",
+                    "start": "1.431"
+                },
+                {
+                    "end": "4.425",
+                    "word": "烤",
+                    "roman": "kǎo",
+                    "start": "3.098"
+                },
+                {
+                    "end": "5.751",
+                    "word": "蛇",
+                    "roman": "shé",
+                    "start": "4.425"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "plane_飞机_fēi jī,ace_王牌_wáng pái,bake_烤_kǎo,lake_湖_hú",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAL_plane_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "plane_飞机",
+            "trans_en": "plane_飞机_plane,ace_王牌_ace,bake_烤_bake,lake_湖_lake",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.7",
+                    "word": "plane",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "ace",
+                    "start": "1.7"
+                },
+                {
+                    "end": "4.66",
+                    "word": "bake",
+                    "start": "3.12"
+                },
+                {
+                    "end": "6.15",
+                    "word": "lake",
+                    "start": "4.66"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "飞机",
+                    "roman": "fēi jī",
+                    "start": "0"
+                },
+                {
+                    "end": "3.411",
+                    "word": "王牌",
+                    "roman": "wáng pái",
+                    "start": "1.745"
+                },
+                {
+                    "end": "4.738",
+                    "word": "烤",
+                    "roman": "kǎo",
+                    "start": "3.411"
+                },
+                {
+                    "end": "6.169",
+                    "word": "湖",
+                    "roman": "hú",
+                    "start": "4.738"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cake_蛋糕_dàn gāo,plane_飞机_fēi jī,snake_蛇_shé,lake_湖_hú",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAL_snake_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "snake_蛇",
+            "trans_en": "cake_蛋糕_cake,plane_飞机_plane,snake_蛇_snake,lake_湖_lake",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "cake",
+                    "start": "0"
+                },
+                {
+                    "end": "3.14",
+                    "word": "plane",
+                    "start": "1.43"
+                },
+                {
+                    "end": "4.79",
+                    "word": "snake",
+                    "start": "3.14"
+                },
+                {
+                    "end": "6.29",
+                    "word": "lake",
+                    "start": "4.79"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "蛋糕",
+                    "roman": "dàn gāo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.411",
+                    "word": "飞机",
+                    "roman": "fēi jī",
+                    "start": "1.666"
+                },
+                {
+                    "end": "4.738",
+                    "word": "蛇",
+                    "roman": "shé",
+                    "start": "3.411"
+                },
+                {
+                    "end": "6.169",
+                    "word": "湖",
+                    "roman": "hú",
+                    "start": "4.738"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "snake_蛇_shé,cake_蛋糕_dàn gāo,plane_飞机_fēi jī,lake_湖_hú",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAL_lake_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "lake_湖",
+            "trans_en": "snake_蛇_snake,cake_蛋糕_cake,plane_飞机_plane,lake_湖_lake",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "snake",
+                    "start": "0"
+                },
+                {
+                    "end": "3.09",
+                    "word": "cake",
+                    "start": "1.66"
+                },
+                {
+                    "end": "4.79",
+                    "word": "plane",
+                    "start": "3.09"
+                },
+                {
+                    "end": "6.29",
+                    "word": "lake",
+                    "start": "4.79"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "蛇",
+                    "roman": "shé",
+                    "start": "0"
+                },
+                {
+                    "end": "2.993",
+                    "word": "蛋糕",
+                    "roman": "dàn gāo",
+                    "start": "1.327"
+                },
+                {
+                    "end": "4.738",
+                    "word": "飞机",
+                    "roman": "fēi jī",
+                    "start": "2.993"
+                },
+                {
+                    "end": "6.169",
+                    "word": "湖",
+                    "roman": "hú",
+                    "start": "4.738"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cake_蛋糕_dàn gāo,snake_蛇_shé,bake_烤_kǎo,ace_王牌_wáng pái",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAL_ace_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ace_王牌",
+            "trans_en": "cake_蛋糕_cake,snake_蛇_snake,bake_烤_bake,ace_王牌_ace",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "cake",
+                    "start": "0"
+                },
+                {
+                    "end": "3.09",
+                    "word": "snake",
+                    "start": "1.43"
+                },
+                {
+                    "end": "4.63",
+                    "word": "bake",
+                    "start": "3.09"
+                },
+                {
+                    "end": "6.05",
+                    "word": "ace",
+                    "start": "4.63"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "蛋糕",
+                    "roman": "dàn gāo",
+                    "start": "0"
+                },
+                {
+                    "end": "2.993",
+                    "word": "蛇",
+                    "roman": "shé",
+                    "start": "1.666"
+                },
+                {
+                    "end": "4.32",
+                    "word": "烤",
+                    "roman": "kǎo",
+                    "start": "2.993"
+                },
+                {
+                    "end": "5.987",
+                    "word": "王牌",
+                    "roman": "wáng pái",
+                    "start": "4.32"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAL_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"A a  (long a)\",\n        \"ES\": \"A a  (long a)\",\n        \"ZH\": \"A a  (long a)\",\n        \"VI\": \"A a  (long a)\",\n        \"AR\": \"A a  (long a)\",\n        \"KO\": \"A a  (long a)\",\n        \"DA\": \"A a  (long a)\",\n        \"PS\": \"A a  (long a)\",\n        \"TL\": \"A a  (long a)\",\n        \"BN\": \"A a  (long a)\",\n        \"PT\": \"A a  (long a)\",\n        \"HK\": \"A a  (long a)\",\n        \"TW\": \"A a  (long a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_AAL"
+        }
+    ]
+}

@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Y i",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Y i",
+            "en_trans": "y i_y i",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "y i_y i",
+            "trans_text": "Y i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "y i",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "y i",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "y i",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "y i",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "YIX_narr_YI_p1.mp3",
+            "nar_audio_trans": "TL_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "y i",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "Y i",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cry",
+            "en_trans": "cry_umiyak",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_cry_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "umiyak_cry",
+            "trans_text": "umiyak",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.19",
+                    "word": "cry",
+                    "start": "0"
+                },
+                {
+                    "end": "2.19",
+                    "word": "cry",
+                    "start": "2.19"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "umiyak",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "umiyak",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "YIX_narr_cry_p2.mp3",
+            "nar_audio_trans": "TL_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "umiyak",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cry",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "dry",
+            "en_trans": "dry_tuyo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_dry_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tuyo_dry",
+            "trans_text": "tuyo",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "dry",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "dry",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "tuyo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "tuyo",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "YIX_narr_dry_p3.mp3",
+            "nar_audio_trans": "TL_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tuyo",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "dry",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "fry",
+            "en_trans": "fry_magprito",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_fry_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "magprito_fry",
+            "trans_text": "magprito",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "fry",
+                    "start": "0"
+                },
+                {
+                    "end": "2.14",
+                    "word": "fry",
+                    "start": "2.14"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "magprito",
+                    "start": "0"
+                },
+                {
+                    "end": "4.0",
+                    "word": "magprito",
+                    "start": "2.0"
+                }
+            ],
+            "nar_audio_en": "YIX_narr_fry_p4.mp3",
+            "nar_audio_trans": "TL_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "magprito",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "fry",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "shy",
+            "en_trans": "shy_mahiyain",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_shy_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "mahiyain_shy",
+            "trans_text": "mahiyain",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "shy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.06",
+                    "word": "shy",
+                    "start": "2.06"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "mahiyain",
+                    "start": "0"
+                },
+                {
+                    "end": "4.28",
+                    "word": "mahiyain",
+                    "start": "2.14"
+                }
+            ],
+            "nar_audio_en": "YIX_narr_shy_p5.mp3",
+            "nar_audio_trans": "TL_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "mahiyain",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "shy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sky",
+            "en_trans": "sky_langit",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_sky_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "langit_sky",
+            "trans_text": "langit",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "sky",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "sky",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.564",
+                    "word": "langit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "langit",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "YIX_narr_sky_p6.mp3",
+            "nar_audio_trans": "TL_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "langit",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sky",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "fly",
+            "en_trans": "fly_langaw",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_fly_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "langaw_fly",
+            "trans_text": "langaw",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "fly",
+                    "start": "0"
+                },
+                {
+                    "end": "1.82",
+                    "word": "fly",
+                    "start": "1.82"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "langaw",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "langaw",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "YIX_narr_fly_p7.mp3",
+            "nar_audio_trans": "TL_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "langaw",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "fly",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cry_umiyak,sky_langit,fry_magprito,dry_tuyo",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YIX_dry_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "dry_tuyo",
+            "trans_en": "cry_umiyak,sky_langit,fry_magprito,dry_tuyo",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "TL_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.19",
+                    "word": "cry",
+                    "start": "0"
+                },
+                {
+                    "end": "4.27",
+                    "word": "sky",
+                    "start": "2.19"
+                },
+                {
+                    "end": "6.41",
+                    "word": "fry",
+                    "start": "4.27"
+                },
+                {
+                    "end": "8.52",
+                    "word": "dry",
+                    "start": "6.41"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "umiyak",
+                    "start": "0"
+                },
+                {
+                    "end": "3.224",
+                    "word": "langit",
+                    "start": "1.66"
+                },
+                {
+                    "end": "5.22",
+                    "word": "magprito",
+                    "start": "3.224"
+                },
+                {
+                    "end": "6.76",
+                    "word": "tuyo",
+                    "start": "5.22"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "fly_langaw,shy_mahiyain,fry_magprito,sky_langit",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YIX_fry_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "fry_magprito",
+            "trans_en": "fly_langaw,shy_mahiyain,fry_magprito,sky_langit",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "TL_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "fly",
+                    "start": "0"
+                },
+                {
+                    "end": "3.88",
+                    "word": "shy",
+                    "start": "1.82"
+                },
+                {
+                    "end": "6.02",
+                    "word": "fry",
+                    "start": "3.88"
+                },
+                {
+                    "end": "8.1",
+                    "word": "sky",
+                    "start": "6.02"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "langaw",
+                    "start": "0"
+                },
+                {
+                    "end": "3.968",
+                    "word": "mahiyain",
+                    "start": "1.828"
+                },
+                {
+                    "end": "5.964",
+                    "word": "magprito",
+                    "start": "3.968"
+                },
+                {
+                    "end": "7.527",
+                    "word": "langit",
+                    "start": "5.964"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "shy_mahiyain,fry_magprito,fly_langaw,cry_umiyak",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YIX_fly_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "fly_langaw",
+            "trans_en": "shy_mahiyain,fry_magprito,fly_langaw,cry_umiyak",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "TL_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "shy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "fry",
+                    "start": "2.06"
+                },
+                {
+                    "end": "6.02",
+                    "word": "fly",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.21",
+                    "word": "cry",
+                    "start": "6.02"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "mahiyain",
+                    "start": "0"
+                },
+                {
+                    "end": "4.136",
+                    "word": "magprito",
+                    "start": "2.14"
+                },
+                {
+                    "end": "5.964",
+                    "word": "langaw",
+                    "start": "4.136"
+                },
+                {
+                    "end": "7.623",
+                    "word": "umiyak",
+                    "start": "5.964"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sky_langit,fly_langaw,cry_umiyak,fry_magprito",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YIX_sky_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sky_langit",
+            "trans_en": "sky_langit,fly_langaw,cry_umiyak,fry_magprito",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "TL_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "sky",
+                    "start": "0"
+                },
+                {
+                    "end": "3.91",
+                    "word": "fly",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.1",
+                    "word": "cry",
+                    "start": "3.91"
+                },
+                {
+                    "end": "8.23",
+                    "word": "fry",
+                    "start": "6.1"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.564",
+                    "word": "langit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.392",
+                    "word": "langaw",
+                    "start": "1.564"
+                },
+                {
+                    "end": "5.052",
+                    "word": "umiyak",
+                    "start": "3.392"
+                },
+                {
+                    "end": "7.048",
+                    "word": "magprito",
+                    "start": "5.052"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sky_langit,dry_tuyo,cry_umiyak,shy_mahiyain",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YIX_cry_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cry_umiyak",
+            "trans_en": "sky_langit,dry_tuyo,cry_umiyak,shy_mahiyain",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "TL_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "sky",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "dry",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.38",
+                    "word": "cry",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.44",
+                    "word": "shy",
+                    "start": "6.38"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.564",
+                    "word": "langit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.104",
+                    "word": "tuyo",
+                    "start": "1.564"
+                },
+                {
+                    "end": "4.764",
+                    "word": "umiyak",
+                    "start": "3.104"
+                },
+                {
+                    "end": "6.904",
+                    "word": "mahiyain",
+                    "start": "4.764"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "fry_magprito,shy_mahiyain,sky_langit,dry_tuyo",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YIX_shy_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "shy_mahiyain",
+            "trans_en": "fry_magprito,shy_mahiyain,sky_langit,dry_tuyo",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "TL_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "fry",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "shy",
+                    "start": "2.14"
+                },
+                {
+                    "end": "6.28",
+                    "word": "sky",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.39",
+                    "word": "dry",
+                    "start": "6.28"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "magprito",
+                    "start": "0"
+                },
+                {
+                    "end": "4.136",
+                    "word": "mahiyain",
+                    "start": "1.996"
+                },
+                {
+                    "end": "5.7",
+                    "word": "langit",
+                    "start": "4.136"
+                },
+                {
+                    "end": "7.239",
+                    "word": "tuyo",
+                    "start": "5.7"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YIX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ES\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"ZH\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"VI\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"AR\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"KO\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"DA\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PS\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TL\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"BN\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"PT\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"HK\": \"...Y  y  (long \\\"i\\\" sound)\",\n        \"TW\": \"...Y  y  (long \\\"i\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mar Anthony dela Cruz",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Isinulat at Nasalaysay ni:Cynthia Harrison Barbera",
+                "Isinalin sa pamamagitan ng:Mar Anthony dela Cruz",
+                "Isinalarawan sa pamamagitan ng:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_YIX"
+        }
+    ]
+}

@@ -1,0 +1,990 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O w",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "O w",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O w",
+            "en_trans": "o w_o w_o w",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "o w_o w_o w",
+            "trans_text": "O w",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.65",
+                    "word": "o w",
+                    "start": "0"
+                },
+                {
+                    "end": "1.65",
+                    "word": "o w",
+                    "start": "1.65"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.875",
+                    "word": "o w",
+                    "start": "0"
+                },
+                {
+                    "end": "3.75",
+                    "word": "o w",
+                    "roman": "o w",
+                    "start": "1.88"
+                }
+            ],
+            "nar_audio_en": "OWX_narr_OW_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "o w",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "O w",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "owl",
+            "en_trans": "owl_猫头鹰_māo tóu yīng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_owl_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "猫头鹰_owl_māo tóu yīng",
+            "trans_text": "猫头鹰",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "owl",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "owl",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.058",
+                    "word": "猫头鹰",
+                    "start": "0"
+                },
+                {
+                    "end": "4.12",
+                    "word": "猫头鹰",
+                    "roman": "māo tóu yīng",
+                    "start": "2.06"
+                }
+            ],
+            "nar_audio_en": "OWX_narr_owl_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "猫头鹰",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "owl",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "clown",
+            "en_trans": "clown_小丑_xiǎo chǒu",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_clown_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "小丑_clown_xiǎo chǒu",
+            "trans_text": "小丑",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "clown",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "clown",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.823",
+                    "word": "小丑",
+                    "start": "0"
+                },
+                {
+                    "end": "3.64",
+                    "word": "小丑",
+                    "roman": "xiǎo chǒu",
+                    "start": "1.82"
+                }
+            ],
+            "nar_audio_en": "OWX_narr_clown_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "小丑",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "clown",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "towel",
+            "en_trans": "towel_毛巾_máo jīn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_towel_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "毛巾_towel_máo jīn",
+            "trans_text": "毛巾",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "towel",
+                    "start": "0"
+                },
+                {
+                    "end": "1.8",
+                    "word": "towel",
+                    "start": "1.8"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.693",
+                    "word": "毛巾",
+                    "start": "0"
+                },
+                {
+                    "end": "3.38",
+                    "word": "毛巾",
+                    "roman": "máo jīn",
+                    "start": "1.69"
+                }
+            ],
+            "nar_audio_en": "OWX_narr_towel_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "毛巾",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "towel",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "crown",
+            "en_trans": "crown_王冠_wáng guàn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_crown_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "王冠_crown_wáng guàn",
+            "trans_text": "王冠",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.21",
+                    "word": "crown",
+                    "start": "0"
+                },
+                {
+                    "end": "2.21",
+                    "word": "crown",
+                    "start": "2.21"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "王冠",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "王冠",
+                    "roman": "wáng guàn",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "OWX_narr_crown_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "王冠",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "crown",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "frown",
+            "en_trans": "frown_皱眉_zhòu méi",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_frown_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "皱眉_frown_zhòu méi",
+            "trans_text": "皱眉",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.53",
+                    "word": "frown",
+                    "start": "0"
+                },
+                {
+                    "end": "2.53",
+                    "word": "frown",
+                    "start": "2.53"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "皱眉",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "皱眉",
+                    "roman": "zhòu méi",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "OWX_narr_frown_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "皱眉",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "frown",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "town",
+            "en_trans": "town_镇_zhèn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_town_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "镇_town_zhèn",
+            "trans_text": "镇",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "town",
+                    "start": "0"
+                },
+                {
+                    "end": "1.77",
+                    "word": "town",
+                    "start": "1.77"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "镇",
+                    "start": "0"
+                },
+                {
+                    "end": "2.54",
+                    "word": "镇",
+                    "roman": "zhèn",
+                    "start": "1.27"
+                }
+            ],
+            "nar_audio_en": "OWX_narr_town_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "镇",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "town",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "clown_小丑_xiǎo chǒu,owl_猫头鹰_māo tóu yīng,frown_皱眉_zhòu méi,crown_王冠_wáng guàn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWX_frown_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "frown_皱眉",
+            "trans_en": "clown_小丑_clown,owl_猫头鹰_owl,frown_皱眉_frown,crown_王冠_crown",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "clown",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "owl",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.49",
+                    "word": "frown",
+                    "start": "3.96"
+                },
+                {
+                    "end": "8.7",
+                    "word": "crown",
+                    "start": "6.49"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.823",
+                    "word": "小丑",
+                    "roman": "xiǎo chǒu",
+                    "start": "0"
+                },
+                {
+                    "end": "3.881",
+                    "word": "猫头鹰",
+                    "roman": "māo tóu yīng",
+                    "start": "1.823"
+                },
+                {
+                    "end": "5.443",
+                    "word": "皱眉",
+                    "roman": "zhòu méi",
+                    "start": "3.881"
+                },
+                {
+                    "end": "7.11",
+                    "word": "王冠",
+                    "roman": "wáng guàn",
+                    "start": "5.443"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "crown_王冠_wáng guàn,owl_猫头鹰_māo tóu yīng,frown_皱眉_zhòu méi,towel_毛巾_máo jīn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWX_owl_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "owl_猫头鹰",
+            "trans_en": "crown_王冠_crown,owl_猫头鹰_owl,frown_皱眉_frown,towel_毛巾_towel",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.21",
+                    "word": "crown",
+                    "start": "0"
+                },
+                {
+                    "end": "4.09",
+                    "word": "owl",
+                    "start": "2.21"
+                },
+                {
+                    "end": "6.62",
+                    "word": "frown",
+                    "start": "4.09"
+                },
+                {
+                    "end": "8.42",
+                    "word": "towel",
+                    "start": "6.62"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "王冠",
+                    "roman": "wáng guàn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.725",
+                    "word": "猫头鹰",
+                    "roman": "māo tóu yīng",
+                    "start": "1.666"
+                },
+                {
+                    "end": "5.287",
+                    "word": "皱眉",
+                    "roman": "zhòu méi",
+                    "start": "3.725"
+                },
+                {
+                    "end": "6.979",
+                    "word": "毛巾",
+                    "roman": "máo jīn",
+                    "start": "5.287"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "owl_猫头鹰_māo tóu yīng,town_镇_zhèn,clown_小丑_xiǎo chǒu,crown_王冠_wáng guàn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWX_crown_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "crown_王冠",
+            "trans_en": "owl_猫头鹰_owl,town_镇_town,clown_小丑_clown,crown_王冠_crown",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "owl",
+                    "start": "0"
+                },
+                {
+                    "end": "3.65",
+                    "word": "town",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.73",
+                    "word": "clown",
+                    "start": "3.65"
+                },
+                {
+                    "end": "7.95",
+                    "word": "crown",
+                    "start": "5.73"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.058",
+                    "word": "猫头鹰",
+                    "roman": "māo tóu yīng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.333",
+                    "word": "镇",
+                    "roman": "zhèn",
+                    "start": "2.058"
+                },
+                {
+                    "end": "5.156",
+                    "word": "小丑",
+                    "roman": "xiǎo chǒu",
+                    "start": "3.333"
+                },
+                {
+                    "end": "6.822",
+                    "word": "王冠",
+                    "roman": "wáng guàn",
+                    "start": "5.156"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "town_镇_zhèn,towel_毛巾_máo jīn,owl_猫头鹰_māo tóu yīng,clown_小丑_xiǎo chǒu",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWX_town_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "town_镇",
+            "trans_en": "town_镇_town,towel_毛巾_towel,owl_猫头鹰_owl,clown_小丑_clown",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "town",
+                    "start": "0"
+                },
+                {
+                    "end": "3.57",
+                    "word": "towel",
+                    "start": "1.77"
+                },
+                {
+                    "end": "5.44",
+                    "word": "owl",
+                    "start": "3.57"
+                },
+                {
+                    "end": "7.53",
+                    "word": "clown",
+                    "start": "5.44"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "镇",
+                    "roman": "zhèn",
+                    "start": "0"
+                },
+                {
+                    "end": "2.967",
+                    "word": "毛巾",
+                    "roman": "máo jīn",
+                    "start": "1.275"
+                },
+                {
+                    "end": "5.025",
+                    "word": "猫头鹰",
+                    "roman": "māo tóu yīng",
+                    "start": "2.967"
+                },
+                {
+                    "end": "6.849",
+                    "word": "小丑",
+                    "roman": "xiǎo chǒu",
+                    "start": "5.025"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "town_镇_zhèn,towel_毛巾_máo jīn,frown_皱眉_zhòu méi,owl_猫头鹰_māo tóu yīng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWX_towel_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "towel_毛巾",
+            "trans_en": "town_镇_town,towel_毛巾_towel,frown_皱眉_frown,owl_猫头鹰_owl",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "town",
+                    "start": "0"
+                },
+                {
+                    "end": "3.57",
+                    "word": "towel",
+                    "start": "1.77"
+                },
+                {
+                    "end": "6.1",
+                    "word": "frown",
+                    "start": "3.57"
+                },
+                {
+                    "end": "7.97",
+                    "word": "owl",
+                    "start": "6.1"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "镇",
+                    "roman": "zhèn",
+                    "start": "0"
+                },
+                {
+                    "end": "2.967",
+                    "word": "毛巾",
+                    "roman": "máo jīn",
+                    "start": "1.275"
+                },
+                {
+                    "end": "4.529",
+                    "word": "皱眉",
+                    "roman": "zhòu méi",
+                    "start": "2.967"
+                },
+                {
+                    "end": "6.587",
+                    "word": "猫头鹰",
+                    "roman": "māo tóu yīng",
+                    "start": "4.529"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "owl_猫头鹰_māo tóu yīng,town_镇_zhèn,towel_毛巾_máo jīn,clown_小丑_xiǎo chǒu",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWX_clown_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "clown_小丑",
+            "trans_en": "owl_猫头鹰_owl,town_镇_town,towel_毛巾_towel,clown_小丑_clown",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "owl",
+                    "start": "0"
+                },
+                {
+                    "end": "3.65",
+                    "word": "town",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.44",
+                    "word": "towel",
+                    "start": "3.65"
+                },
+                {
+                    "end": "7.53",
+                    "word": "clown",
+                    "start": "5.44"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.058",
+                    "word": "猫头鹰",
+                    "roman": "māo tóu yīng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.333",
+                    "word": "镇",
+                    "roman": "zhèn",
+                    "start": "2.058"
+                },
+                {
+                    "end": "5.025",
+                    "word": "毛巾",
+                    "roman": "máo jīn",
+                    "start": "3.333"
+                },
+                {
+                    "end": "6.849",
+                    "word": "小丑",
+                    "roman": "xiǎo chǒu",
+                    "start": "5.025"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow\",\n        \"ES\": \"OW  ow\",\n        \"ZH\": \"OW  ow\",\n        \"VI\": \"OW  ow\",\n        \"AR\": \"OW  ow\",\n        \"KO\": \"OW  ow\",\n        \"DA\": \"OW  ow\",\n        \"PS\": \"OW  ow\",\n        \"TL\": \"OW  ow\",\n        \"BN\": \"OW  ow\",\n        \"PT\": \"OW  ow\",\n        \"HK\": \"OW  ow\",\n        \"TW\": \"OW  ow\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_OWX"
+        }
+    ]
+}

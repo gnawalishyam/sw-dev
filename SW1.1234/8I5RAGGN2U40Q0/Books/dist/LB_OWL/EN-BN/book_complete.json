@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O w",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "O w",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O w",
+            "en_trans": "o w_o w",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "o w_o w",
+            "trans_text": "O w",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "o w",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "o w",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.116",
+                    "word": "o w",
+                    "start": "0"
+                },
+                {
+                    "end": "4.24",
+                    "word": "o w",
+                    "start": "2.12"
+                }
+            ],
+            "nar_audio_en": "OWL_narr_OWL_p1.mp3",
+            "nar_audio_trans": "BN_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "o w",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "O w",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "blow",
+            "en_trans": "blow_নাক ঝাড়া",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_blow_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "নাক ঝাড়া_blow",
+            "trans_text": "নাক ঝাড়া",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "blow",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "blow",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.116",
+                    "word": "নাক ঝাড়া",
+                    "start": "0"
+                },
+                {
+                    "end": "4.24",
+                    "word": "নাক ঝাড়া",
+                    "start": "2.12"
+                }
+            ],
+            "nar_audio_en": "OWL_narr_blow_p2.mp3",
+            "nar_audio_trans": "BN_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "নাক ঝাড়া",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "blow",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "grow",
+            "en_trans": "grow_ফলানো",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_grow_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ফলানো_grow",
+            "trans_text": "ফলানো",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "grow",
+                    "start": "0"
+                },
+                {
+                    "end": "2.16",
+                    "word": "grow",
+                    "start": "2.16"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "ফলানো",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "ফলানো",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "OWL_narr_grow_p3.mp3",
+            "nar_audio_trans": "BN_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ফলানো",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "grow",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "snow",
+            "en_trans": "snow_তুষার",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_snow_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "তুষার_snow",
+            "trans_text": "তুষার",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "snow",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "snow",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "তুষার",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "তুষার",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "OWL_narr_snow_p4.mp3",
+            "nar_audio_trans": "BN_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "তুষার",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "snow",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bowl",
+            "en_trans": "bowl_বাটি",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_bowl_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "বাটি_bowl",
+            "trans_text": "বাটি",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "bowl",
+                    "start": "0"
+                },
+                {
+                    "end": "2.24",
+                    "word": "bowl",
+                    "start": "2.24"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "বাটি",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "বাটি",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "OWL_narr_bowl_p5.mp3",
+            "nar_audio_trans": "BN_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "বাটি",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bowl",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "throw",
+            "en_trans": "throw_নিক্ষেপ করা",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_throw_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "নিক্ষেপ করা_throw",
+            "trans_text": "নিক্ষেপ করা",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "throw",
+                    "start": "0"
+                },
+                {
+                    "end": "2.14",
+                    "word": "throw",
+                    "start": "2.14"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.284",
+                    "word": "নিক্ষেপ করা",
+                    "start": "0"
+                },
+                {
+                    "end": "4.56",
+                    "word": "নিক্ষেপ করা",
+                    "start": "2.28"
+                }
+            ],
+            "nar_audio_en": "OWL_narr_throw_p6.mp3",
+            "nar_audio_trans": "BN_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "নিক্ষেপ করা",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "throw",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "arrow",
+            "en_trans": "arrow_তীর",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_arrow_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "তীর_arrow",
+            "trans_text": "তীর",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.72",
+                    "word": "arrow",
+                    "start": "0"
+                },
+                {
+                    "end": "1.72",
+                    "word": "arrow",
+                    "start": "1.72"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.42",
+                    "word": "তীর",
+                    "start": "0"
+                },
+                {
+                    "end": "2.84",
+                    "word": "তীর",
+                    "start": "1.42"
+                }
+            ],
+            "nar_audio_en": "OWL_narr_arrow_p7.mp3",
+            "nar_audio_trans": "BN_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "তীর",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "arrow",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "blow_নাক ঝাড়া,arrow_তীর,throw_নিক্ষেপ করা,bowl_বাটি",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWL_arrow_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "arrow_তীর",
+            "trans_en": "blow_নাক ঝাড়া,arrow_তীর,throw_নিক্ষেপ করা,bowl_বাটি",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "BN_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "blow",
+                    "start": "0"
+                },
+                {
+                    "end": "3.59",
+                    "word": "arrow",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.73",
+                    "word": "throw",
+                    "start": "3.59"
+                },
+                {
+                    "end": "7.97",
+                    "word": "bowl",
+                    "start": "5.73"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.116",
+                    "word": "নাক ঝাড়া",
+                    "start": "0"
+                },
+                {
+                    "end": "3.536",
+                    "word": "তীর",
+                    "start": "2.116"
+                },
+                {
+                    "end": "5.82",
+                    "word": "নিক্ষেপ করা",
+                    "start": "3.536"
+                },
+                {
+                    "end": "7.575",
+                    "word": "বাটি",
+                    "start": "5.82"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bowl_বাটি,throw_নিক্ষেপ করা,grow_ফলানো,arrow_তীর",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWL_grow_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "grow_ফলানো",
+            "trans_en": "bowl_বাটি,throw_নিক্ষেপ করা,grow_ফলানো,arrow_তীর",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "BN_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "bowl",
+                    "start": "0"
+                },
+                {
+                    "end": "4.38",
+                    "word": "throw",
+                    "start": "2.24"
+                },
+                {
+                    "end": "6.54",
+                    "word": "grow",
+                    "start": "4.38"
+                },
+                {
+                    "end": "8.26",
+                    "word": "arrow",
+                    "start": "6.54"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "বাটি",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "নিক্ষেপ করা",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.892",
+                    "word": "ফলানো",
+                    "start": "4.04"
+                },
+                {
+                    "end": "7.311",
+                    "word": "তীর",
+                    "start": "5.892"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "grow_ফলানো,bowl_বাটি,arrow_তীর,throw_নিক্ষেপ করা",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWL_bowl_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bowl_বাটি",
+            "trans_en": "grow_ফলানো,bowl_বাটি,arrow_তীর,throw_নিক্ষেপ করা",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "BN_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "grow",
+                    "start": "0"
+                },
+                {
+                    "end": "4.4",
+                    "word": "bowl",
+                    "start": "2.16"
+                },
+                {
+                    "end": "6.12",
+                    "word": "arrow",
+                    "start": "4.4"
+                },
+                {
+                    "end": "8.26",
+                    "word": "throw",
+                    "start": "6.12"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "ফলানো",
+                    "start": "0"
+                },
+                {
+                    "end": "3.608",
+                    "word": "বাটি",
+                    "start": "1.852"
+                },
+                {
+                    "end": "5.028",
+                    "word": "তীর",
+                    "start": "3.608"
+                },
+                {
+                    "end": "7.311",
+                    "word": "নিক্ষেপ করা",
+                    "start": "5.028"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "snow_তুষার,blow_নাক ঝাড়া,grow_ফলানো,bowl_বাটি",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWL_blow_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "blow_নাক ঝাড়া",
+            "trans_en": "snow_তুষার,blow_নাক ঝাড়া,grow_ফলানো,bowl_বাটি",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "BN_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "snow",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "blow",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.12",
+                    "word": "grow",
+                    "start": "3.96"
+                },
+                {
+                    "end": "8.36",
+                    "word": "bowl",
+                    "start": "6.12"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "তুষার",
+                    "start": "0"
+                },
+                {
+                    "end": "3.872",
+                    "word": "নাক ঝাড়া",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.724",
+                    "word": "ফলানো",
+                    "start": "3.872"
+                },
+                {
+                    "end": "7.479",
+                    "word": "বাটি",
+                    "start": "5.724"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "throw_নিক্ষেপ করা,blow_নাক ঝাড়া,snow_তুষার,grow_ফলানো",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWL_throw_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "throw_নিক্ষেপ করা",
+            "trans_en": "throw_নিক্ষেপ করা,blow_নাক ঝাড়া,snow_তুষার,grow_ফলানো",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "BN_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "throw",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "blow",
+                    "start": "2.14"
+                },
+                {
+                    "end": "6.1",
+                    "word": "snow",
+                    "start": "4.01"
+                },
+                {
+                    "end": "8.26",
+                    "word": "grow",
+                    "start": "6.1"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.284",
+                    "word": "নিক্ষেপ করা",
+                    "start": "0"
+                },
+                {
+                    "end": "4.4",
+                    "word": "নাক ঝাড়া",
+                    "start": "2.284"
+                },
+                {
+                    "end": "6.156",
+                    "word": "তুষার",
+                    "start": "4.4"
+                },
+                {
+                    "end": "8.008",
+                    "word": "ফলানো",
+                    "start": "6.156"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "blow_নাক ঝাড়া,bowl_বাটি,snow_তুষার,arrow_তীর",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OWL_snow_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "snow_তুষার",
+            "trans_en": "blow_নাক ঝাড়া,bowl_বাটি,snow_তুষার,arrow_তীর",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "BN_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "blow",
+                    "start": "0"
+                },
+                {
+                    "end": "4.12",
+                    "word": "bowl",
+                    "start": "1.88"
+                },
+                {
+                    "end": "6.2",
+                    "word": "snow",
+                    "start": "4.12"
+                },
+                {
+                    "end": "7.92",
+                    "word": "arrow",
+                    "start": "6.2"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.116",
+                    "word": "নাক ঝাড়া",
+                    "start": "0"
+                },
+                {
+                    "end": "3.872",
+                    "word": "বাটি",
+                    "start": "2.116"
+                },
+                {
+                    "end": "5.628",
+                    "word": "তুষার",
+                    "start": "3.872"
+                },
+                {
+                    "end": "7.048",
+                    "word": "তীর",
+                    "start": "5.628"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OWL_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OWL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ES\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"ZH\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"VI\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"AR\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"KO\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"DA\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PS\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TL\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"BN\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"PT\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"HK\": \"OW  ow (long \\\"o\\\" sound)\",\n        \"TW\": \"OW  ow (long \\\"o\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mansura Akter",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "লিখিত এবং দ্বারা বর্ণিত:Cynthia Harrison Barbera",
+                "অনুবাদিত:Mansura Akter",
+                "দ্বারা চিত্রিত:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_OWL"
+        }
+    ]
+}

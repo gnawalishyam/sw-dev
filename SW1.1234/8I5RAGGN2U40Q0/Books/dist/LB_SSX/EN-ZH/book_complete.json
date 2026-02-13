@@ -1,0 +1,975 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "S s",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "S s",
+            "en_trans": "s s_s s_s s",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "s s_s s_s s",
+            "trans_text": "S s",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "3.32",
+                    "word": "s s",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "s s",
+                    "start": "3.32"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.771",
+                    "word": "s s",
+                    "start": "0"
+                },
+                {
+                    "end": "3.54",
+                    "word": "s s",
+                    "roman": "s s",
+                    "start": "1.77"
+                }
+            ],
+            "nar_audio_en": "SSX_narr_Ss_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "s s",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "S S",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "stop",
+            "en_trans": "stop_停_tíng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_stop_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "停_stop_tíng",
+            "trans_text": "停",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.04",
+                    "word": "stop",
+                    "start": "0"
+                },
+                {
+                    "end": "2.04",
+                    "word": "stop",
+                    "start": "2.04"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.379",
+                    "word": "停",
+                    "start": "0"
+                },
+                {
+                    "end": "2.76",
+                    "word": "停",
+                    "roman": "tíng",
+                    "start": "1.38"
+                }
+            ],
+            "nar_audio_en": "SSX_narr_stop_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "停",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "stop",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "smile",
+            "en_trans": "smile_微笑_wēi xiào",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_smile_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "微笑_smile_wēi xiào",
+            "trans_text": "微笑",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.92",
+                    "word": "smile",
+                    "start": "0"
+                },
+                {
+                    "end": "1.92",
+                    "word": "smile",
+                    "start": "1.92"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "微笑",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "微笑",
+                    "roman": "wēi xiào",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "SSX_narr_smile_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "微笑",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "smile",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "stick",
+            "en_trans": "stick_枝条_zhī tiáo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_stick_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "枝条_stick_zhī tiáo",
+            "trans_text": "枝条",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "stick",
+                    "start": "0"
+                },
+                {
+                    "end": "1.75",
+                    "word": "stick",
+                    "start": "1.75"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "枝条",
+                    "start": "0"
+                },
+                {
+                    "end": "3.44",
+                    "word": "枝条",
+                    "roman": "zhī tiáo",
+                    "start": "1.72"
+                }
+            ],
+            "nar_audio_en": "SSX_narr_stick_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "枝条",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "stick",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "soup",
+            "en_trans": "soup_汤_tāng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_soup_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "汤_soup_tāng",
+            "trans_text": "汤",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.63",
+                    "word": "soup",
+                    "start": "0"
+                },
+                {
+                    "end": "1.63",
+                    "word": "soup",
+                    "start": "1.63"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "汤",
+                    "start": "0"
+                },
+                {
+                    "end": "2.54",
+                    "word": "汤",
+                    "roman": "tāng",
+                    "start": "1.27"
+                }
+            ],
+            "nar_audio_en": "SSX_narr_soup_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "汤",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "soup",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sock",
+            "en_trans": "sock_短袜_duǎn wà",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_sock_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "短袜_sock_duǎn wà",
+            "trans_text": "短袜",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.87",
+                    "word": "sock",
+                    "start": "0"
+                },
+                {
+                    "end": "1.87",
+                    "word": "sock",
+                    "start": "1.87"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "短袜",
+                    "start": "0"
+                },
+                {
+                    "end": "2.96",
+                    "word": "短袜",
+                    "roman": "duǎn wà",
+                    "start": "1.48"
+                }
+            ],
+            "nar_audio_en": "SSX_narr_sock_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "短袜",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sock",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "star",
+            "en_trans": "star_星星_xīng xing",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_star_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "星星_star_xīng xing",
+            "trans_text": "星星",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.81",
+                    "word": "star",
+                    "start": "0"
+                },
+                {
+                    "end": "1.81",
+                    "word": "star",
+                    "start": "1.81"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "星星",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "星星",
+                    "roman": "xīng xing",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "SSX_narr_star_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "星星",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "star",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "soup_汤_tāng,stick_枝条_zhī tiáo,star_星星_xīng xing,sock_短袜_duǎn wà",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SSX_soup_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "soup_汤",
+            "trans_en": "soup_汤_soup,stick_枝条_stick,star_星星_star,sock_短袜_sock",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.63",
+                    "word": "soup",
+                    "start": "0"
+                },
+                {
+                    "end": "3.38",
+                    "word": "stick",
+                    "start": "1.63"
+                },
+                {
+                    "end": "5.19",
+                    "word": "star",
+                    "start": "3.38"
+                },
+                {
+                    "end": "7.05",
+                    "word": "sock",
+                    "start": "5.19"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.275",
+                    "word": "汤",
+                    "roman": "tāng",
+                    "start": "0"
+                },
+                {
+                    "end": "2.993",
+                    "word": "枝条",
+                    "roman": "zhī tiáo",
+                    "start": "1.275"
+                },
+                {
+                    "end": "4.66",
+                    "word": "星星",
+                    "roman": "xīng xing",
+                    "start": "2.993"
+                },
+                {
+                    "end": "6.143",
+                    "word": "短袜",
+                    "roman": "duǎn wà",
+                    "start": "4.66"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "stop_停_tíng,soup_汤_tāng,stick_枝条_zhī tiáo,sock_短袜_duǎn wà",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SSX_sock_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sock_短袜",
+            "trans_en": "stop_停_stop,soup_汤_soup,stick_枝条_stick,sock_短袜_sock",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.04",
+                    "word": "stop",
+                    "start": "0"
+                },
+                {
+                    "end": "3.67",
+                    "word": "soup",
+                    "start": "2.04"
+                },
+                {
+                    "end": "5.42",
+                    "word": "stick",
+                    "start": "3.67"
+                },
+                {
+                    "end": "7.29",
+                    "word": "sock",
+                    "start": "5.42"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.379",
+                    "word": "停",
+                    "roman": "tíng",
+                    "start": "0"
+                },
+                {
+                    "end": "2.654",
+                    "word": "汤",
+                    "roman": "tāng",
+                    "start": "1.379"
+                },
+                {
+                    "end": "4.372",
+                    "word": "枝条",
+                    "roman": "zhī tiáo",
+                    "start": "2.654"
+                },
+                {
+                    "end": "5.856",
+                    "word": "短袜",
+                    "roman": "duǎn wà",
+                    "start": "4.372"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "stick_枝条_zhī tiáo,soup_汤_tāng,stop_停_tíng,smile_微笑_wēi xiào",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SSX_stick_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "stick_枝条",
+            "trans_en": "stick_枝条_stick,soup_汤_soup,stop_停_stop,smile_微笑_smile",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "stick",
+                    "start": "0"
+                },
+                {
+                    "end": "3.38",
+                    "word": "soup",
+                    "start": "1.75"
+                },
+                {
+                    "end": "5.42",
+                    "word": "stop",
+                    "start": "3.38"
+                },
+                {
+                    "end": "7.34",
+                    "word": "smile",
+                    "start": "5.42"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "枝条",
+                    "roman": "zhī tiáo",
+                    "start": "0"
+                },
+                {
+                    "end": "2.993",
+                    "word": "汤",
+                    "roman": "tāng",
+                    "start": "1.719"
+                },
+                {
+                    "end": "4.372",
+                    "word": "停",
+                    "roman": "tíng",
+                    "start": "2.993"
+                },
+                {
+                    "end": "5.987",
+                    "word": "微笑",
+                    "roman": "wēi xiào",
+                    "start": "4.372"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "stop_停_tíng,star_星星_xīng xing,soup_汤_tāng,smile_微笑_wēi xiào",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SSX_stop_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "stop_停",
+            "trans_en": "stop_停_stop,star_星星_star,soup_汤_soup,smile_微笑_smile",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.04",
+                    "word": "stop",
+                    "start": "0"
+                },
+                {
+                    "end": "3.85",
+                    "word": "star",
+                    "start": "2.04"
+                },
+                {
+                    "end": "5.48",
+                    "word": "soup",
+                    "start": "3.85"
+                },
+                {
+                    "end": "7.4",
+                    "word": "smile",
+                    "start": "5.48"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.379",
+                    "word": "停",
+                    "roman": "tíng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.046",
+                    "word": "星星",
+                    "roman": "xīng xing",
+                    "start": "1.379"
+                },
+                {
+                    "end": "4.32",
+                    "word": "汤",
+                    "roman": "tāng",
+                    "start": "3.046"
+                },
+                {
+                    "end": "5.934",
+                    "word": "微笑",
+                    "roman": "wēi xiào",
+                    "start": "4.32"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "stick_枝条_zhī tiáo,star_星星_xīng xing,sock_短袜_duǎn wà,smile_微笑_wēi xiào",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SSX_smile_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "smile_微笑",
+            "trans_en": "stick_枝条_stick,star_星星_star,sock_短袜_sock,smile_微笑_smile",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "stick",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "star",
+                    "start": "1.75"
+                },
+                {
+                    "end": "5.42",
+                    "word": "sock",
+                    "start": "3.56"
+                },
+                {
+                    "end": "7.34",
+                    "word": "smile",
+                    "start": "5.42"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "枝条",
+                    "roman": "zhī tiáo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "星星",
+                    "roman": "xīng xing",
+                    "start": "1.719"
+                },
+                {
+                    "end": "4.869",
+                    "word": "短袜",
+                    "roman": "duǎn wà",
+                    "start": "3.385"
+                },
+                {
+                    "end": "6.483",
+                    "word": "微笑",
+                    "roman": "wēi xiào",
+                    "start": "4.869"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "star_星星_xīng xing,stick_枝条_zhī tiáo,soup_汤_tāng,sock_短袜_duǎn wà",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SSX_star_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "star_星星",
+            "trans_en": "star_星星_star,stick_枝条_stick,soup_汤_soup,sock_短袜_sock",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.81",
+                    "word": "star",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "stick",
+                    "start": "1.81"
+                },
+                {
+                    "end": "5.19",
+                    "word": "soup",
+                    "start": "3.56"
+                },
+                {
+                    "end": "7.05",
+                    "word": "sock",
+                    "start": "5.19"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "星星",
+                    "roman": "xīng xing",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "枝条",
+                    "roman": "zhī tiáo",
+                    "start": "1.666"
+                },
+                {
+                    "end": "4.66",
+                    "word": "汤",
+                    "roman": "tāng",
+                    "start": "3.385"
+                },
+                {
+                    "end": "6.143",
+                    "word": "短袜",
+                    "roman": "duǎn wà",
+                    "start": "4.66"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SSX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SSX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"S s\",\n        \"ES\": \"S s\",\n        \"ZH\": \"S s\",\n        \"VI\": \"S s\",\n        \"AR\": \"S s\",\n        \"KO\": \"S s\",\n        \"DA\": \"S s\",\n        \"PS\": \"S s\",\n        \"TL\": \"S s\",\n        \"BN\": \"S s\",\n        \"PT\": \"S s\",\n        \"HK\": \"S s\",\n        \"TW\": \"S s\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_SSX"
+        }
+    ]
+}

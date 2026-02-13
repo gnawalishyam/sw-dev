@@ -1,0 +1,975 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "I i",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "I i",
+            "en_trans": "i i_i i_i i",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "i i_i i_i i",
+            "trans_text": "I i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.34",
+                    "word": "i i",
+                    "start": "0"
+                },
+                {
+                    "end": "2.34",
+                    "word": "i i",
+                    "start": "2.34"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "i i",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "i i",
+                    "roman": "i i",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "IIS_narr_Ii_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "i i",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "I I",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "in",
+            "en_trans": "in_在里面_zài lǐ miàn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_in_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "在里面_in_zài lǐ miàn",
+            "trans_text": "在里面",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.53",
+                    "word": "in",
+                    "start": "0"
+                },
+                {
+                    "end": "1.53",
+                    "word": "in",
+                    "start": "1.53"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.928",
+                    "word": "在里面",
+                    "start": "0"
+                },
+                {
+                    "end": "3.86",
+                    "word": "在里面",
+                    "roman": "zài lǐ miàn",
+                    "start": "1.93"
+                }
+            ],
+            "nar_audio_en": "IIS_narr_in_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "在里面",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "in",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "dig",
+            "en_trans": "dig_挖_wā",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_dig_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "挖_dig_wā",
+            "trans_text": "挖",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "dig",
+                    "start": "0"
+                },
+                {
+                    "end": "1.62",
+                    "word": "dig",
+                    "start": "1.62"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.353",
+                    "word": "挖",
+                    "start": "0"
+                },
+                {
+                    "end": "2.7",
+                    "word": "挖",
+                    "roman": "wā",
+                    "start": "1.35"
+                }
+            ],
+            "nar_audio_en": "IIS_narr_dig_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "挖",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "dig",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "mix",
+            "en_trans": "mix_搅拌_jiǎo bàn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_mix_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "搅拌_mix_jiǎo bàn",
+            "trans_text": "搅拌",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.56",
+                    "word": "mix",
+                    "start": "0"
+                },
+                {
+                    "end": "1.56",
+                    "word": "mix",
+                    "start": "1.56"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "搅拌",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "搅拌",
+                    "roman": "jiǎo bàn",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "IIS_narr_mix_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "搅拌",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "mix",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "lip",
+            "en_trans": "lip_唇_chún",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_lip_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "唇_lip_chún",
+            "trans_text": "唇",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "lip",
+                    "start": "0"
+                },
+                {
+                    "end": "1.59",
+                    "word": "lip",
+                    "start": "1.59"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.301",
+                    "word": "唇",
+                    "start": "0"
+                },
+                {
+                    "end": "2.6",
+                    "word": "唇",
+                    "roman": "chún",
+                    "start": "1.3"
+                }
+            ],
+            "nar_audio_en": "IIS_narr_lip_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "唇",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "lip",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sit",
+            "en_trans": "sit_坐_zuò",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_sit_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "坐_sit_zuò",
+            "trans_text": "坐",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "sit",
+                    "start": "0"
+                },
+                {
+                    "end": "1.62",
+                    "word": "sit",
+                    "start": "1.62"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "坐",
+                    "start": "0"
+                },
+                {
+                    "end": "2.66",
+                    "word": "坐",
+                    "roman": "zuò",
+                    "start": "1.33"
+                }
+            ],
+            "nar_audio_en": "IIS_narr_sit_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "坐",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sit",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "win",
+            "en_trans": "win_赢_yíng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_win_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "赢_win_yíng",
+            "trans_text": "赢",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.68",
+                    "word": "win",
+                    "start": "0"
+                },
+                {
+                    "end": "1.68",
+                    "word": "win",
+                    "start": "1.68"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "赢",
+                    "start": "0"
+                },
+                {
+                    "end": "2.66",
+                    "word": "赢",
+                    "roman": "yíng",
+                    "start": "1.33"
+                }
+            ],
+            "nar_audio_en": "IIS_narr_win_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "赢",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "win",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "dig_挖_wā,win_赢_yíng,in_在里面_zài lǐ miàn,mix_搅拌_jiǎo bàn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIS_in_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "in_在里面",
+            "trans_en": "dig_挖_dig,win_赢_win,in_在里面_in,mix_搅拌_mix",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "dig",
+                    "start": "0"
+                },
+                {
+                    "end": "3.31",
+                    "word": "win",
+                    "start": "1.62"
+                },
+                {
+                    "end": "4.83",
+                    "word": "in",
+                    "start": "3.31"
+                },
+                {
+                    "end": "6.39",
+                    "word": "mix",
+                    "start": "4.83"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.353",
+                    "word": "挖",
+                    "roman": "wā",
+                    "start": "0"
+                },
+                {
+                    "end": "2.68",
+                    "word": "赢",
+                    "roman": "yíng",
+                    "start": "1.353"
+                },
+                {
+                    "end": "4.607",
+                    "word": "在里面",
+                    "roman": "zài lǐ miàn",
+                    "start": "2.68"
+                },
+                {
+                    "end": "6.196",
+                    "word": "搅拌",
+                    "roman": "jiǎo bàn",
+                    "start": "4.607"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "in_在里面_zài lǐ miàn,sit_坐_zuò,dig_挖_wā,win_赢_yíng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIS_dig_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "dig_挖",
+            "trans_en": "in_在里面_in,sit_坐_sit,dig_挖_dig,win_赢_win",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.53",
+                    "word": "in",
+                    "start": "0"
+                },
+                {
+                    "end": "3.15",
+                    "word": "sit",
+                    "start": "1.53"
+                },
+                {
+                    "end": "4.77",
+                    "word": "dig",
+                    "start": "3.15"
+                },
+                {
+                    "end": "6.45",
+                    "word": "win",
+                    "start": "4.77"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.928",
+                    "word": "在里面",
+                    "roman": "zài lǐ miàn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.255",
+                    "word": "坐",
+                    "roman": "zuò",
+                    "start": "1.928"
+                },
+                {
+                    "end": "4.607",
+                    "word": "挖",
+                    "roman": "wā",
+                    "start": "3.255"
+                },
+                {
+                    "end": "5.934",
+                    "word": "赢",
+                    "roman": "yíng",
+                    "start": "4.607"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "win_赢_yíng,lip_唇_chún,mix_搅拌_jiǎo bàn,dig_挖_wā",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIS_win_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "win_赢",
+            "trans_en": "win_赢_win,lip_唇_lip,mix_搅拌_mix,dig_挖_dig",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.68",
+                    "word": "win",
+                    "start": "0"
+                },
+                {
+                    "end": "3.27",
+                    "word": "lip",
+                    "start": "1.68"
+                },
+                {
+                    "end": "4.83",
+                    "word": "mix",
+                    "start": "3.27"
+                },
+                {
+                    "end": "6.45",
+                    "word": "dig",
+                    "start": "4.83"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "赢",
+                    "roman": "yíng",
+                    "start": "0"
+                },
+                {
+                    "end": "2.628",
+                    "word": "唇",
+                    "roman": "chún",
+                    "start": "1.327"
+                },
+                {
+                    "end": "4.216",
+                    "word": "搅拌",
+                    "roman": "jiǎo bàn",
+                    "start": "2.628"
+                },
+                {
+                    "end": "5.569",
+                    "word": "挖",
+                    "roman": "wā",
+                    "start": "4.216"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "dig_挖_wā,lip_唇_chún,mix_搅拌_jiǎo bàn,sit_坐_zuò",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIS_mix_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "mix_搅拌",
+            "trans_en": "dig_挖_dig,lip_唇_lip,mix_搅拌_mix,sit_坐_sit",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "dig",
+                    "start": "0"
+                },
+                {
+                    "end": "3.21",
+                    "word": "lip",
+                    "start": "1.62"
+                },
+                {
+                    "end": "4.77",
+                    "word": "mix",
+                    "start": "3.21"
+                },
+                {
+                    "end": "6.39",
+                    "word": "sit",
+                    "start": "4.77"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.353",
+                    "word": "挖",
+                    "roman": "wā",
+                    "start": "0"
+                },
+                {
+                    "end": "2.654",
+                    "word": "唇",
+                    "roman": "chún",
+                    "start": "1.353"
+                },
+                {
+                    "end": "4.242",
+                    "word": "搅拌",
+                    "roman": "jiǎo bàn",
+                    "start": "2.654"
+                },
+                {
+                    "end": "5.569",
+                    "word": "坐",
+                    "roman": "zuò",
+                    "start": "4.242"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "lip_唇_chún,in_在里面_zài lǐ miàn,dig_挖_wā,win_赢_yíng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIS_lip_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "lip_唇",
+            "trans_en": "lip_唇_lip,in_在里面_in,dig_挖_dig,win_赢_win",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "lip",
+                    "start": "0"
+                },
+                {
+                    "end": "3.11",
+                    "word": "in",
+                    "start": "1.59"
+                },
+                {
+                    "end": "4.74",
+                    "word": "dig",
+                    "start": "3.11"
+                },
+                {
+                    "end": "6.42",
+                    "word": "win",
+                    "start": "4.74"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.301",
+                    "word": "唇",
+                    "roman": "chún",
+                    "start": "0"
+                },
+                {
+                    "end": "3.228",
+                    "word": "在里面",
+                    "roman": "zài lǐ miàn",
+                    "start": "1.301"
+                },
+                {
+                    "end": "4.581",
+                    "word": "挖",
+                    "roman": "wā",
+                    "start": "3.228"
+                },
+                {
+                    "end": "5.908",
+                    "word": "赢",
+                    "roman": "yíng",
+                    "start": "4.581"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sit_坐_zuò,lip_唇_chún,win_赢_yíng,in_在里面_zài lǐ miàn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIS_sit_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sit_坐",
+            "trans_en": "sit_坐_sit,lip_唇_lip,win_赢_win,in_在里面_in",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "sit",
+                    "start": "0"
+                },
+                {
+                    "end": "3.21",
+                    "word": "lip",
+                    "start": "1.62"
+                },
+                {
+                    "end": "4.89",
+                    "word": "win",
+                    "start": "3.21"
+                },
+                {
+                    "end": "6.42",
+                    "word": "in",
+                    "start": "4.89"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "坐",
+                    "roman": "zuò",
+                    "start": "0"
+                },
+                {
+                    "end": "2.628",
+                    "word": "唇",
+                    "roman": "chún",
+                    "start": "1.327"
+                },
+                {
+                    "end": "3.954",
+                    "word": "赢",
+                    "roman": "yíng",
+                    "start": "2.628"
+                },
+                {
+                    "end": "5.882",
+                    "word": "在里面",
+                    "roman": "zài lǐ miàn",
+                    "start": "3.954"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIS_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"I i   (short i)\",\n        \"ES\": \"I i   (short i)\",\n        \"ZH\": \"I i   (short i)\",\n        \"VI\": \"I i   (short i)\",\n        \"AR\": \"I i   (short i)\",\n        \"KO\": \"I i   (short i)\",\n        \"DA\": \"I i   (short i)\",\n        \"PS\": \"I i   (short i)\",\n        \"TL\": \"I i   (short i)\",\n        \"BN\": \"I i   (short i)\",\n        \"PT\": \"I i   (short i)\",\n        \"HK\": \"I i   (short i)\",\n        \"TW\": \"I i   (short i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_IIS"
+        }
+    ]
+}

@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A u",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "A u",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A u",
+            "en_trans": "a u_a u",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "a u_a u",
+            "trans_text": "A u",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.48",
+                    "word": "a u",
+                    "start": "0"
+                },
+                {
+                    "end": "1.48",
+                    "word": "a u",
+                    "start": "1.48"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "a u",
+                    "start": "0"
+                },
+                {
+                    "end": "3.76",
+                    "word": "a u",
+                    "start": "1.88"
+                }
+            ],
+            "nar_audio_en": "AUX_narr_AU_p1.mp3",
+            "nar_audio_trans": "AR_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "a u",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "A u",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "caught",
+            "en_trans": "caught_أُمْسِكَ بِه",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_caught_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "أُمْسِكَ بِه_caught",
+            "trans_text": "أُمْسِكَ بِه",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "caught",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "caught",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "أُمْسِكَ بِه",
+                    "start": "0"
+                },
+                {
+                    "end": "4.14",
+                    "word": "أُمْسِكَ بِه",
+                    "start": "2.07"
+                }
+            ],
+            "nar_audio_en": "AUX_narr_caught_p2.mp3",
+            "nar_audio_trans": "AR_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "أُمْسِكَ بِه",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "caught",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "naughty",
+            "en_trans": "naughty_شقي",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_naughty_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "شقي_naughty",
+            "trans_text": "شقي",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "naughty",
+                    "start": "0"
+                },
+                {
+                    "end": "2.16",
+                    "word": "naughty",
+                    "start": "2.16"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.636",
+                    "word": "شقي",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "شقي",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "AUX_narr_naughty_p3.mp3",
+            "nar_audio_trans": "AR_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "شقي",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "naughty",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "daughter",
+            "en_trans": "daughter_بنت",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_daughter_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "بنت_daughter",
+            "trans_text": "بنت",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "daughter",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "daughter",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "بنت",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "بنت",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "AUX_narr_daughter_p4.mp3",
+            "nar_audio_trans": "AR_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "بنت",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "daughter",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "faucet",
+            "en_trans": "faucet_صنبور",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_faucet_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "صنبور_faucet",
+            "trans_text": "صنبور",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "faucet",
+                    "start": "0"
+                },
+                {
+                    "end": "2.03",
+                    "word": "faucet",
+                    "start": "2.03"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "صنبور",
+                    "start": "0"
+                },
+                {
+                    "end": "4.0",
+                    "word": "صنبور",
+                    "start": "2.0"
+                }
+            ],
+            "nar_audio_en": "AUX_narr_faucet_p5.mp3",
+            "nar_audio_trans": "AR_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "صنبور",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "faucet",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "taught",
+            "en_trans": "taught_علم",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_taught_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "علم_taught",
+            "trans_text": "علم",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "taught",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "taught",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "علم",
+                    "start": "0"
+                },
+                {
+                    "end": "3.46",
+                    "word": "علم",
+                    "start": "1.73"
+                }
+            ],
+            "nar_audio_en": "AUX_narr_taught_p6.mp3",
+            "nar_audio_trans": "AR_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "علم",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "taught",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "autumn",
+            "en_trans": "autumn_الخريف",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_autumn_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "الخريف_autumn",
+            "trans_text": "الخريف",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "autumn",
+                    "start": "0"
+                },
+                {
+                    "end": "1.59",
+                    "word": "autumn",
+                    "start": "1.59"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "الخريف",
+                    "start": "0"
+                },
+                {
+                    "end": "3.94",
+                    "word": "الخريف",
+                    "start": "1.97"
+                }
+            ],
+            "nar_audio_en": "AUX_narr_autumn_p7.mp3",
+            "nar_audio_trans": "AR_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "الخريف",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "autumn",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "faucet_صنبور,daughter_بنت,autumn_الخريف,taught_علم",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AUX_autumn_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "autumn_الخريف",
+            "trans_en": "faucet_صنبور,daughter_بنت,autumn_الخريف,taught_علم",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "AR_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "faucet",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "daughter",
+                    "start": "2.03"
+                },
+                {
+                    "end": "5.6",
+                    "word": "autumn",
+                    "start": "4.01"
+                },
+                {
+                    "end": "7.53",
+                    "word": "taught",
+                    "start": "5.6"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "صنبور",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "بنت",
+                    "start": "1.996"
+                },
+                {
+                    "end": "5.652",
+                    "word": "الخريف",
+                    "start": "3.68"
+                },
+                {
+                    "end": "7.383",
+                    "word": "علم",
+                    "start": "5.652"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "autumn_الخريف,daughter_بنت,caught_أُمْسِكَ بِه,taught_علم",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AUX_daughter_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "daughter_بنت",
+            "trans_en": "autumn_الخريف,daughter_بنت,caught_أُمْسِكَ بِه,taught_علم",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "AR_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "autumn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.57",
+                    "word": "daughter",
+                    "start": "1.59"
+                },
+                {
+                    "end": "5.42",
+                    "word": "caught",
+                    "start": "3.57"
+                },
+                {
+                    "end": "7.35",
+                    "word": "taught",
+                    "start": "5.42"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "الخريف",
+                    "start": "0"
+                },
+                {
+                    "end": "3.656",
+                    "word": "بنت",
+                    "start": "1.972"
+                },
+                {
+                    "end": "5.724",
+                    "word": "أُمْسِكَ بِه",
+                    "start": "3.656"
+                },
+                {
+                    "end": "7.455",
+                    "word": "علم",
+                    "start": "5.724"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "faucet_صنبور,daughter_بنت,naughty_شقي,caught_أُمْسِكَ بِه",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AUX_naughty_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "naughty_شقي",
+            "trans_en": "faucet_صنبور,daughter_بنت,naughty_شقي,caught_أُمْسِكَ بِه",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "AR_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "faucet",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "daughter",
+                    "start": "2.03"
+                },
+                {
+                    "end": "6.17",
+                    "word": "naughty",
+                    "start": "4.01"
+                },
+                {
+                    "end": "8.02",
+                    "word": "caught",
+                    "start": "6.17"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "صنبور",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "بنت",
+                    "start": "1.996"
+                },
+                {
+                    "end": "5.316",
+                    "word": "شقي",
+                    "start": "3.68"
+                },
+                {
+                    "end": "7.383",
+                    "word": "أُمْسِكَ بِه",
+                    "start": "5.316"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "caught_أُمْسِكَ بِه,taught_علم,daughter_بنت,faucet_صنبور",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AUX_faucet_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "faucet_صنبور",
+            "trans_en": "caught_أُمْسِكَ بِه,taught_علم,daughter_بنت,faucet_صنبور",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "AR_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "caught",
+                    "start": "0"
+                },
+                {
+                    "end": "3.78",
+                    "word": "taught",
+                    "start": "1.85"
+                },
+                {
+                    "end": "5.76",
+                    "word": "daughter",
+                    "start": "3.78"
+                },
+                {
+                    "end": "7.79",
+                    "word": "faucet",
+                    "start": "5.76"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "أُمْسِكَ بِه",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "علم",
+                    "start": "2.068"
+                },
+                {
+                    "end": "5.484",
+                    "word": "بنت",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.479",
+                    "word": "صنبور",
+                    "start": "5.484"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "taught_علم,naughty_شقي,daughter_بنت,autumn_الخريف",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AUX_taught_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "taught_علم",
+            "trans_en": "taught_علم,naughty_شقي,daughter_بنت,autumn_الخريف",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "AR_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "taught",
+                    "start": "0"
+                },
+                {
+                    "end": "4.09",
+                    "word": "naughty",
+                    "start": "1.93"
+                },
+                {
+                    "end": "6.07",
+                    "word": "daughter",
+                    "start": "4.09"
+                },
+                {
+                    "end": "7.66",
+                    "word": "autumn",
+                    "start": "6.07"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "علم",
+                    "start": "0"
+                },
+                {
+                    "end": "3.368",
+                    "word": "شقي",
+                    "start": "1.732"
+                },
+                {
+                    "end": "5.052",
+                    "word": "بنت",
+                    "start": "3.368"
+                },
+                {
+                    "end": "7.024",
+                    "word": "الخريف",
+                    "start": "5.052"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "autumn_الخريف,faucet_صنبور,naughty_شقي,caught_أُمْسِكَ بِه",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AUX_caught_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "caught_أُمْسِكَ بِه",
+            "trans_en": "autumn_الخريف,faucet_صنبور,naughty_شقي,caught_أُمْسِكَ بِه",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "AR_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "autumn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.62",
+                    "word": "faucet",
+                    "start": "1.59"
+                },
+                {
+                    "end": "5.78",
+                    "word": "naughty",
+                    "start": "3.62"
+                },
+                {
+                    "end": "7.63",
+                    "word": "caught",
+                    "start": "5.78"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "الخريف",
+                    "start": "0"
+                },
+                {
+                    "end": "3.968",
+                    "word": "صنبور",
+                    "start": "1.972"
+                },
+                {
+                    "end": "5.604",
+                    "word": "شقي",
+                    "start": "3.968"
+                },
+                {
+                    "end": "7.671",
+                    "word": "أُمْسِكَ بِه",
+                    "start": "5.604"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AUX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AUX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"AU au\",\n        \"ES\": \"AU au\",\n        \"ZH\": \"AU au\",\n        \"VI\": \"AU au\",\n        \"AR\": \"AU au\",\n        \"KO\": \"AU au\",\n        \"DA\": \"AU au\",\n        \"PS\": \"AU au\",\n        \"TL\": \"AU au\",\n        \"BN\": \"AU au\",\n        \"PT\": \"AU au\",\n        \"HK\": \"AU au\",\n        \"TW\": \"AU au\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Sara Ragaie & Maysaa Kharat",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "كتب وروا:Cynthia Harrison Barbera",
+                "تمت ترجمته بواسطة:Sara Ragaie & Maysaa Kharat",
+                "مصورة من قبل:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_AUX"
+        }
+    ]
+}

@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O a",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "O a",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O a",
+            "en_trans": "o a_o a",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "o a_o a",
+            "trans_text": "O a",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "o a",
+                    "start": "0"
+                },
+                {
+                    "end": "1.77",
+                    "word": "o a",
+                    "start": "1.77"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "o a",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "o a",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "OAX_narr_OA_p1.mp3",
+            "nar_audio_trans": "TL_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "o a",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "O a",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "boat",
+            "en_trans": "boat_bangka",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_boat_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "bangka_boat",
+            "trans_text": "bangka",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "boat",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "boat",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.708",
+                    "word": "bangka",
+                    "start": "0"
+                },
+                {
+                    "end": "3.42",
+                    "word": "bangka",
+                    "start": "1.71"
+                }
+            ],
+            "nar_audio_en": "OAX_narr_boat_p2.mp3",
+            "nar_audio_trans": "TL_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "bangka",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "boat",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "coat",
+            "en_trans": "coat_amerikana",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_coat_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "amerikana_coat",
+            "trans_text": "amerikana",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "coat",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "coat",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.116",
+                    "word": "amerikana",
+                    "start": "0"
+                },
+                {
+                    "end": "4.24",
+                    "word": "amerikana",
+                    "start": "2.12"
+                }
+            ],
+            "nar_audio_en": "OAX_narr_coat_p3.mp3",
+            "nar_audio_trans": "TL_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "amerikana",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "coat",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "road",
+            "en_trans": "road_kalsada",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_road_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "kalsada_road",
+            "trans_text": "kalsada",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "road",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "road",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "kalsada",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "kalsada",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "OAX_narr_road_p4.mp3",
+            "nar_audio_trans": "TL_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "kalsada",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "road",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "soap",
+            "en_trans": "soap_sabon",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_soap_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "sabon_soap",
+            "trans_text": "sabon",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "soap",
+                    "start": "0"
+                },
+                {
+                    "end": "1.95",
+                    "word": "soap",
+                    "start": "1.95"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "sabon",
+                    "start": "0"
+                },
+                {
+                    "end": "3.76",
+                    "word": "sabon",
+                    "start": "1.88"
+                }
+            ],
+            "nar_audio_en": "OAX_narr_soap_p5.mp3",
+            "nar_audio_trans": "TL_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "sabon",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "soap",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "toast",
+            "en_trans": "toast_tostado",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_toast_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tostado_toast",
+            "trans_text": "tostado",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "toast",
+                    "start": "0"
+                },
+                {
+                    "end": "2.03",
+                    "word": "toast",
+                    "start": "2.03"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "tostado",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "tostado",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "OAX_narr_toast_p6.mp3",
+            "nar_audio_trans": "TL_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tostado",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "toast",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "goal",
+            "en_trans": "goal_tunguhin",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_goal_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tunguhin_goal",
+            "trans_text": "tunguhin",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "goal",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "goal",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "tunguhin",
+                    "start": "0"
+                },
+                {
+                    "end": "4.0",
+                    "word": "tunguhin",
+                    "start": "2.0"
+                }
+            ],
+            "nar_audio_en": "OAX_narr_goal_p7.mp3",
+            "nar_audio_trans": "TL_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tunguhin",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "goal",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "coat_amerikana,boat_bangka,road_kalsada,goal_tunguhin",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OAX_goal_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "goal_tunguhin",
+            "trans_en": "coat_amerikana,boat_bangka,road_kalsada,goal_tunguhin",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "TL_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "coat",
+                    "start": "0"
+                },
+                {
+                    "end": "3.83",
+                    "word": "boat",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.91",
+                    "word": "road",
+                    "start": "3.83"
+                },
+                {
+                    "end": "7.76",
+                    "word": "goal",
+                    "start": "5.91"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.116",
+                    "word": "amerikana",
+                    "start": "0"
+                },
+                {
+                    "end": "3.824",
+                    "word": "bangka",
+                    "start": "2.116"
+                },
+                {
+                    "end": "5.748",
+                    "word": "kalsada",
+                    "start": "3.824"
+                },
+                {
+                    "end": "7.744",
+                    "word": "tunguhin",
+                    "start": "5.748"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "toast_tostado,coat_amerikana,road_kalsada,boat_bangka",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OAX_road_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "road_kalsada",
+            "trans_en": "toast_tostado,coat_amerikana,road_kalsada,boat_bangka",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "TL_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "toast",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "coat",
+                    "start": "2.03"
+                },
+                {
+                    "end": "6.04",
+                    "word": "road",
+                    "start": "3.96"
+                },
+                {
+                    "end": "7.95",
+                    "word": "boat",
+                    "start": "6.04"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "tostado",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "amerikana",
+                    "start": "1.924"
+                },
+                {
+                    "end": "5.964",
+                    "word": "kalsada",
+                    "start": "4.04"
+                },
+                {
+                    "end": "7.671",
+                    "word": "bangka",
+                    "start": "5.964"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "soap_sabon,goal_tunguhin,coat_amerikana,road_kalsada",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OAX_coat_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "coat_amerikana",
+            "trans_en": "soap_sabon,goal_tunguhin,coat_amerikana,road_kalsada",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "TL_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "soap",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "goal",
+                    "start": "1.95"
+                },
+                {
+                    "end": "5.73",
+                    "word": "coat",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.82",
+                    "word": "road",
+                    "start": "5.73"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "sabon",
+                    "start": "0"
+                },
+                {
+                    "end": "3.872",
+                    "word": "tunguhin",
+                    "start": "1.876"
+                },
+                {
+                    "end": "5.988",
+                    "word": "amerikana",
+                    "start": "3.872"
+                },
+                {
+                    "end": "7.912",
+                    "word": "kalsada",
+                    "start": "5.988"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "road_kalsada,soap_sabon,goal_tunguhin,toast_tostado",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OAX_toast_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "toast_tostado",
+            "trans_en": "road_kalsada,soap_sabon,goal_tunguhin,toast_tostado",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "TL_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "road",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "soap",
+                    "start": "2.08"
+                },
+                {
+                    "end": "5.89",
+                    "word": "goal",
+                    "start": "4.04"
+                },
+                {
+                    "end": "7.92",
+                    "word": "toast",
+                    "start": "5.89"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "kalsada",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "sabon",
+                    "start": "1.924"
+                },
+                {
+                    "end": "5.796",
+                    "word": "tunguhin",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.72",
+                    "word": "tostado",
+                    "start": "5.796"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "coat_amerikana,boat_bangka,road_kalsada,soap_sabon",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OAX_boat_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "boat_bangka",
+            "trans_en": "coat_amerikana,boat_bangka,road_kalsada,soap_sabon",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "TL_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "coat",
+                    "start": "0"
+                },
+                {
+                    "end": "3.83",
+                    "word": "boat",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.91",
+                    "word": "road",
+                    "start": "3.83"
+                },
+                {
+                    "end": "7.87",
+                    "word": "soap",
+                    "start": "5.91"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.116",
+                    "word": "amerikana",
+                    "start": "0"
+                },
+                {
+                    "end": "3.824",
+                    "word": "bangka",
+                    "start": "2.116"
+                },
+                {
+                    "end": "5.748",
+                    "word": "kalsada",
+                    "start": "3.824"
+                },
+                {
+                    "end": "7.623",
+                    "word": "sabon",
+                    "start": "5.748"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "soap_sabon,road_kalsada,toast_tostado,boat_bangka",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OAX_soap_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "soap_sabon",
+            "trans_en": "soap_sabon,road_kalsada,toast_tostado,boat_bangka",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "TL_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "soap",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "road",
+                    "start": "1.95"
+                },
+                {
+                    "end": "6.07",
+                    "word": "toast",
+                    "start": "4.04"
+                },
+                {
+                    "end": "7.97",
+                    "word": "boat",
+                    "start": "6.07"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "sabon",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "kalsada",
+                    "start": "1.876"
+                },
+                {
+                    "end": "5.724",
+                    "word": "tostado",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.431",
+                    "word": "bangka",
+                    "start": "5.724"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OAX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OAX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OA  oa\",\n        \"ES\": \"OA  oa\",\n        \"ZH\": \"OA  oa\",\n        \"VI\": \"OA  oa\",\n        \"AR\": \"OA  oa\",\n        \"KO\": \"OA  oa\",\n        \"DA\": \"OA  oa\",\n        \"PS\": \"OA  oa\",\n        \"TL\": \"OA  oa\",\n        \"BN\": \"OA  oa\",\n        \"PT\": \"OA  oa\",\n        \"HK\": \"OA  oa\",\n        \"TW\": \"OA  oa\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mar Anthony dela Cruz",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Isinulat at Nasalaysay ni:Cynthia Harrison Barbera",
+                "Isinalin sa pamamagitan ng:Mar Anthony dela Cruz",
+                "Isinalarawan sa pamamagitan ng:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_OAX"
+        }
+    ]
+}

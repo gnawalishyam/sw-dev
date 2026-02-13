@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Y e",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Y e",
+            "en_trans": "y e_y e",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "y e_y e",
+            "trans_text": "Y e",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "y e",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "y e",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.612",
+                    "word": "y e",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "y e",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "YEX_narr_YE_p1.mp3",
+            "nar_audio_trans": "VI_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "y e",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "Y e",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bunny",
+            "en_trans": "bunny_con thỏ",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_bunny_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "con thỏ_bunny",
+            "trans_text": "con thỏ",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "bunny",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "bunny",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "con thỏ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.76",
+                    "word": "con thỏ",
+                    "start": "1.88"
+                }
+            ],
+            "nar_audio_en": "YEX_narr_bunny_p2.mp3",
+            "nar_audio_trans": "VI_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "con thỏ",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bunny",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "funny",
+            "en_trans": "funny_vui vẻ",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_funny_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "vui vẻ_funny",
+            "trans_text": "vui vẻ",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.19",
+                    "word": "funny",
+                    "start": "0"
+                },
+                {
+                    "end": "2.19",
+                    "word": "funny",
+                    "start": "2.19"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.948",
+                    "word": "vui vẻ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.9",
+                    "word": "vui vẻ",
+                    "start": "1.95"
+                }
+            ],
+            "nar_audio_en": "YEX_narr_funny_p3.mp3",
+            "nar_audio_trans": "VI_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "vui vẻ",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "funny",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "happy",
+            "en_trans": "happy_hạnh phúc",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_happy_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "hạnh phúc_happy",
+            "trans_text": "hạnh phúc",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "happy",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "happy",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "hạnh phúc",
+                    "start": "0"
+                },
+                {
+                    "end": "3.46",
+                    "word": "hạnh phúc",
+                    "start": "1.73"
+                }
+            ],
+            "nar_audio_en": "YEX_narr_happy_p4.mp3",
+            "nar_audio_trans": "VI_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "hạnh phúc",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "happy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "puppy",
+            "en_trans": "puppy_cún con",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_puppy_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "cún con_puppy",
+            "trans_text": "cún con",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "puppy",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "puppy",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "cún con",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "cún con",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "YEX_narr_puppy_p5.mp3",
+            "nar_audio_trans": "VI_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "cún con",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "puppy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sunny",
+            "en_trans": "sunny_trời nắng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_sunny_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "trời nắng_sunny",
+            "trans_text": "trời nắng",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "sunny",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "sunny",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.02",
+                    "word": "trời nắng",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "trời nắng",
+                    "start": "2.02"
+                }
+            ],
+            "nar_audio_en": "YEX_narr_sunny_p6.mp3",
+            "nar_audio_trans": "VI_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "trời nắng",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sunny",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "windy",
+            "en_trans": "windy_trời gió",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_windy_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "trời gió_windy",
+            "trans_text": "trời gió",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "windy",
+                    "start": "0"
+                },
+                {
+                    "end": "1.82",
+                    "word": "windy",
+                    "start": "1.82"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "trời gió",
+                    "start": "0"
+                },
+                {
+                    "end": "4.14",
+                    "word": "trời gió",
+                    "start": "2.07"
+                }
+            ],
+            "nar_audio_en": "YEX_narr_windy_p7.mp3",
+            "nar_audio_trans": "VI_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "trời gió",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "windy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "windy_trời gió,sunny_trời nắng,funny_vui vẻ,puppy_cún con",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YEX_puppy_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "puppy_cún con",
+            "trans_en": "windy_trời gió,sunny_trời nắng,funny_vui vẻ,puppy_cún con",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "VI_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "windy",
+                    "start": "0"
+                },
+                {
+                    "end": "3.67",
+                    "word": "sunny",
+                    "start": "1.82"
+                },
+                {
+                    "end": "5.86",
+                    "word": "funny",
+                    "start": "3.67"
+                },
+                {
+                    "end": "7.74",
+                    "word": "puppy",
+                    "start": "5.86"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "trời gió",
+                    "start": "0"
+                },
+                {
+                    "end": "4.088",
+                    "word": "trời nắng",
+                    "start": "2.068"
+                },
+                {
+                    "end": "6.036",
+                    "word": "vui vẻ",
+                    "start": "4.088"
+                },
+                {
+                    "end": "7.888",
+                    "word": "cún con",
+                    "start": "6.036"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sunny_trời nắng,windy_trời gió,puppy_cún con,funny_vui vẻ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YEX_sunny_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sunny_trời nắng",
+            "trans_en": "sunny_trời nắng,windy_trời gió,puppy_cún con,funny_vui vẻ",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "VI_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "sunny",
+                    "start": "0"
+                },
+                {
+                    "end": "3.67",
+                    "word": "windy",
+                    "start": "1.85"
+                },
+                {
+                    "end": "5.55",
+                    "word": "puppy",
+                    "start": "3.67"
+                },
+                {
+                    "end": "7.74",
+                    "word": "funny",
+                    "start": "5.55"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.02",
+                    "word": "trời nắng",
+                    "start": "0"
+                },
+                {
+                    "end": "4.088",
+                    "word": "trời gió",
+                    "start": "2.02"
+                },
+                {
+                    "end": "5.94",
+                    "word": "cún con",
+                    "start": "4.088"
+                },
+                {
+                    "end": "7.888",
+                    "word": "vui vẻ",
+                    "start": "5.94"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "puppy_cún con,happy_hạnh phúc,sunny_trời nắng,bunny_con thỏ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YEX_bunny_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bunny_con thỏ",
+            "trans_en": "puppy_cún con,happy_hạnh phúc,sunny_trời nắng,bunny_con thỏ",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "VI_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "puppy",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "happy",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.81",
+                    "word": "sunny",
+                    "start": "3.96"
+                },
+                {
+                    "end": "7.82",
+                    "word": "bunny",
+                    "start": "5.81"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "cún con",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "hạnh phúc",
+                    "start": "1.852"
+                },
+                {
+                    "end": "5.604",
+                    "word": "trời nắng",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.479",
+                    "word": "con thỏ",
+                    "start": "5.604"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bunny_con thỏ,funny_vui vẻ,happy_hạnh phúc,sunny_trời nắng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YEX_happy_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "happy_hạnh phúc",
+            "trans_en": "bunny_con thỏ,funny_vui vẻ,happy_hạnh phúc,sunny_trời nắng",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "VI_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "bunny",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "funny",
+                    "start": "2.01"
+                },
+                {
+                    "end": "6.28",
+                    "word": "happy",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.13",
+                    "word": "sunny",
+                    "start": "6.28"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "con thỏ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.824",
+                    "word": "vui vẻ",
+                    "start": "1.876"
+                },
+                {
+                    "end": "5.556",
+                    "word": "hạnh phúc",
+                    "start": "3.824"
+                },
+                {
+                    "end": "7.575",
+                    "word": "trời nắng",
+                    "start": "5.556"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "puppy_cún con,funny_vui vẻ,happy_hạnh phúc,windy_trời gió",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YEX_funny_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "funny_vui vẻ",
+            "trans_en": "puppy_cún con,funny_vui vẻ,happy_hạnh phúc,windy_trời gió",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "VI_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "puppy",
+                    "start": "0"
+                },
+                {
+                    "end": "4.06",
+                    "word": "funny",
+                    "start": "1.88"
+                },
+                {
+                    "end": "6.15",
+                    "word": "happy",
+                    "start": "4.06"
+                },
+                {
+                    "end": "7.97",
+                    "word": "windy",
+                    "start": "6.15"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "cún con",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "vui vẻ",
+                    "start": "1.852"
+                },
+                {
+                    "end": "5.532",
+                    "word": "hạnh phúc",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.599",
+                    "word": "trời gió",
+                    "start": "5.532"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "happy_hạnh phúc,puppy_cún con,bunny_con thỏ,windy_trời gió",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YEX_windy_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "windy_trời gió",
+            "trans_en": "happy_hạnh phúc,puppy_cún con,bunny_con thỏ,windy_trời gió",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "VI_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "happy",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "puppy",
+                    "start": "2.08"
+                },
+                {
+                    "end": "5.97",
+                    "word": "bunny",
+                    "start": "3.96"
+                },
+                {
+                    "end": "7.79",
+                    "word": "windy",
+                    "start": "5.97"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "hạnh phúc",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "cún con",
+                    "start": "1.732"
+                },
+                {
+                    "end": "5.46",
+                    "word": "con thỏ",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.527",
+                    "word": "trời gió",
+                    "start": "5.46"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YEX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ES\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"ZH\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"VI\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"AR\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"KO\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"DA\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PS\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TL\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"BN\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"PT\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"HK\": \"…Y  y  (long \\\"e\\\" sound)\",\n        \"TW\": \"…Y  y  (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Viết và thuật lại bởi:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Minh họa bởi:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_YEX"
+        }
+    ]
+}

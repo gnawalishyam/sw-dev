@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A y",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A y",
+            "en_trans": "a y_a y",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "a y_a y",
+            "trans_text": "A y",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "a y",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "a y",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "a y",
+                    "start": "0"
+                },
+                {
+                    "end": "4.14",
+                    "word": "a y",
+                    "start": "2.07"
+                }
+            ],
+            "nar_audio_en": "AYX_narr_AY_p1.mp3",
+            "nar_audio_trans": "AR_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "a y",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "A y",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "hay",
+            "en_trans": "hay_قش",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_hay_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "قش_hay",
+            "trans_text": "قش",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "hay",
+                    "start": "0"
+                },
+                {
+                    "end": "1.74",
+                    "word": "hay",
+                    "start": "1.74"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "قش",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "قش",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "AYX_narr_hay_p2.mp3",
+            "nar_audio_trans": "AR_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "قش",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "hay",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "day",
+            "en_trans": "day_يوم",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_day_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "يوم_day",
+            "trans_text": "يوم",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "day",
+                    "start": "0"
+                },
+                {
+                    "end": "2.06",
+                    "word": "day",
+                    "start": "2.06"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "يوم",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "يوم",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "AYX_narr_day_p3.mp3",
+            "nar_audio_trans": "AR_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "يوم",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "day",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "play",
+            "en_trans": "play_يلعب",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_play_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "يلعب_play",
+            "trans_text": "يلعب",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "play",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "play",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "يلعب",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "يلعب",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "AYX_narr_play_p4.mp3",
+            "nar_audio_trans": "AR_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "يلعب",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "play",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "tray",
+            "en_trans": "tray_صينية",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_tray_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "صينية_tray",
+            "trans_text": "صينية",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "tray",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "tray",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.164",
+                    "word": "صينية",
+                    "start": "0"
+                },
+                {
+                    "end": "4.32",
+                    "word": "صينية",
+                    "start": "2.16"
+                }
+            ],
+            "nar_audio_en": "AYX_narr_tray_p5.mp3",
+            "nar_audio_trans": "AR_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "صينية",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "tray",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "pay",
+            "en_trans": "pay_دفع",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_pay_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "دفع_pay",
+            "trans_text": "دفع",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "pay",
+                    "start": "0"
+                },
+                {
+                    "end": "1.74",
+                    "word": "pay",
+                    "start": "1.74"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.708",
+                    "word": "دفع",
+                    "start": "0"
+                },
+                {
+                    "end": "3.42",
+                    "word": "دفع",
+                    "start": "1.71"
+                }
+            ],
+            "nar_audio_en": "AYX_narr_pay_p6.mp3",
+            "nar_audio_trans": "AR_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "دفع",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "pay",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "spray",
+            "en_trans": "spray_بخاخ",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_spray_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "بخاخ_spray",
+            "trans_text": "بخاخ",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "spray",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "spray",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "بخاخ",
+                    "start": "0"
+                },
+                {
+                    "end": "4.14",
+                    "word": "بخاخ",
+                    "start": "2.07"
+                }
+            ],
+            "nar_audio_en": "AYX_narr_spray_p7.mp3",
+            "nar_audio_trans": "AR_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "بخاخ",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "spray",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "tray_صينية,play_يلعب,day_يوم,pay_دفع",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AYX_day_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "day_يوم",
+            "trans_en": "tray_صينية,play_يلعب,day_يوم,pay_دفع",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "AR_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "tray",
+                    "start": "0"
+                },
+                {
+                    "end": "3.99",
+                    "word": "play",
+                    "start": "2.11"
+                },
+                {
+                    "end": "6.04",
+                    "word": "day",
+                    "start": "3.99"
+                },
+                {
+                    "end": "7.79",
+                    "word": "pay",
+                    "start": "6.04"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.164",
+                    "word": "صينية",
+                    "start": "0"
+                },
+                {
+                    "end": "3.992",
+                    "word": "يلعب",
+                    "start": "2.164"
+                },
+                {
+                    "end": "5.676",
+                    "word": "يوم",
+                    "start": "3.992"
+                },
+                {
+                    "end": "7.383",
+                    "word": "دفع",
+                    "start": "5.676"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "pay_دفع,spray_بخاخ,day_يوم,tray_صينية",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AYX_tray_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "tray_صينية",
+            "trans_en": "pay_دفع,spray_بخاخ,day_يوم,tray_صينية",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "AR_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "pay",
+                    "start": "0"
+                },
+                {
+                    "end": "3.83",
+                    "word": "spray",
+                    "start": "1.74"
+                },
+                {
+                    "end": "5.89",
+                    "word": "day",
+                    "start": "3.83"
+                },
+                {
+                    "end": "8.0",
+                    "word": "tray",
+                    "start": "5.89"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.708",
+                    "word": "دفع",
+                    "start": "0"
+                },
+                {
+                    "end": "3.776",
+                    "word": "بخاخ",
+                    "start": "1.708"
+                },
+                {
+                    "end": "5.46",
+                    "word": "يوم",
+                    "start": "3.776"
+                },
+                {
+                    "end": "7.623",
+                    "word": "صينية",
+                    "start": "5.46"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "hay_قش,pay_دفع,day_يوم,tray_صينية",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AYX_hay_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "hay_قش",
+            "trans_en": "hay_قش,pay_دفع,day_يوم,tray_صينية",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "AR_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "hay",
+                    "start": "0"
+                },
+                {
+                    "end": "3.49",
+                    "word": "pay",
+                    "start": "1.74"
+                },
+                {
+                    "end": "5.55",
+                    "word": "day",
+                    "start": "3.49"
+                },
+                {
+                    "end": "7.66",
+                    "word": "tray",
+                    "start": "5.55"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "قش",
+                    "start": "0"
+                },
+                {
+                    "end": "3.392",
+                    "word": "دفع",
+                    "start": "1.684"
+                },
+                {
+                    "end": "5.076",
+                    "word": "يوم",
+                    "start": "3.392"
+                },
+                {
+                    "end": "7.239",
+                    "word": "صينية",
+                    "start": "5.076"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "day_يوم,pay_دفع,spray_بخاخ,play_يلعب",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AYX_pay_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "pay_دفع",
+            "trans_en": "day_يوم,pay_دفع,spray_بخاخ,play_يلعب",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "AR_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "day",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "pay",
+                    "start": "2.06"
+                },
+                {
+                    "end": "5.89",
+                    "word": "spray",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.76",
+                    "word": "play",
+                    "start": "5.89"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "يوم",
+                    "start": "0"
+                },
+                {
+                    "end": "3.392",
+                    "word": "دفع",
+                    "start": "1.684"
+                },
+                {
+                    "end": "5.46",
+                    "word": "بخاخ",
+                    "start": "3.392"
+                },
+                {
+                    "end": "7.287",
+                    "word": "يلعب",
+                    "start": "5.46"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "play_يلعب,spray_بخاخ,pay_دفع,hay_قش",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AYX_play_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "play_يلعب",
+            "trans_en": "play_يلعب,spray_بخاخ,pay_دفع,hay_قش",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "AR_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "play",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "spray",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.7",
+                    "word": "pay",
+                    "start": "3.96"
+                },
+                {
+                    "end": "7.45",
+                    "word": "hay",
+                    "start": "5.7"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "يلعب",
+                    "start": "0"
+                },
+                {
+                    "end": "3.896",
+                    "word": "بخاخ",
+                    "start": "1.828"
+                },
+                {
+                    "end": "5.604",
+                    "word": "دفع",
+                    "start": "3.896"
+                },
+                {
+                    "end": "7.287",
+                    "word": "قش",
+                    "start": "5.604"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "day_يوم,spray_بخاخ,pay_دفع,hay_قش",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AYX_spray_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "spray_بخاخ",
+            "trans_en": "day_يوم,spray_بخاخ,pay_دفع,hay_قش",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "AR_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "day",
+                    "start": "0"
+                },
+                {
+                    "end": "4.14",
+                    "word": "spray",
+                    "start": "2.06"
+                },
+                {
+                    "end": "5.89",
+                    "word": "pay",
+                    "start": "4.14"
+                },
+                {
+                    "end": "7.63",
+                    "word": "hay",
+                    "start": "5.89"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "يوم",
+                    "start": "0"
+                },
+                {
+                    "end": "3.752",
+                    "word": "بخاخ",
+                    "start": "1.684"
+                },
+                {
+                    "end": "5.46",
+                    "word": "دفع",
+                    "start": "3.752"
+                },
+                {
+                    "end": "7.144",
+                    "word": "قش",
+                    "start": "5.46"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AYX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": \"\",\n        \"ES\": \"\",\n        \"ZH\": \"\",\n        \"VI\": \"\",\n        \"AR\": \"\",\n        \"KO\": \"\",\n        \"DA\": \"\",\n        \"PS\": \"\",\n        \"TL\": \"\",\n        \"BN\": \"\",\n        \"PT\": \"\",\n        \"HK\": \"\",\n        \"TW\": \"\"\n    },\n    \"title\": {\n        \"EN\": \"AY  ay \",\n        \"ES\": \"AY  ay \",\n        \"ZH\": \"AY  ay \",\n        \"VI\": \"AY  ay \",\n        \"AR\": \"AY  ay \",\n        \"KO\": \"AY  ay \",\n        \"DA\": \"AY  ay \",\n        \"PS\": \"AY  ay \",\n        \"TL\": \"AY  ay \",\n        \"BN\": \"AY  ay \",\n        \"PT\": \"AY  ay \",\n        \"HK\": \"AY  ay \",\n        \"TW\": \"AY  ay \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Sara Ragaie & Maysaa Kharat",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "كتب وروا:Cynthia Harrison Barbera",
+                "تمت ترجمته بواسطة:Sara Ragaie & Maysaa Kharat",
+                "مصورة من قبل:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_AYX"
+        }
+    ]
+}

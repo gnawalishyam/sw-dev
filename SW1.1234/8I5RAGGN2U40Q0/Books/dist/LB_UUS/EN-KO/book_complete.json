@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U u",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U u",
+            "en_trans": "u u_u u",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "u u_u u",
+            "trans_text": "U u",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.65",
+                    "word": "u u",
+                    "start": "0"
+                },
+                {
+                    "end": "2.65",
+                    "word": "u u",
+                    "start": "2.65"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "u u",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "u u",
+                    "start": "1.78"
+                }
+            ],
+            "nar_audio_en": "UUS_narr_Uu_p1.mp3",
+            "nar_audio_trans": "KO_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "u u",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "U U",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "up",
+            "en_trans": "up_위에",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_up_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "위에_up",
+            "trans_text": "위에",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "up",
+                    "start": "0"
+                },
+                {
+                    "end": "1.4",
+                    "word": "up",
+                    "start": "1.4"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.468",
+                    "word": "위에",
+                    "start": "0"
+                },
+                {
+                    "end": "2.94",
+                    "word": "위에",
+                    "start": "1.47"
+                }
+            ],
+            "nar_audio_en": "UUS_narr_up_p2.mp3",
+            "nar_audio_trans": "KO_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "위에",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "up",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bug",
+            "en_trans": "bug_벌레",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_bug_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "벌레_bug",
+            "trans_text": "벌레",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "bug",
+                    "start": "0"
+                },
+                {
+                    "end": "1.51",
+                    "word": "bug",
+                    "start": "1.51"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "벌레",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "벌레",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "UUS_narr_bug_p3.mp3",
+            "nar_audio_trans": "KO_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "벌레",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bug",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bus",
+            "en_trans": "bus_버스",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_bus_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "버스_bus",
+            "trans_text": "버스",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "bus",
+                    "start": "0"
+                },
+                {
+                    "end": "1.64",
+                    "word": "bus",
+                    "start": "1.64"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.708",
+                    "word": "버스",
+                    "start": "0"
+                },
+                {
+                    "end": "3.42",
+                    "word": "버스",
+                    "start": "1.71"
+                }
+            ],
+            "nar_audio_en": "UUS_narr_bus_p4.mp3",
+            "nar_audio_trans": "KO_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "버스",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bus",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cup",
+            "en_trans": "cup_컵",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_cup_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "컵_cup",
+            "trans_text": "컵",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "cup",
+                    "start": "0"
+                },
+                {
+                    "end": "1.4",
+                    "word": "cup",
+                    "start": "1.4"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.372",
+                    "word": "컵",
+                    "start": "0"
+                },
+                {
+                    "end": "2.74",
+                    "word": "컵",
+                    "start": "1.37"
+                }
+            ],
+            "nar_audio_en": "UUS_narr_cup_p5.mp3",
+            "nar_audio_trans": "KO_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "컵",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cup",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "hug",
+            "en_trans": "hug_껴안다",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_hug_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "껴안다_hug",
+            "trans_text": "껴안다",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "hug",
+                    "start": "0"
+                },
+                {
+                    "end": "1.4",
+                    "word": "hug",
+                    "start": "1.4"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "껴안다",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "껴안다",
+                    "start": "1.9"
+                }
+            ],
+            "nar_audio_en": "UUS_narr_hug_p6.mp3",
+            "nar_audio_trans": "KO_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "껴안다",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "hug",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sun",
+            "en_trans": "sun_태양",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_sun_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "태양_sun",
+            "trans_text": "태양",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.68",
+                    "word": "sun",
+                    "start": "0"
+                },
+                {
+                    "end": "1.68",
+                    "word": "sun",
+                    "start": "1.68"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "태양",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "태양",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "UUS_narr_sun_p7.mp3",
+            "nar_audio_trans": "KO_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "태양",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sun",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cup_컵,sun_태양,bus_버스,bug_벌레",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUS_bug_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bug_벌레",
+            "trans_en": "cup_컵,sun_태양,bus_버스,bug_벌레",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "KO_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "cup",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "sun",
+                    "start": "1.4"
+                },
+                {
+                    "end": "4.72",
+                    "word": "bus",
+                    "start": "3.08"
+                },
+                {
+                    "end": "6.23",
+                    "word": "bug",
+                    "start": "4.72"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.372",
+                    "word": "컵",
+                    "start": "0"
+                },
+                {
+                    "end": "3.032",
+                    "word": "태양",
+                    "start": "1.372"
+                },
+                {
+                    "end": "4.74",
+                    "word": "버스",
+                    "start": "3.032"
+                },
+                {
+                    "end": "6.327",
+                    "word": "벌레",
+                    "start": "4.74"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "hug_껴안다,bus_버스,bug_벌레,up_위에",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUS_hug_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "hug_껴안다",
+            "trans_en": "hug_껴안다,bus_버스,bug_벌레,up_위에",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "KO_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "hug",
+                    "start": "0"
+                },
+                {
+                    "end": "3.04",
+                    "word": "bus",
+                    "start": "1.4"
+                },
+                {
+                    "end": "4.55",
+                    "word": "bug",
+                    "start": "3.04"
+                },
+                {
+                    "end": "5.95",
+                    "word": "up",
+                    "start": "4.55"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "껴안다",
+                    "start": "0"
+                },
+                {
+                    "end": "3.608",
+                    "word": "버스",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.196",
+                    "word": "벌레",
+                    "start": "3.608"
+                },
+                {
+                    "end": "6.663",
+                    "word": "위에",
+                    "start": "5.196"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "hug_껴안다,cup_컵,bug_벌레,sun_태양",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUS_sun_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sun_태양",
+            "trans_en": "hug_껴안다,cup_컵,bug_벌레,sun_태양",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "KO_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "hug",
+                    "start": "0"
+                },
+                {
+                    "end": "2.8",
+                    "word": "cup",
+                    "start": "1.4"
+                },
+                {
+                    "end": "4.31",
+                    "word": "bug",
+                    "start": "2.8"
+                },
+                {
+                    "end": "5.99",
+                    "word": "sun",
+                    "start": "4.31"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "껴안다",
+                    "start": "0"
+                },
+                {
+                    "end": "3.272",
+                    "word": "컵",
+                    "start": "1.9"
+                },
+                {
+                    "end": "4.86",
+                    "word": "벌레",
+                    "start": "3.272"
+                },
+                {
+                    "end": "6.519",
+                    "word": "태양",
+                    "start": "4.86"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sun_태양,up_위에,bus_버스,bug_벌레",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUS_bus_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bus_버스",
+            "trans_en": "sun_태양,up_위에,bus_버스,bug_벌레",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "KO_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.68",
+                    "word": "sun",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "up",
+                    "start": "1.68"
+                },
+                {
+                    "end": "4.72",
+                    "word": "bus",
+                    "start": "3.08"
+                },
+                {
+                    "end": "6.23",
+                    "word": "bug",
+                    "start": "4.72"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "태양",
+                    "start": "0"
+                },
+                {
+                    "end": "3.128",
+                    "word": "위에",
+                    "start": "1.66"
+                },
+                {
+                    "end": "4.836",
+                    "word": "버스",
+                    "start": "3.128"
+                },
+                {
+                    "end": "6.423",
+                    "word": "벌레",
+                    "start": "4.836"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cup_컵,bug_벌레,sun_태양,hug_껴안다",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUS_cup_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cup_컵",
+            "trans_en": "cup_컵,bug_벌레,sun_태양,hug_껴안다",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "KO_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "cup",
+                    "start": "0"
+                },
+                {
+                    "end": "2.91",
+                    "word": "bug",
+                    "start": "1.4"
+                },
+                {
+                    "end": "4.59",
+                    "word": "sun",
+                    "start": "2.91"
+                },
+                {
+                    "end": "5.99",
+                    "word": "hug",
+                    "start": "4.59"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.372",
+                    "word": "컵",
+                    "start": "0"
+                },
+                {
+                    "end": "2.96",
+                    "word": "벌레",
+                    "start": "1.372"
+                },
+                {
+                    "end": "4.62",
+                    "word": "태양",
+                    "start": "2.96"
+                },
+                {
+                    "end": "6.519",
+                    "word": "껴안다",
+                    "start": "4.62"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cup_컵,sun_태양,up_위에,bug_벌레",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUS_up_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "up_위에",
+            "trans_en": "cup_컵,sun_태양,up_위에,bug_벌레",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "KO_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.4",
+                    "word": "cup",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "sun",
+                    "start": "1.4"
+                },
+                {
+                    "end": "4.48",
+                    "word": "up",
+                    "start": "3.08"
+                },
+                {
+                    "end": "5.99",
+                    "word": "bug",
+                    "start": "4.48"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.372",
+                    "word": "컵",
+                    "start": "0"
+                },
+                {
+                    "end": "3.032",
+                    "word": "태양",
+                    "start": "1.372"
+                },
+                {
+                    "end": "4.5",
+                    "word": "위에",
+                    "start": "3.032"
+                },
+                {
+                    "end": "6.088",
+                    "word": "벌레",
+                    "start": "4.5"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUS_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"U u  (short u)\",\n        \"ES\": \"U u  (short u)\",\n        \"ZH\": \"U u  (short u)\",\n        \"VI\": \"U u  (short u)\",\n        \"AR\": \"U u  (short u)\",\n        \"KO\": \"U u  (short u)\",\n        \"DA\": \"U u  (short u)\",\n        \"PS\": \"U u  (short u)\",\n        \"TL\": \"U u  (short u)\",\n        \"BN\": \"U u  (short u)\",\n        \"PT\": \"U u  (short u)\",\n        \"HK\": \"U u  (short u)\",\n        \"TW\": \"U u  (short u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Min Jung Jang, Julie Gochman",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "작성자 및 내레이션:Cynthia Harrison Barbera",
+                "번역한 사람:Min Jung Jang, Julie Gochman",
+                "일러스트 작성자:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_UUS"
+        }
+    ]
+}

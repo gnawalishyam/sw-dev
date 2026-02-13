@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O i",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "O i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O i",
+            "en_trans": "o i_o i",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "o i_o i",
+            "trans_text": "O i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "o i",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "o i",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "o i",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "o i",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "OIX_narr_OI_p1.mp3",
+            "nar_audio_trans": "VI_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "o i",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "O i",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "oil",
+            "en_trans": "oil_dầu ăn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_oil_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "dầu ăn_oil",
+            "trans_text": "dầu ăn",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "oil",
+                    "start": "0"
+                },
+                {
+                    "end": "1.74",
+                    "word": "oil",
+                    "start": "1.74"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "dầu ăn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "dầu ăn",
+                    "start": "1.9"
+                }
+            ],
+            "nar_audio_en": "OIX_narr_oil_p2.mp3",
+            "nar_audio_trans": "VI_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "dầu ăn",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "oil",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "boil",
+            "en_trans": "boil_đun sôi",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_boil_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "đun sôi_boil",
+            "trans_text": "đun sôi",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "boil",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "boil",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "đun sôi",
+                    "start": "0"
+                },
+                {
+                    "end": "4.14",
+                    "word": "đun sôi",
+                    "start": "2.07"
+                }
+            ],
+            "nar_audio_en": "OIX_narr_boil_p3.mp3",
+            "nar_audio_trans": "VI_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "đun sôi",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "boil",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "coins",
+            "en_trans": "coins_đồng xu",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_coins_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "đồng xu_coins",
+            "trans_text": "đồng xu",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "coins",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "coins",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "đồng xu",
+                    "start": "0"
+                },
+                {
+                    "end": "4.28",
+                    "word": "đồng xu",
+                    "start": "2.14"
+                }
+            ],
+            "nar_audio_en": "OIX_narr_coins_p4.mp3",
+            "nar_audio_trans": "VI_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "đồng xu",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "coins",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "point",
+            "en_trans": "point_chỉ",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_point_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "chỉ_point",
+            "trans_text": "chỉ",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "point",
+                    "start": "0"
+                },
+                {
+                    "end": "2.16",
+                    "word": "point",
+                    "start": "2.16"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.564",
+                    "word": "chỉ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "chỉ",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "OIX_narr_point_p5.mp3",
+            "nar_audio_trans": "VI_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "chỉ",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "point",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "soil",
+            "en_trans": "soil_đất",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_soil_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "đất_soil",
+            "trans_text": "đất",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "soil",
+                    "start": "0"
+                },
+                {
+                    "end": "2.14",
+                    "word": "soil",
+                    "start": "2.14"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.276",
+                    "word": "đất",
+                    "start": "0"
+                },
+                {
+                    "end": "2.56",
+                    "word": "đất",
+                    "start": "1.28"
+                }
+            ],
+            "nar_audio_en": "OIX_narr_soil_p6.mp3",
+            "nar_audio_trans": "VI_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "đất",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "soil",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "toilet",
+            "en_trans": "toilet_phòng vệ sinh",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_toilet_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "phòng vệ sinh_toilet",
+            "trans_text": "phòng vệ sinh",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "toilet",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "toilet",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.236",
+                    "word": "phòng vệ sinh",
+                    "start": "0"
+                },
+                {
+                    "end": "4.48",
+                    "word": "phòng vệ sinh",
+                    "start": "2.24"
+                }
+            ],
+            "nar_audio_en": "OIX_narr_toilet_p7.mp3",
+            "nar_audio_trans": "VI_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "phòng vệ sinh",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "toilet",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "oil_dầu ăn,point_chỉ,boil_đun sôi,soil_đất",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OIX_soil_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "soil_đất",
+            "trans_en": "oil_dầu ăn,point_chỉ,boil_đun sôi,soil_đất",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "VI_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "oil",
+                    "start": "0"
+                },
+                {
+                    "end": "3.91",
+                    "word": "point",
+                    "start": "1.74"
+                },
+                {
+                    "end": "5.78",
+                    "word": "boil",
+                    "start": "3.91"
+                },
+                {
+                    "end": "7.92",
+                    "word": "soil",
+                    "start": "5.78"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "dầu ăn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.464",
+                    "word": "chỉ",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.532",
+                    "word": "đun sôi",
+                    "start": "3.464"
+                },
+                {
+                    "end": "6.808",
+                    "word": "đất",
+                    "start": "5.532"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "toilet_phòng vệ sinh,oil_dầu ăn,coins_đồng xu,point_chỉ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OIX_oil_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "oil_dầu ăn",
+            "trans_en": "toilet_phòng vệ sinh,oil_dầu ăn,coins_đồng xu,point_chỉ",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "VI_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "toilet",
+                    "start": "0"
+                },
+                {
+                    "end": "3.62",
+                    "word": "oil",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.7",
+                    "word": "coins",
+                    "start": "3.62"
+                },
+                {
+                    "end": "7.87",
+                    "word": "point",
+                    "start": "5.7"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.236",
+                    "word": "phòng vệ sinh",
+                    "start": "0"
+                },
+                {
+                    "end": "4.136",
+                    "word": "dầu ăn",
+                    "start": "2.236"
+                },
+                {
+                    "end": "6.276",
+                    "word": "đồng xu",
+                    "start": "4.136"
+                },
+                {
+                    "end": "7.84",
+                    "word": "chỉ",
+                    "start": "6.276"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "oil_dầu ăn,toilet_phòng vệ sinh,boil_đun sôi,coins_đồng xu",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OIX_coins_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "coins_đồng xu",
+            "trans_en": "oil_dầu ăn,toilet_phòng vệ sinh,boil_đun sôi,coins_đồng xu",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "VI_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "oil",
+                    "start": "0"
+                },
+                {
+                    "end": "3.62",
+                    "word": "toilet",
+                    "start": "1.74"
+                },
+                {
+                    "end": "5.5",
+                    "word": "boil",
+                    "start": "3.62"
+                },
+                {
+                    "end": "7.58",
+                    "word": "coins",
+                    "start": "5.5"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "dầu ăn",
+                    "start": "0"
+                },
+                {
+                    "end": "4.136",
+                    "word": "phòng vệ sinh",
+                    "start": "1.9"
+                },
+                {
+                    "end": "6.204",
+                    "word": "đun sôi",
+                    "start": "4.136"
+                },
+                {
+                    "end": "8.344",
+                    "word": "đồng xu",
+                    "start": "6.204"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "toilet_phòng vệ sinh,point_chỉ,coins_đồng xu,boil_đun sôi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OIX_boil_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "boil_đun sôi",
+            "trans_en": "toilet_phòng vệ sinh,point_chỉ,coins_đồng xu,boil_đun sôi",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "VI_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "toilet",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "point",
+                    "start": "1.88"
+                },
+                {
+                    "end": "6.12",
+                    "word": "coins",
+                    "start": "4.04"
+                },
+                {
+                    "end": "8.0",
+                    "word": "boil",
+                    "start": "6.12"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.236",
+                    "word": "phòng vệ sinh",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "chỉ",
+                    "start": "2.236"
+                },
+                {
+                    "end": "5.94",
+                    "word": "đồng xu",
+                    "start": "3.8"
+                },
+                {
+                    "end": "8.008",
+                    "word": "đun sôi",
+                    "start": "5.94"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "coins_đồng xu,toilet_phòng vệ sinh,soil_đất,boil_đun sôi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OIX_toilet_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "toilet_phòng vệ sinh",
+            "trans_en": "coins_đồng xu,toilet_phòng vệ sinh,soil_đất,boil_đun sôi",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "VI_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "coins",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "toilet",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.1",
+                    "word": "soil",
+                    "start": "3.96"
+                },
+                {
+                    "end": "7.97",
+                    "word": "boil",
+                    "start": "6.1"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "đồng xu",
+                    "start": "0"
+                },
+                {
+                    "end": "4.376",
+                    "word": "phòng vệ sinh",
+                    "start": "2.14"
+                },
+                {
+                    "end": "5.652",
+                    "word": "đất",
+                    "start": "4.376"
+                },
+                {
+                    "end": "7.72",
+                    "word": "đun sôi",
+                    "start": "5.652"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "boil_đun sôi,soil_đất,point_chỉ,toilet_phòng vệ sinh",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OIX_point_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "point_chỉ",
+            "trans_en": "boil_đun sôi,soil_đất,point_chỉ,toilet_phòng vệ sinh",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "VI_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "boil",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "soil",
+                    "start": "1.88"
+                },
+                {
+                    "end": "6.17",
+                    "word": "point",
+                    "start": "4.01"
+                },
+                {
+                    "end": "8.05",
+                    "word": "toilet",
+                    "start": "6.17"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.068",
+                    "word": "đun sôi",
+                    "start": "0"
+                },
+                {
+                    "end": "3.344",
+                    "word": "đất",
+                    "start": "2.068"
+                },
+                {
+                    "end": "4.908",
+                    "word": "chỉ",
+                    "start": "3.344"
+                },
+                {
+                    "end": "7.144",
+                    "word": "phòng vệ sinh",
+                    "start": "4.908"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OIX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OI  oi\",\n        \"ES\": \"OI  oi\",\n        \"ZH\": \"OI  oi\",\n        \"VI\": \"OI  oi\",\n        \"AR\": \"OI  oi\",\n        \"KO\": \"OI  oi\",\n        \"DA\": \"OI  oi\",\n        \"PS\": \"OI  oi\",\n        \"TL\": \"OI  oi\",\n        \"BN\": \"OI  oi\",\n        \"PT\": \"OI  oi\",\n        \"HK\": \"OI  oi\",\n        \"TW\": \"OI  oi\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Viết và thuật lại bởi:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Minh họa bởi:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_OIX"
+        }
+    ]
+}

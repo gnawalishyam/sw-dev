@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O o",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O o",
+            "en_trans": "o o_o o",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "o o_o o",
+            "trans_text": "O o",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.56",
+                    "word": "o o",
+                    "start": "0"
+                },
+                {
+                    "end": "1.56",
+                    "word": "o o",
+                    "start": "1.56"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.804",
+                    "word": "o o",
+                    "start": "0"
+                },
+                {
+                    "end": "3.6",
+                    "word": "o o",
+                    "start": "1.8"
+                }
+            ],
+            "nar_audio_en": "OSO_narr_OOS_p1.mp3",
+            "nar_audio_trans": "VI_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "o o",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "O O",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "look",
+            "en_trans": "look_nhìn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_look_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "nhìn_look",
+            "trans_text": "nhìn",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "look",
+                    "start": "0"
+                },
+                {
+                    "end": "1.77",
+                    "word": "look",
+                    "start": "1.77"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.564",
+                    "word": "nhìn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "nhìn",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "OSO_narr_look_p2.mp3",
+            "nar_audio_trans": "VI_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "nhìn",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "look",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "book",
+            "en_trans": "book_quyển sách",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_book_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "quyển sách_book",
+            "trans_text": "quyển sách",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "book",
+                    "start": "0"
+                },
+                {
+                    "end": "1.59",
+                    "word": "book",
+                    "start": "1.59"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.636",
+                    "word": "quyển sách",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "quyển sách",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "OSO_narr_book_p3.mp3",
+            "nar_audio_trans": "VI_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "quyển sách",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "book",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cook",
+            "en_trans": "cook_đầu bếp",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_cook_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "đầu bếp_cook",
+            "trans_text": "đầu bếp",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "cook",
+                    "start": "0"
+                },
+                {
+                    "end": "1.8",
+                    "word": "cook",
+                    "start": "1.8"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "đầu bếp",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "đầu bếp",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "OSO_narr_cook_p4.mp3",
+            "nar_audio_trans": "VI_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "đầu bếp",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cook",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "foot",
+            "en_trans": "foot_bàn chân",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_foot_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "bàn chân_foot",
+            "trans_text": "bàn chân",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "foot",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "foot",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "bàn chân",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "bàn chân",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "OSO_narr_foot_p5.mp3",
+            "nar_audio_trans": "VI_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "bàn chân",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "foot",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "wood",
+            "en_trans": "wood_gỗ",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_wood_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "gỗ_wood",
+            "trans_text": "gỗ",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "wood",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "wood",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "gỗ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "gỗ",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "OSO_narr_wood_p6.mp3",
+            "nar_audio_trans": "VI_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "gỗ",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "wood",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "hook",
+            "en_trans": "hook_cái móc",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_hook_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "cái móc_hook",
+            "trans_text": "cái móc",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.48",
+                    "word": "hook",
+                    "start": "0"
+                },
+                {
+                    "end": "1.48",
+                    "word": "hook",
+                    "start": "1.48"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.492",
+                    "word": "cái móc",
+                    "start": "0"
+                },
+                {
+                    "end": "2.98",
+                    "word": "cái móc",
+                    "start": "1.49"
+                }
+            ],
+            "nar_audio_en": "OSO_narr_hook_p7.mp3",
+            "nar_audio_trans": "VI_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "cái móc",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "hook",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "hook_cái móc,cook_đầu bếp,foot_bàn chân,look_nhìn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OSO_hook_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "hook_cái móc",
+            "trans_en": "hook_cái móc,cook_đầu bếp,foot_bàn chân,look_nhìn",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "VI_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.48",
+                    "word": "hook",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "cook",
+                    "start": "1.48"
+                },
+                {
+                    "end": "5.21",
+                    "word": "foot",
+                    "start": "3.28"
+                },
+                {
+                    "end": "6.98",
+                    "word": "look",
+                    "start": "5.21"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.492",
+                    "word": "cái móc",
+                    "start": "0"
+                },
+                {
+                    "end": "3.248",
+                    "word": "đầu bếp",
+                    "start": "1.492"
+                },
+                {
+                    "end": "5.172",
+                    "word": "bàn chân",
+                    "start": "3.248"
+                },
+                {
+                    "end": "6.736",
+                    "word": "nhìn",
+                    "start": "5.172"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cook_đầu bếp,foot_bàn chân,hook_cái móc,wood_gỗ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OSO_wood_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "wood_gỗ",
+            "trans_en": "cook_đầu bếp,foot_bàn chân,hook_cái móc,wood_gỗ",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "VI_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "cook",
+                    "start": "0"
+                },
+                {
+                    "end": "3.72",
+                    "word": "foot",
+                    "start": "1.8"
+                },
+                {
+                    "end": "5.21",
+                    "word": "hook",
+                    "start": "3.72"
+                },
+                {
+                    "end": "7.14",
+                    "word": "wood",
+                    "start": "5.21"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "đầu bếp",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "bàn chân",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.172",
+                    "word": "cái móc",
+                    "start": "3.68"
+                },
+                {
+                    "end": "6.76",
+                    "word": "gỗ",
+                    "start": "5.172"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "wood_gỗ,cook_đầu bếp,book_quyển sách,look_nhìn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OSO_book_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "book_quyển sách",
+            "trans_en": "wood_gỗ,cook_đầu bếp,book_quyển sách,look_nhìn",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "VI_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "wood",
+                    "start": "0"
+                },
+                {
+                    "end": "3.72",
+                    "word": "cook",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.31",
+                    "word": "book",
+                    "start": "3.72"
+                },
+                {
+                    "end": "7.08",
+                    "word": "look",
+                    "start": "5.31"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "gỗ",
+                    "start": "0"
+                },
+                {
+                    "end": "3.344",
+                    "word": "đầu bếp",
+                    "start": "1.588"
+                },
+                {
+                    "end": "4.98",
+                    "word": "quyển sách",
+                    "start": "3.344"
+                },
+                {
+                    "end": "6.543",
+                    "word": "nhìn",
+                    "start": "4.98"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "foot_bàn chân,book_quyển sách,look_nhìn,hook_cái móc",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OSO_foot_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "foot_bàn chân",
+            "trans_en": "foot_bàn chân,book_quyển sách,look_nhìn,hook_cái móc",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "VI_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "foot",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "book",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.29",
+                    "word": "look",
+                    "start": "3.52"
+                },
+                {
+                    "end": "6.77",
+                    "word": "hook",
+                    "start": "5.29"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "bàn chân",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "quyển sách",
+                    "start": "1.924"
+                },
+                {
+                    "end": "5.124",
+                    "word": "nhìn",
+                    "start": "3.56"
+                },
+                {
+                    "end": "6.615",
+                    "word": "cái móc",
+                    "start": "5.124"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "book_quyển sách,cook_đầu bếp,look_nhìn,hook_cái móc",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OSO_look_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "look_nhìn",
+            "trans_en": "book_quyển sách,cook_đầu bếp,look_nhìn,hook_cái móc",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "VI_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "book",
+                    "start": "0"
+                },
+                {
+                    "end": "3.39",
+                    "word": "cook",
+                    "start": "1.59"
+                },
+                {
+                    "end": "5.16",
+                    "word": "look",
+                    "start": "3.39"
+                },
+                {
+                    "end": "6.64",
+                    "word": "hook",
+                    "start": "5.16"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.636",
+                    "word": "quyển sách",
+                    "start": "0"
+                },
+                {
+                    "end": "3.392",
+                    "word": "đầu bếp",
+                    "start": "1.636"
+                },
+                {
+                    "end": "4.956",
+                    "word": "nhìn",
+                    "start": "3.392"
+                },
+                {
+                    "end": "6.447",
+                    "word": "cái móc",
+                    "start": "4.956"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "foot_bàn chân,wood_gỗ,book_quyển sách,cook_đầu bếp",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OSO_cook_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cook_đầu bếp",
+            "trans_en": "foot_bàn chân,wood_gỗ,book_quyển sách,cook_đầu bếp",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "VI_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "foot",
+                    "start": "0"
+                },
+                {
+                    "end": "3.86",
+                    "word": "wood",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.44",
+                    "word": "book",
+                    "start": "3.86"
+                },
+                {
+                    "end": "7.24",
+                    "word": "cook",
+                    "start": "5.44"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "bàn chân",
+                    "start": "0"
+                },
+                {
+                    "end": "3.512",
+                    "word": "gỗ",
+                    "start": "1.924"
+                },
+                {
+                    "end": "5.148",
+                    "word": "quyển sách",
+                    "start": "3.512"
+                },
+                {
+                    "end": "6.904",
+                    "word": "đầu bếp",
+                    "start": "5.148"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OSO_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OSO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ES\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"ZH\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"VI\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"AR\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"KO\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"DA\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PS\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TL\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"BN\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"PT\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"HK\": \"OO  oo  (short \\\"oo\\\" sound))\",\n        \"TW\": \"OO  oo  (short \\\"oo\\\" sound))\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Viết và thuật lại bởi:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Minh họa bởi:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_OSO"
+        }
+    ]
+}

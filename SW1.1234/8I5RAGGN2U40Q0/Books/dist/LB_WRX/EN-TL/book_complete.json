@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "W r",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "W r",
+            "en_trans": "w r_w r",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "w r_w r",
+            "trans_text": "W r",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "w r",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "w r",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.212",
+                    "word": "w r",
+                    "start": "0"
+                },
+                {
+                    "end": "4.42",
+                    "word": "w r",
+                    "start": "2.21"
+                }
+            ],
+            "nar_audio_en": "WRX_narr_WR_p1.mp3",
+            "nar_audio_trans": "TL_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "w r",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "W r",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "wrist",
+            "en_trans": "wrist_pulso",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_wrist_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "pulso_wrist",
+            "trans_text": "pulso",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "wrist",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "wrist",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "pulso",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "pulso",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "WRX_narr_wrist_p2.mp3",
+            "nar_audio_trans": "TL_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "pulso",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "wrist",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "wreck",
+            "en_trans": "wreck_pagkawasak",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_wreck_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "pagkawasak_wreck",
+            "trans_text": "pagkawasak",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "wreck",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "wreck",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.164",
+                    "word": "pagkawasak",
+                    "start": "0"
+                },
+                {
+                    "end": "4.32",
+                    "word": "pagkawasak",
+                    "start": "2.16"
+                }
+            ],
+            "nar_audio_en": "WRX_narr_wreck_p3.mp3",
+            "nar_audio_trans": "TL_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "pagkawasak",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "wreck",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "wrong",
+            "en_trans": "wrong_mali",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_wrong_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "mali_wrong",
+            "trans_text": "mali",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "wrong",
+                    "start": "0"
+                },
+                {
+                    "end": "2.06",
+                    "word": "wrong",
+                    "start": "2.06"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "mali",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "mali",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "WRX_narr_wrong_p4.mp3",
+            "nar_audio_trans": "TL_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "mali",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "wrong",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "write",
+            "en_trans": "write_magsulat",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_write_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "magsulat_write",
+            "trans_text": "magsulat",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "write",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "write",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "magsulat",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "magsulat",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "WRX_narr_write_p5.mp3",
+            "nar_audio_trans": "TL_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "magsulat",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "write",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "wrench",
+            "en_trans": "wrench_liyabe",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_wrench_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "liyabe_wrench",
+            "trans_text": "liyabe",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "wrench",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "wrench",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "liyabe",
+                    "start": "0"
+                },
+                {
+                    "end": "3.76",
+                    "word": "liyabe",
+                    "start": "1.88"
+                }
+            ],
+            "nar_audio_en": "WRX_narr_wrench_p6.mp3",
+            "nar_audio_trans": "TL_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "liyabe",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "wrench",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "wreath",
+            "en_trans": "wreath_korona",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_wreath_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "korona_wreath",
+            "trans_text": "korona",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.72",
+                    "word": "wreath",
+                    "start": "0"
+                },
+                {
+                    "end": "1.72",
+                    "word": "wreath",
+                    "start": "1.72"
+                }
+            ],
+            "trans_vocab_audio": "TL_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "korona",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "korona",
+                    "start": "1.78"
+                }
+            ],
+            "nar_audio_en": "WRX_narr_wreath_p7.mp3",
+            "nar_audio_trans": "TL_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "korona",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "wreath",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "wreck_pagkawasak,wrench_liyabe,wrong_mali,wreath_korona",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_WRX_wrench_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "wrench_liyabe",
+            "trans_en": "wreck_pagkawasak,wrench_liyabe,wrong_mali,wreath_korona",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "TL_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "wreck",
+                    "start": "0"
+                },
+                {
+                    "end": "3.86",
+                    "word": "wrench",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.91",
+                    "word": "wrong",
+                    "start": "3.86"
+                },
+                {
+                    "end": "7.63",
+                    "word": "wreath",
+                    "start": "5.91"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.164",
+                    "word": "pagkawasak",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "liyabe",
+                    "start": "2.164"
+                },
+                {
+                    "end": "5.58",
+                    "word": "mali",
+                    "start": "4.04"
+                },
+                {
+                    "end": "7.359",
+                    "word": "korona",
+                    "start": "5.58"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "wrench_liyabe,write_magsulat,wreath_korona,wrong_mali",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_WRX_wreath_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "wreath_korona",
+            "trans_en": "wrench_liyabe,write_magsulat,wreath_korona,wrong_mali",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "TL_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "wrench",
+                    "start": "0"
+                },
+                {
+                    "end": "3.93",
+                    "word": "write",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.65",
+                    "word": "wreath",
+                    "start": "3.93"
+                },
+                {
+                    "end": "7.71",
+                    "word": "wrong",
+                    "start": "5.65"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.876",
+                    "word": "liyabe",
+                    "start": "0"
+                },
+                {
+                    "end": "3.704",
+                    "word": "magsulat",
+                    "start": "1.876"
+                },
+                {
+                    "end": "5.484",
+                    "word": "korona",
+                    "start": "3.704"
+                },
+                {
+                    "end": "7.024",
+                    "word": "mali",
+                    "start": "5.484"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "wrist_pulso,write_magsulat,wrong_mali,wreck_pagkawasak",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_WRX_wreck_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "wreck_pagkawasak",
+            "trans_en": "wrist_pulso,write_magsulat,wrong_mali,wreck_pagkawasak",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "TL_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "wrist",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "write",
+                    "start": "2.01"
+                },
+                {
+                    "end": "6.07",
+                    "word": "wrong",
+                    "start": "4.01"
+                },
+                {
+                    "end": "8.0",
+                    "word": "wreck",
+                    "start": "6.07"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "pulso",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "magsulat",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.124",
+                    "word": "mali",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.287",
+                    "word": "pagkawasak",
+                    "start": "5.124"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "wrong_mali,write_magsulat,wrench_liyabe,wrist_pulso",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_WRX_wrist_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "wrist_pulso",
+            "trans_en": "wrong_mali,write_magsulat,wrench_liyabe,wrist_pulso",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "TL_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "wrong",
+                    "start": "0"
+                },
+                {
+                    "end": "4.06",
+                    "word": "write",
+                    "start": "2.06"
+                },
+                {
+                    "end": "5.99",
+                    "word": "wrench",
+                    "start": "4.06"
+                },
+                {
+                    "end": "8.0",
+                    "word": "wrist",
+                    "start": "5.99"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "mali",
+                    "start": "0"
+                },
+                {
+                    "end": "3.368",
+                    "word": "magsulat",
+                    "start": "1.54"
+                },
+                {
+                    "end": "5.244",
+                    "word": "liyabe",
+                    "start": "3.368"
+                },
+                {
+                    "end": "7.0",
+                    "word": "pulso",
+                    "start": "5.244"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "write_magsulat,wreath_korona,wrong_mali,wrist_pulso",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_WRX_wrong_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "wrong_mali",
+            "trans_en": "write_magsulat,wreath_korona,wrong_mali,wrist_pulso",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "TL_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "write",
+                    "start": "0"
+                },
+                {
+                    "end": "3.72",
+                    "word": "wreath",
+                    "start": "2.01"
+                },
+                {
+                    "end": "5.78",
+                    "word": "wrong",
+                    "start": "3.72"
+                },
+                {
+                    "end": "7.79",
+                    "word": "wrist",
+                    "start": "5.78"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "magsulat",
+                    "start": "0"
+                },
+                {
+                    "end": "3.608",
+                    "word": "korona",
+                    "start": "1.828"
+                },
+                {
+                    "end": "5.148",
+                    "word": "mali",
+                    "start": "3.608"
+                },
+                {
+                    "end": "6.904",
+                    "word": "pulso",
+                    "start": "5.148"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "wreck_pagkawasak,wrist_pulso,write_magsulat,wrong_mali",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_WRX_write_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "write_magsulat",
+            "trans_en": "wreck_pagkawasak,wrist_pulso,write_magsulat,wrong_mali",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "TL_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Ano ang larawang ito?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "TL_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "wreck",
+                    "start": "0"
+                },
+                {
+                    "end": "3.93",
+                    "word": "wrist",
+                    "start": "1.93"
+                },
+                {
+                    "end": "5.94",
+                    "word": "write",
+                    "start": "3.93"
+                },
+                {
+                    "end": "8.0",
+                    "word": "wrong",
+                    "start": "5.94"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.164",
+                    "word": "pagkawasak",
+                    "start": "0"
+                },
+                {
+                    "end": "3.92",
+                    "word": "pulso",
+                    "start": "2.164"
+                },
+                {
+                    "end": "5.748",
+                    "word": "magsulat",
+                    "start": "3.92"
+                },
+                {
+                    "end": "7.287",
+                    "word": "mali",
+                    "start": "5.748"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_WRX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_WRX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"WR  wr\",\n        \"ES\": \"WR  wr\",\n        \"ZH\": \"WR  wr\",\n        \"VI\": \"WR  wr\",\n        \"AR\": \"WR  wr\",\n        \"KO\": \"WR  wr\",\n        \"DA\": \"WR  wr\",\n        \"PS\": \"WR  wr\",\n        \"TL\": \"WR  wr\",\n        \"BN\": \"WR  wr\",\n        \"PT\": \"WR  wr\",\n        \"HK\": \"WR  wr\",\n        \"TW\": \"WR  wr\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mar Anthony dela Cruz",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Isinulat at Nasalaysay ni:Cynthia Harrison Barbera",
+                "Isinalin sa pamamagitan ng:Mar Anthony dela Cruz",
+                "Isinalarawan sa pamamagitan ng:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_WRX"
+        }
+    ]
+}

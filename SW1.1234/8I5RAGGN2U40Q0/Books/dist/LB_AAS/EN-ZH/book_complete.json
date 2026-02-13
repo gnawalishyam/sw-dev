@@ -1,0 +1,975 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A a",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "A a",
+            "en_trans": "a a_a a_a a",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "a a_a a_a a",
+            "trans_text": "A a",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.84",
+                    "word": "a a",
+                    "start": "0"
+                },
+                {
+                    "end": "2.84",
+                    "word": "a a",
+                    "start": "2.84"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "a a",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "a a",
+                    "roman": "a a",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "AAS_narr_A-a_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "a a",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "A A",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ant",
+            "en_trans": "ant_蚂蚁_mǎ yǐ",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_ant_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "蚂蚁_ant_mǎ yǐ",
+            "trans_text": "蚂蚁",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.5",
+                    "word": "ant",
+                    "start": "0"
+                },
+                {
+                    "end": "1.5",
+                    "word": "ant",
+                    "start": "1.5"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "蚂蚁",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "蚂蚁",
+                    "roman": "mǎ yǐ",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "AAS_narr_ant_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "蚂蚁",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ant",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bat",
+            "en_trans": "bat_蝙蝠_biān fú",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_bat_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "蝙蝠_bat_biān fú",
+            "trans_text": "蝙蝠",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "bat",
+                    "start": "0"
+                },
+                {
+                    "end": "1.62",
+                    "word": "bat",
+                    "start": "1.62"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "蝙蝠",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "蝙蝠",
+                    "roman": "biān fú",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "AAS_narr_bat_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "蝙蝠",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bat",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "crab",
+            "en_trans": "crab_螃蟹_páng xiè",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_crab_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "螃蟹_crab_páng xiè",
+            "trans_text": "螃蟹",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "crab",
+                    "start": "0"
+                },
+                {
+                    "end": "1.51",
+                    "word": "crab",
+                    "start": "1.51"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "螃蟹",
+                    "start": "0"
+                },
+                {
+                    "end": "3.44",
+                    "word": "螃蟹",
+                    "roman": "páng xiè",
+                    "start": "1.72"
+                }
+            ],
+            "nar_audio_en": "AAS_narr_crab_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "螃蟹",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "crab",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "fan",
+            "en_trans": "fan_风扇_fēng shàn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_fan_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "风扇_fan_fēng shàn",
+            "trans_text": "风扇",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.6",
+                    "word": "fan",
+                    "start": "0"
+                },
+                {
+                    "end": "1.6",
+                    "word": "fan",
+                    "start": "1.6"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "风扇",
+                    "start": "0"
+                },
+                {
+                    "end": "3.44",
+                    "word": "风扇",
+                    "roman": "fēng shàn",
+                    "start": "1.72"
+                }
+            ],
+            "nar_audio_en": "AAS_narr_fan_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "风扇",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "fan",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bag",
+            "en_trans": "bag_包包_bāo bāo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_bag_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "包包_bag_bāo bāo",
+            "trans_text": "包包",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "bag",
+                    "start": "0"
+                },
+                {
+                    "end": "1.73",
+                    "word": "bag",
+                    "start": "1.73"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "包包",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "包包",
+                    "roman": "bāo bāo",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "AAS_narr_bag_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "包包",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bag",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "pants",
+            "en_trans": "pants_裤子_kù zi",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_pants_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "裤子_pants_kù zi",
+            "trans_text": "裤子",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "pants",
+                    "start": "0"
+                },
+                {
+                    "end": "1.54",
+                    "word": "pants",
+                    "start": "1.54"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "裤子",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "裤子",
+                    "roman": "kù zi",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "AAS_narr_pants_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "裤子",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "pants",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bag_包包_bāo bāo,crab_螃蟹_páng xiè,pants_裤子_kù zi,bat_蝙蝠_biān fú",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAS_bat_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bat_蝙蝠",
+            "trans_en": "bag_包包_bag,crab_螃蟹_crab,pants_裤子_pants,bat_蝙蝠_bat",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "bag",
+                    "start": "0"
+                },
+                {
+                    "end": "3.24",
+                    "word": "crab",
+                    "start": "1.73"
+                },
+                {
+                    "end": "4.79",
+                    "word": "pants",
+                    "start": "3.24"
+                },
+                {
+                    "end": "6.4",
+                    "word": "bat",
+                    "start": "4.79"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "包包",
+                    "roman": "bāo bāo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.281",
+                    "word": "螃蟹",
+                    "roman": "páng xiè",
+                    "start": "1.562"
+                },
+                {
+                    "end": "4.816",
+                    "word": "裤子",
+                    "roman": "kù zi",
+                    "start": "3.281"
+                },
+                {
+                    "end": "6.457",
+                    "word": "蝙蝠",
+                    "roman": "biān fú",
+                    "start": "4.816"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "pants_裤子_kù zi,fan_风扇_fēng shàn,ant_蚂蚁_mǎ yǐ,crab_螃蟹_páng xiè",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAS_crab_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "crab_螃蟹",
+            "trans_en": "pants_裤子_pants,fan_风扇_fan,ant_蚂蚁_ant,crab_螃蟹_crab",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "pants",
+                    "start": "0"
+                },
+                {
+                    "end": "3.15",
+                    "word": "fan",
+                    "start": "1.54"
+                },
+                {
+                    "end": "4.65",
+                    "word": "ant",
+                    "start": "3.15"
+                },
+                {
+                    "end": "6.16",
+                    "word": "crab",
+                    "start": "4.65"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "裤子",
+                    "roman": "kù zi",
+                    "start": "0"
+                },
+                {
+                    "end": "3.255",
+                    "word": "风扇",
+                    "roman": "fēng shàn",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.895",
+                    "word": "蚂蚁",
+                    "roman": "mǎ yǐ",
+                    "start": "3.255"
+                },
+                {
+                    "end": "6.614",
+                    "word": "螃蟹",
+                    "roman": "páng xiè",
+                    "start": "4.895"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "fan_风扇_fēng shàn,bat_蝙蝠_biān fú,pants_裤子_kù zi,crab_螃蟹_páng xiè",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAS_fan_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "fan_风扇",
+            "trans_en": "fan_风扇_fan,bat_蝙蝠_bat,pants_裤子_pants,crab_螃蟹_crab",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.6",
+                    "word": "fan",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "bat",
+                    "start": "1.6"
+                },
+                {
+                    "end": "4.76",
+                    "word": "pants",
+                    "start": "3.22"
+                },
+                {
+                    "end": "6.27",
+                    "word": "crab",
+                    "start": "4.76"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "风扇",
+                    "roman": "fēng shàn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.359",
+                    "word": "蝙蝠",
+                    "roman": "biān fú",
+                    "start": "1.719"
+                },
+                {
+                    "end": "4.895",
+                    "word": "裤子",
+                    "roman": "kù zi",
+                    "start": "3.359"
+                },
+                {
+                    "end": "6.614",
+                    "word": "螃蟹",
+                    "roman": "páng xiè",
+                    "start": "4.895"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "crab_螃蟹_páng xiè,bag_包包_bāo bāo,pants_裤子_kù zi,ant_蚂蚁_mǎ yǐ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAS_pants_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "pants_裤子",
+            "trans_en": "crab_螃蟹_crab,bag_包包_bag,pants_裤子_pants,ant_蚂蚁_ant",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "crab",
+                    "start": "0"
+                },
+                {
+                    "end": "3.24",
+                    "word": "bag",
+                    "start": "1.51"
+                },
+                {
+                    "end": "4.79",
+                    "word": "pants",
+                    "start": "3.24"
+                },
+                {
+                    "end": "6.29",
+                    "word": "ant",
+                    "start": "4.79"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "螃蟹",
+                    "roman": "páng xiè",
+                    "start": "0"
+                },
+                {
+                    "end": "3.281",
+                    "word": "包包",
+                    "roman": "bāo bāo",
+                    "start": "1.719"
+                },
+                {
+                    "end": "4.816",
+                    "word": "裤子",
+                    "roman": "kù zi",
+                    "start": "3.281"
+                },
+                {
+                    "end": "6.457",
+                    "word": "蚂蚁",
+                    "roman": "mǎ yǐ",
+                    "start": "4.816"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "fan_风扇_fēng shàn,pants_裤子_kù zi,ant_蚂蚁_mǎ yǐ,bat_蝙蝠_biān fú",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAS_ant_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ant_蚂蚁",
+            "trans_en": "fan_风扇_fan,pants_裤子_pants,ant_蚂蚁_ant,bat_蝙蝠_bat",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.6",
+                    "word": "fan",
+                    "start": "0"
+                },
+                {
+                    "end": "3.15",
+                    "word": "pants",
+                    "start": "1.6"
+                },
+                {
+                    "end": "4.65",
+                    "word": "ant",
+                    "start": "3.15"
+                },
+                {
+                    "end": "6.27",
+                    "word": "bat",
+                    "start": "4.65"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "风扇",
+                    "roman": "fēng shàn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.255",
+                    "word": "裤子",
+                    "roman": "kù zi",
+                    "start": "1.719"
+                },
+                {
+                    "end": "4.895",
+                    "word": "蚂蚁",
+                    "roman": "mǎ yǐ",
+                    "start": "3.255"
+                },
+                {
+                    "end": "6.535",
+                    "word": "蝙蝠",
+                    "roman": "biān fú",
+                    "start": "4.895"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bag_包包_bāo bāo,fan_风扇_fēng shàn,crab_螃蟹_páng xiè,ant_蚂蚁_mǎ yǐ",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_AAS_bag_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bag_包包",
+            "trans_en": "bag_包包_bag,fan_风扇_fan,crab_螃蟹_crab,ant_蚂蚁_ant",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "bag",
+                    "start": "0"
+                },
+                {
+                    "end": "3.33",
+                    "word": "fan",
+                    "start": "1.73"
+                },
+                {
+                    "end": "4.85",
+                    "word": "crab",
+                    "start": "3.33"
+                },
+                {
+                    "end": "6.35",
+                    "word": "ant",
+                    "start": "4.85"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "包包",
+                    "roman": "bāo bāo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.281",
+                    "word": "风扇",
+                    "roman": "fēng shàn",
+                    "start": "1.562"
+                },
+                {
+                    "end": "4.999",
+                    "word": "螃蟹",
+                    "roman": "páng xiè",
+                    "start": "3.281"
+                },
+                {
+                    "end": "6.64",
+                    "word": "蚂蚁",
+                    "roman": "mǎ yǐ",
+                    "start": "4.999"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_AAS_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_AAS\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 3,\n        \"ES\": 3,\n        \"ZH\": 3,\n        \"VI\": 3,\n        \"AR\": 3,\n        \"KO\": 3,\n        \"DA\": 3,\n        \"PS\": 3,\n        \"TL\": 3,\n        \"BN\": 3,\n        \"PT\": 3,\n        \"HK\": 3,\n        \"TW\": 3\n    },\n    \"title\": {\n        \"EN\": \"A a  (short a)\",\n        \"ES\": \"A a  (short a)\",\n        \"ZH\": \"A a  (short a)\",\n        \"VI\": \"A a  (short a)\",\n        \"AR\": \"A a  (short a)\",\n        \"KO\": \"A a  (short a)\",\n        \"DA\": \"A a  (short a)\",\n        \"PS\": \"A a  (short a)\",\n        \"TL\": \"A a  (short a)\",\n        \"BN\": \"A a  (short a)\",\n        \"PT\": \"A a  (short a)\",\n        \"HK\": \"A a  (short a)\",\n        \"TW\": \"A a  (short a)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_AAS"
+        }
+    ]
+}

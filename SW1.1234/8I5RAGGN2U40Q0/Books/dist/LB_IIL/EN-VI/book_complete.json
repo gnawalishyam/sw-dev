@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "I i",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "I i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "I i",
+            "en_trans": "i i_i i",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "i i_i i",
+            "trans_text": "I i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.68",
+                    "word": "i i",
+                    "start": "0"
+                },
+                {
+                    "end": "2.68",
+                    "word": "i i",
+                    "start": "2.68"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "i i",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "i i",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "IIL_narr_Ii_p1.mp3",
+            "nar_audio_trans": "VI_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "i i",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "I I",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ice",
+            "en_trans": "ice_đá",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_ice_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "đá_ice",
+            "trans_text": "đá",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "ice",
+                    "start": "0"
+                },
+                {
+                    "end": "1.74",
+                    "word": "ice",
+                    "start": "1.74"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "đá",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "đá",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "IIL_narr_ice_p2.mp3",
+            "nar_audio_trans": "VI_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "đá",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ice",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bike",
+            "en_trans": "bike_xe đạp",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_bike_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "xe đạp_bike",
+            "trans_text": "xe đạp",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "bike",
+                    "start": "0"
+                },
+                {
+                    "end": "1.43",
+                    "word": "bike",
+                    "start": "1.43"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "xe đạp",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "xe đạp",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "IIL_narr_bike_p3.mp3",
+            "nar_audio_trans": "VI_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "xe đạp",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bike",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ride",
+            "en_trans": "ride_lái xe",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_ride_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "lái xe_ride",
+            "trans_text": "lái xe",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "ride",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "ride",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "lái xe",
+                    "start": "0"
+                },
+                {
+                    "end": "3.94",
+                    "word": "lái xe",
+                    "start": "1.97"
+                }
+            ],
+            "nar_audio_en": "IIL_narr_ride_p4.mp3",
+            "nar_audio_trans": "VI_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "lái xe",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ride",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "five",
+            "en_trans": "five_số năm",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_five_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "số năm_five",
+            "trans_text": "số năm",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "five",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "five",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "số năm",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "số năm",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "IIL_narr_five_p5.mp3",
+            "nar_audio_trans": "VI_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "số năm",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "five",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "hide",
+            "en_trans": "hide_giấu",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_hide_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "giấu_hide",
+            "trans_text": "giấu",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "hide",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "hide",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "giấu",
+                    "start": "0"
+                },
+                {
+                    "end": "3.32",
+                    "word": "giấu",
+                    "start": "1.66"
+                }
+            ],
+            "nar_audio_en": "IIL_narr_hide_p6.mp3",
+            "nar_audio_trans": "VI_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "giấu",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "hide",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "time",
+            "en_trans": "time_thời gian",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_time_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "thời gian_time",
+            "trans_text": "thời gian",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.0",
+                    "word": "time",
+                    "start": "0"
+                },
+                {
+                    "end": "2.0",
+                    "word": "time",
+                    "start": "2.0"
+                }
+            ],
+            "trans_vocab_audio": "VI_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "thời gian",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "thời gian",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "IIL_narr_time_p7.mp3",
+            "nar_audio_trans": "VI_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "thời gian",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "time",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "ride_lái xe,bike_xe đạp,time_thời gian,ice_đá",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIL_ride_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ride_lái xe",
+            "trans_en": "ride_lái xe,bike_xe đạp,time_thời gian,ice_đá",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "VI_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "ride",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "bike",
+                    "start": "1.85"
+                },
+                {
+                    "end": "5.28",
+                    "word": "time",
+                    "start": "3.28"
+                },
+                {
+                    "end": "7.02",
+                    "word": "ice",
+                    "start": "5.28"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "lái xe",
+                    "start": "0"
+                },
+                {
+                    "end": "3.656",
+                    "word": "xe đạp",
+                    "start": "1.972"
+                },
+                {
+                    "end": "5.484",
+                    "word": "thời gian",
+                    "start": "3.656"
+                },
+                {
+                    "end": "7.072",
+                    "word": "đá",
+                    "start": "5.484"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "five_số năm,ice_đá,ride_lái xe,time_thời gian",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIL_ice_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ice_đá",
+            "trans_en": "five_số năm,ice_đá,ride_lái xe,time_thời gian",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "VI_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "five",
+                    "start": "0"
+                },
+                {
+                    "end": "3.64",
+                    "word": "ice",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.49",
+                    "word": "ride",
+                    "start": "3.64"
+                },
+                {
+                    "end": "7.49",
+                    "word": "time",
+                    "start": "5.49"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "số năm",
+                    "start": "0"
+                },
+                {
+                    "end": "3.512",
+                    "word": "đá",
+                    "start": "1.924"
+                },
+                {
+                    "end": "5.484",
+                    "word": "lái xe",
+                    "start": "3.512"
+                },
+                {
+                    "end": "7.311",
+                    "word": "thời gian",
+                    "start": "5.484"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "hide_giấu,ride_lái xe,time_thời gian,five_số năm",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIL_five_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "five_số năm",
+            "trans_en": "hide_giấu,ride_lái xe,time_thời gian,five_số năm",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "VI_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "hide",
+                    "start": "0"
+                },
+                {
+                    "end": "3.86",
+                    "word": "ride",
+                    "start": "2.01"
+                },
+                {
+                    "end": "5.86",
+                    "word": "time",
+                    "start": "3.86"
+                },
+                {
+                    "end": "7.76",
+                    "word": "five",
+                    "start": "5.86"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.66",
+                    "word": "giấu",
+                    "start": "0"
+                },
+                {
+                    "end": "3.632",
+                    "word": "lái xe",
+                    "start": "1.66"
+                },
+                {
+                    "end": "5.46",
+                    "word": "thời gian",
+                    "start": "3.632"
+                },
+                {
+                    "end": "7.383",
+                    "word": "số năm",
+                    "start": "5.46"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "time_thời gian,bike_xe đạp,ride_lái xe,five_số năm",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIL_time_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "time_thời gian",
+            "trans_en": "time_thời gian,bike_xe đạp,ride_lái xe,five_số năm",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "VI_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.0",
+                    "word": "time",
+                    "start": "0"
+                },
+                {
+                    "end": "3.43",
+                    "word": "bike",
+                    "start": "2.0"
+                },
+                {
+                    "end": "5.28",
+                    "word": "ride",
+                    "start": "3.43"
+                },
+                {
+                    "end": "7.18",
+                    "word": "five",
+                    "start": "5.28"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "thời gian",
+                    "start": "0"
+                },
+                {
+                    "end": "3.512",
+                    "word": "xe đạp",
+                    "start": "1.828"
+                },
+                {
+                    "end": "5.484",
+                    "word": "lái xe",
+                    "start": "3.512"
+                },
+                {
+                    "end": "7.407",
+                    "word": "số năm",
+                    "start": "5.484"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "five_số năm,ride_lái xe,hide_giấu,ice_đá",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIL_hide_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "hide_giấu",
+            "trans_en": "five_số năm,ride_lái xe,hide_giấu,ice_đá",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "VI_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "five",
+                    "start": "0"
+                },
+                {
+                    "end": "3.75",
+                    "word": "ride",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.76",
+                    "word": "hide",
+                    "start": "3.75"
+                },
+                {
+                    "end": "7.5",
+                    "word": "ice",
+                    "start": "5.76"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "số năm",
+                    "start": "0"
+                },
+                {
+                    "end": "3.896",
+                    "word": "lái xe",
+                    "start": "1.924"
+                },
+                {
+                    "end": "5.556",
+                    "word": "giấu",
+                    "start": "3.896"
+                },
+                {
+                    "end": "7.144",
+                    "word": "đá",
+                    "start": "5.556"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "five_số năm,ride_lái xe,hide_giấu,bike_xe đạp",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_IIL_bike_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bike_xe đạp",
+            "trans_en": "five_số năm,ride_lái xe,hide_giấu,bike_xe đạp",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "VI_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "Bức ảnh này là gì?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "VI_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "five",
+                    "start": "0"
+                },
+                {
+                    "end": "3.75",
+                    "word": "ride",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.76",
+                    "word": "hide",
+                    "start": "3.75"
+                },
+                {
+                    "end": "7.19",
+                    "word": "bike",
+                    "start": "5.76"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "số năm",
+                    "start": "0"
+                },
+                {
+                    "end": "3.896",
+                    "word": "lái xe",
+                    "start": "1.924"
+                },
+                {
+                    "end": "5.556",
+                    "word": "giấu",
+                    "start": "3.896"
+                },
+                {
+                    "end": "7.239",
+                    "word": "xe đạp",
+                    "start": "5.556"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_IIL_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_IIL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"I i   (long i)\",\n        \"ES\": \"I i   (long i)\",\n        \"ZH\": \"I i   (long i)\",\n        \"VI\": \"I i   (long i)\",\n        \"AR\": \"I i   (long i)\",\n        \"KO\": \"I i   (long i)\",\n        \"DA\": \"I i   (long i)\",\n        \"PS\": \"I i   (long i)\",\n        \"TL\": \"I i   (long i)\",\n        \"BN\": \"I i   (long i)\",\n        \"PT\": \"I i   (long i)\",\n        \"HK\": \"I i   (long i)\",\n        \"TW\": \"I i   (long i)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Viết và thuật lại bởi:Cynthia Harrison Barbera",
+                "Translated by:Trang Ngo",
+                "Minh họa bởi:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_IIL"
+        }
+    ]
+}

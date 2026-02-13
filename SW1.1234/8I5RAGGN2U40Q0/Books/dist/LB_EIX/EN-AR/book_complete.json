@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "E i",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "E i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "E i",
+            "en_trans": "e i_e i",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "e i_e i",
+            "trans_text": "E i",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "e i",
+                    "start": "0"
+                },
+                {
+                    "end": "1.8",
+                    "word": "e i",
+                    "start": "1.8"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "e i",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "e i",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "EIX_narr_EI_p1.mp3",
+            "nar_audio_trans": "AR_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "e i",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "E i",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "weigh",
+            "en_trans": "weigh_يَزِن",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_weigh_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "يَزِن_weigh",
+            "trans_text": "يَزِن",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "weigh",
+                    "start": "0"
+                },
+                {
+                    "end": "2.06",
+                    "word": "weigh",
+                    "start": "2.06"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "يَزِن",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "يَزِن",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "EIX_narr_weigh_p2.mp3",
+            "nar_audio_trans": "AR_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "يَزِن",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "weigh",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sleigh",
+            "en_trans": "sleigh_زلاجة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_sleigh_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "زلاجة_sleigh",
+            "trans_text": "زلاجة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.19",
+                    "word": "sleigh",
+                    "start": "0"
+                },
+                {
+                    "end": "2.19",
+                    "word": "sleigh",
+                    "start": "2.19"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.26",
+                    "word": "زلاجة",
+                    "start": "0"
+                },
+                {
+                    "end": "4.52",
+                    "word": "زلاجة",
+                    "start": "2.26"
+                }
+            ],
+            "nar_audio_en": "EIX_narr_sleigh_p3.mp3",
+            "nar_audio_trans": "AR_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "زلاجة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sleigh",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "eight",
+            "en_trans": "eight_ثمانية",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_eight_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ثمانية_eight",
+            "trans_text": "ثمانية",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "eight",
+                    "start": "0"
+                },
+                {
+                    "end": "1.8",
+                    "word": "eight",
+                    "start": "1.8"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.26",
+                    "word": "ثمانية",
+                    "start": "0"
+                },
+                {
+                    "end": "4.52",
+                    "word": "ثمانية",
+                    "start": "2.26"
+                }
+            ],
+            "nar_audio_en": "EIX_narr_eight_p4.mp3",
+            "nar_audio_trans": "AR_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ثمانية",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "eight",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "reindeer",
+            "en_trans": "reindeer_رنة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_reindeer_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "رنة_reindeer",
+            "trans_text": "رنة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "reindeer",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "reindeer",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "رنة",
+                    "start": "0"
+                },
+                {
+                    "end": "3.84",
+                    "word": "رنة",
+                    "start": "1.92"
+                }
+            ],
+            "nar_audio_en": "EIX_narr_reindeer_p5.mp3",
+            "nar_audio_trans": "AR_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "رنة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "reindeer",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "freight",
+            "en_trans": "freight_شحنة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_freight_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "شحنة_freight",
+            "trans_text": "شحنة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "freight",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "freight",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "شحنة",
+                    "start": "0"
+                },
+                {
+                    "end": "3.94",
+                    "word": "شحنة",
+                    "start": "1.97"
+                }
+            ],
+            "nar_audio_en": "EIX_narr_freight_p6.mp3",
+            "nar_audio_trans": "AR_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "شحنة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "freight",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "neighbor",
+            "en_trans": "neighbor_جار",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_neighbor_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "جار_neighbor",
+            "trans_text": "جار",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "neighbor",
+                    "start": "0"
+                },
+                {
+                    "end": "1.82",
+                    "word": "neighbor",
+                    "start": "1.82"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "جار",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "جار",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "EIX_narr_neighbor_p7.mp3",
+            "nar_audio_trans": "AR_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "جار",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "neighbor",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "weigh_يَزِن,neighbor_جار,eight_ثمانية,freight_شحنة",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EIX_neighbor_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "neighbor_جار",
+            "trans_en": "weigh_يَزِن,neighbor_جار,eight_ثمانية,freight_شحنة",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "AR_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.06",
+                    "word": "weigh",
+                    "start": "0"
+                },
+                {
+                    "end": "3.88",
+                    "word": "neighbor",
+                    "start": "2.06"
+                },
+                {
+                    "end": "5.68",
+                    "word": "eight",
+                    "start": "3.88"
+                },
+                {
+                    "end": "7.66",
+                    "word": "freight",
+                    "start": "5.68"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "يَزِن",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "جار",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.844",
+                    "word": "ثمانية",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.816",
+                    "word": "شحنة",
+                    "start": "5.844"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "freight_شحنة,reindeer_رنة,weigh_يَزِن,sleigh_زلاجة",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EIX_freight_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "freight_شحنة",
+            "trans_en": "freight_شحنة,reindeer_رنة,weigh_يَزِن,sleigh_زلاجة",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "AR_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "freight",
+                    "start": "0"
+                },
+                {
+                    "end": "4.09",
+                    "word": "reindeer",
+                    "start": "1.98"
+                },
+                {
+                    "end": "6.15",
+                    "word": "weigh",
+                    "start": "4.09"
+                },
+                {
+                    "end": "8.34",
+                    "word": "sleigh",
+                    "start": "6.15"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "شحنة",
+                    "start": "0"
+                },
+                {
+                    "end": "3.896",
+                    "word": "رنة",
+                    "start": "1.972"
+                },
+                {
+                    "end": "5.652",
+                    "word": "يَزِن",
+                    "start": "3.896"
+                },
+                {
+                    "end": "7.912",
+                    "word": "زلاجة",
+                    "start": "5.652"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "reindeer_رنة,freight_شحنة,sleigh_زلاجة,neighbor_جار",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EIX_reindeer_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "reindeer_رنة",
+            "trans_en": "reindeer_رنة,freight_شحنة,sleigh_زلاجة,neighbor_جار",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "AR_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "reindeer",
+                    "start": "0"
+                },
+                {
+                    "end": "4.09",
+                    "word": "freight",
+                    "start": "2.11"
+                },
+                {
+                    "end": "6.28",
+                    "word": "sleigh",
+                    "start": "4.09"
+                },
+                {
+                    "end": "8.1",
+                    "word": "neighbor",
+                    "start": "6.28"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "رنة",
+                    "start": "0"
+                },
+                {
+                    "end": "3.896",
+                    "word": "شحنة",
+                    "start": "1.924"
+                },
+                {
+                    "end": "6.156",
+                    "word": "زلاجة",
+                    "start": "3.896"
+                },
+                {
+                    "end": "7.984",
+                    "word": "جار",
+                    "start": "6.156"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "sleigh_زلاجة,neighbor_جار,reindeer_رنة,freight_شحنة",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EIX_sleigh_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sleigh_زلاجة",
+            "trans_en": "sleigh_زلاجة,neighbor_جار,reindeer_رنة,freight_شحنة",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "AR_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.19",
+                    "word": "sleigh",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "neighbor",
+                    "start": "2.19"
+                },
+                {
+                    "end": "6.12",
+                    "word": "reindeer",
+                    "start": "4.01"
+                },
+                {
+                    "end": "8.1",
+                    "word": "freight",
+                    "start": "6.12"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.26",
+                    "word": "زلاجة",
+                    "start": "0"
+                },
+                {
+                    "end": "4.088",
+                    "word": "جار",
+                    "start": "2.26"
+                },
+                {
+                    "end": "6.012",
+                    "word": "رنة",
+                    "start": "4.088"
+                },
+                {
+                    "end": "7.984",
+                    "word": "شحنة",
+                    "start": "6.012"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "eight_ثمانية,neighbor_جار,sleigh_زلاجة,weigh_يَزِن",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EIX_eight_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "eight_ثمانية",
+            "trans_en": "eight_ثمانية,neighbor_جار,sleigh_زلاجة,weigh_يَزِن",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "AR_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "eight",
+                    "start": "0"
+                },
+                {
+                    "end": "3.62",
+                    "word": "neighbor",
+                    "start": "1.8"
+                },
+                {
+                    "end": "5.81",
+                    "word": "sleigh",
+                    "start": "3.62"
+                },
+                {
+                    "end": "7.87",
+                    "word": "weigh",
+                    "start": "5.81"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.26",
+                    "word": "ثمانية",
+                    "start": "0"
+                },
+                {
+                    "end": "4.088",
+                    "word": "جار",
+                    "start": "2.26"
+                },
+                {
+                    "end": "6.348",
+                    "word": "زلاجة",
+                    "start": "4.088"
+                },
+                {
+                    "end": "8.104",
+                    "word": "يَزِن",
+                    "start": "6.348"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "reindeer_رنة,neighbor_جار,eight_ثمانية,weigh_يَزِن",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EIX_weigh_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "weigh_يَزِن",
+            "trans_en": "reindeer_رنة,neighbor_جار,eight_ثمانية,weigh_يَزِن",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "AR_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "ما هذه الصورة؟",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "AR_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "reindeer",
+                    "start": "0"
+                },
+                {
+                    "end": "3.93",
+                    "word": "neighbor",
+                    "start": "2.11"
+                },
+                {
+                    "end": "5.73",
+                    "word": "eight",
+                    "start": "3.93"
+                },
+                {
+                    "end": "7.79",
+                    "word": "weigh",
+                    "start": "5.73"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.924",
+                    "word": "رنة",
+                    "start": "0"
+                },
+                {
+                    "end": "3.752",
+                    "word": "جار",
+                    "start": "1.924"
+                },
+                {
+                    "end": "6.012",
+                    "word": "ثمانية",
+                    "start": "3.752"
+                },
+                {
+                    "end": "7.768",
+                    "word": "يَزِن",
+                    "start": "6.012"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EIX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EIX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EI  ei \",\n        \"ES\": \"EI  ei \",\n        \"ZH\": \"EI  ei \",\n        \"VI\": \"EI  ei \",\n        \"AR\": \"EI  ei \",\n        \"KO\": \"EI  ei \",\n        \"DA\": \"EI  ei \",\n        \"PS\": \"EI  ei \",\n        \"TL\": \"EI  ei \",\n        \"BN\": \"EI  ei \",\n        \"PT\": \"EI  ei \",\n        \"HK\": \"EI  ei \",\n        \"TW\": \"EI  ei \"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Sara Ragaie & Maysaa Kharat",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "كتب وروا:Cynthia Harrison Barbera",
+                "تمت ترجمته بواسطة:Sara Ragaie & Maysaa Kharat",
+                "مصورة من قبل:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_EIX"
+        }
+    ]
+}

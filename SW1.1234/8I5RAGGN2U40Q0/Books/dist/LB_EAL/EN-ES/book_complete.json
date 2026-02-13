@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "E a",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "E a",
+            "en_trans": "e a_e a",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "e a_e a",
+            "trans_text": "E a",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "e a",
+                    "start": "0"
+                },
+                {
+                    "end": "1.95",
+                    "word": "e a",
+                    "start": "1.95"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.222",
+                    "word": "e a",
+                    "start": "0"
+                },
+                {
+                    "end": "2.44",
+                    "word": "e a",
+                    "start": "1.22"
+                }
+            ],
+            "nar_audio_en": "EAL_narr_EAL_p1.mp3",
+            "nar_audio_trans": "ES_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "e a",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "E a",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ear",
+            "en_trans": "ear_oreja",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_ear_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "oreja_ear",
+            "trans_text": "oreja",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "ear",
+                    "start": "0"
+                },
+                {
+                    "end": "1.8",
+                    "word": "ear",
+                    "start": "1.8"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "oreja",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "oreja",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "EAL_narr_ear_p2.mp3",
+            "nar_audio_trans": "ES_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "oreja",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ear",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "heat",
+            "en_trans": "heat_calor",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_heat_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "calor_heat",
+            "trans_text": "calor",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "heat",
+                    "start": "0"
+                },
+                {
+                    "end": "1.8",
+                    "word": "heat",
+                    "start": "1.8"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.379",
+                    "word": "calor",
+                    "start": "0"
+                },
+                {
+                    "end": "2.76",
+                    "word": "calor",
+                    "start": "1.38"
+                }
+            ],
+            "nar_audio_en": "EAL_narr_heat_p3.mp3",
+            "nar_audio_trans": "ES_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "calor",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "heat",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bean",
+            "en_trans": "bean_frijol",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_bean_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "frijol_bean",
+            "trans_text": "frijol",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "bean",
+                    "start": "0"
+                },
+                {
+                    "end": "2.03",
+                    "word": "bean",
+                    "start": "2.03"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "frijol",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "frijol",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "EAL_narr_bean_p4.mp3",
+            "nar_audio_trans": "ES_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "frijol",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bean",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "peas",
+            "en_trans": "peas_guisantes",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_peas_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "guisantes_peas",
+            "trans_text": "guisantes",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.93",
+                    "word": "peas",
+                    "start": "0"
+                },
+                {
+                    "end": "1.93",
+                    "word": "peas",
+                    "start": "1.93"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.849",
+                    "word": "guisantes",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "guisantes",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "EAL_narr_peas_p5.mp3",
+            "nar_audio_trans": "ES_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "guisantes",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "peas",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "peach",
+            "en_trans": "peach_durazno",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_peach_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "durazno_peach",
+            "trans_text": "durazno",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.72",
+                    "word": "peach",
+                    "start": "0"
+                },
+                {
+                    "end": "1.72",
+                    "word": "peach",
+                    "start": "1.72"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "durazno",
+                    "start": "0"
+                },
+                {
+                    "end": "3.44",
+                    "word": "durazno",
+                    "start": "1.72"
+                }
+            ],
+            "nar_audio_en": "EAL_narr_peach_p6.mp3",
+            "nar_audio_trans": "ES_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "durazno",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "peach",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "team",
+            "en_trans": "team_equipo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_team_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "equipo_team",
+            "trans_text": "equipo",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "team",
+                    "start": "0"
+                },
+                {
+                    "end": "1.64",
+                    "word": "team",
+                    "start": "1.64"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "equipo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "equipo",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "EAL_narr_team_p7.mp3",
+            "nar_audio_trans": "ES_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "equipo",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "team",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bean_frijol,peas_guisantes,team_equipo,ear_oreja",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EAL_peas_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "peas_guisantes",
+            "trans_en": "bean_frijol,peas_guisantes,team_equipo,ear_oreja",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ES_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "bean",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "peas",
+                    "start": "2.03"
+                },
+                {
+                    "end": "5.6",
+                    "word": "team",
+                    "start": "3.96"
+                },
+                {
+                    "end": "7.4",
+                    "word": "ear",
+                    "start": "5.6"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "frijol",
+                    "start": "0"
+                },
+                {
+                    "end": "3.437",
+                    "word": "guisantes",
+                    "start": "1.588"
+                },
+                {
+                    "end": "4.973",
+                    "word": "equipo",
+                    "start": "3.437"
+                },
+                {
+                    "end": "6.509",
+                    "word": "oreja",
+                    "start": "4.973"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "team_equipo,bean_frijol,peach_durazno,peas_guisantes",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EAL_peach_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "peach_durazno",
+            "trans_en": "team_equipo,bean_frijol,peach_durazno,peas_guisantes",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ES_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "team",
+                    "start": "0"
+                },
+                {
+                    "end": "3.67",
+                    "word": "bean",
+                    "start": "1.64"
+                },
+                {
+                    "end": "5.39",
+                    "word": "peach",
+                    "start": "3.67"
+                },
+                {
+                    "end": "7.32",
+                    "word": "peas",
+                    "start": "5.39"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "equipo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.124",
+                    "word": "frijol",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.843",
+                    "word": "durazno",
+                    "start": "3.124"
+                },
+                {
+                    "end": "6.692",
+                    "word": "guisantes",
+                    "start": "4.843"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "team_equipo,peas_guisantes,ear_oreja,peach_durazno",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EAL_team_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "team_equipo",
+            "trans_en": "team_equipo,peas_guisantes,ear_oreja,peach_durazno",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ES_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "team",
+                    "start": "0"
+                },
+                {
+                    "end": "3.57",
+                    "word": "peas",
+                    "start": "1.64"
+                },
+                {
+                    "end": "5.36",
+                    "word": "ear",
+                    "start": "3.57"
+                },
+                {
+                    "end": "7.08",
+                    "word": "peach",
+                    "start": "5.36"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "equipo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "guisantes",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.921",
+                    "word": "oreja",
+                    "start": "3.385"
+                },
+                {
+                    "end": "6.64",
+                    "word": "durazno",
+                    "start": "4.921"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bean_frijol,peach_durazno,heat_calor,ear_oreja",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EAL_bean_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bean_frijol",
+            "trans_en": "bean_frijol,peach_durazno,heat_calor,ear_oreja",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ES_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.03",
+                    "word": "bean",
+                    "start": "0"
+                },
+                {
+                    "end": "3.75",
+                    "word": "peach",
+                    "start": "2.03"
+                },
+                {
+                    "end": "5.55",
+                    "word": "heat",
+                    "start": "3.75"
+                },
+                {
+                    "end": "7.34",
+                    "word": "ear",
+                    "start": "5.55"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "frijol",
+                    "start": "0"
+                },
+                {
+                    "end": "3.307",
+                    "word": "durazno",
+                    "start": "1.588"
+                },
+                {
+                    "end": "4.686",
+                    "word": "calor",
+                    "start": "3.307"
+                },
+                {
+                    "end": "6.222",
+                    "word": "oreja",
+                    "start": "4.686"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "ear_oreja,heat_calor,peas_guisantes,peach_durazno",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EAL_ear_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ear_oreja",
+            "trans_en": "ear_oreja,heat_calor,peas_guisantes,peach_durazno",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ES_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.8",
+                    "word": "ear",
+                    "start": "0"
+                },
+                {
+                    "end": "3.59",
+                    "word": "heat",
+                    "start": "1.8"
+                },
+                {
+                    "end": "5.52",
+                    "word": "peas",
+                    "start": "3.59"
+                },
+                {
+                    "end": "7.24",
+                    "word": "peach",
+                    "start": "5.52"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "oreja",
+                    "start": "0"
+                },
+                {
+                    "end": "2.915",
+                    "word": "calor",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.764",
+                    "word": "guisantes",
+                    "start": "2.915"
+                },
+                {
+                    "end": "6.483",
+                    "word": "durazno",
+                    "start": "4.764"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "team_equipo,peas_guisantes,heat_calor,peach_durazno",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_EAL_heat_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "heat_calor",
+            "trans_en": "team_equipo,peas_guisantes,heat_calor,peach_durazno",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ES_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "team",
+                    "start": "0"
+                },
+                {
+                    "end": "3.57",
+                    "word": "peas",
+                    "start": "1.64"
+                },
+                {
+                    "end": "5.36",
+                    "word": "heat",
+                    "start": "3.57"
+                },
+                {
+                    "end": "7.08",
+                    "word": "peach",
+                    "start": "5.36"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "equipo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "guisantes",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.764",
+                    "word": "calor",
+                    "start": "3.385"
+                },
+                {
+                    "end": "6.483",
+                    "word": "durazno",
+                    "start": "4.764"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_EAL_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_EAL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ES\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"ZH\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"VI\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"AR\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"KO\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"DA\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PS\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TL\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"BN\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"PT\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"HK\": \"EA  ea (long \\\"e\\\" sound)\",\n        \"TW\": \"EA  ea (long \\\"e\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Luis Montiel & Mafe Pulido Duarte",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Escrito y narrado por:Cynthia Harrison Barbera",
+                "Traducido por:Luis Montiel & Mafe Pulido Duarte",
+                "Ilustrado por:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_EAL"
+        }
+    ]
+}

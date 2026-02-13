@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U u",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U u",
+            "en_trans": "u u_u u",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "u u_u u",
+            "trans_text": "U u",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.6",
+                    "word": "u u",
+                    "start": "0"
+                },
+                {
+                    "end": "2.6",
+                    "word": "u u",
+                    "start": "2.6"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.379",
+                    "word": "u u",
+                    "start": "0"
+                },
+                {
+                    "end": "2.76",
+                    "word": "u u",
+                    "start": "1.38"
+                }
+            ],
+            "nar_audio_en": "UUL_narr_Uu_p1.mp3",
+            "nar_audio_trans": "ES_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "u u",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "U U",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "use",
+            "en_trans": "use_usar",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_use_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "usar_use",
+            "trans_text": "usar",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.76",
+                    "word": "use",
+                    "start": "0"
+                },
+                {
+                    "end": "1.76",
+                    "word": "use",
+                    "start": "1.76"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.353",
+                    "word": "usar",
+                    "start": "0"
+                },
+                {
+                    "end": "2.7",
+                    "word": "usar",
+                    "start": "1.35"
+                }
+            ],
+            "nar_audio_en": "UUL_narr_use_p2.mp3",
+            "nar_audio_trans": "ES_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "usar",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "use",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "flute",
+            "en_trans": "flute_flauta",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_flute_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "flauta_flute",
+            "trans_text": "flauta",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.76",
+                    "word": "flute",
+                    "start": "0"
+                },
+                {
+                    "end": "1.76",
+                    "word": "flute",
+                    "start": "1.76"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "flauta",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "flauta",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "UUL_narr_flute_p3.mp3",
+            "nar_audio_trans": "ES_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "flauta",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "flute",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "huge",
+            "en_trans": "huge_enorme",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_huge_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "enorme_huge",
+            "trans_text": "enorme",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "huge",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "huge",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "enorme",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "enorme",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "UUL_narr_huge_p4.mp3",
+            "nar_audio_trans": "ES_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "enorme",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "huge",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ruler",
+            "en_trans": "ruler_regla",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_ruler_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "regla_ruler",
+            "trans_text": "regla",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "ruler",
+                    "start": "0"
+                },
+                {
+                    "end": "1.73",
+                    "word": "ruler",
+                    "start": "1.73"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "regla",
+                    "start": "0"
+                },
+                {
+                    "end": "3.12",
+                    "word": "regla",
+                    "start": "1.56"
+                }
+            ],
+            "nar_audio_en": "UUL_narr_ruler_p5.mp3",
+            "nar_audio_trans": "ES_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "regla",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ruler",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "tube",
+            "en_trans": "tube_tubo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_tube_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tubo_tube",
+            "trans_text": "tubo",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "tube",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "tube",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "tubo",
+                    "start": "0"
+                },
+                {
+                    "end": "2.66",
+                    "word": "tubo",
+                    "start": "1.33"
+                }
+            ],
+            "nar_audio_en": "UUL_narr_tube_p6.mp3",
+            "nar_audio_trans": "ES_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tubo",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "tube",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "tune",
+            "en_trans": "tune_melodía",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_tune_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "melodía_tune",
+            "trans_text": "melodía",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "tune",
+                    "start": "0"
+                },
+                {
+                    "end": "1.62",
+                    "word": "tune",
+                    "start": "1.62"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "melodía",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "melodía",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "UUL_narr_tune_p7.mp3",
+            "nar_audio_trans": "ES_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "melodía",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "tune",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "tune_melodía,use_usar,tube_tubo,huge_enorme",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUL_huge_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "huge_enorme",
+            "trans_en": "tune_melodía,use_usar,tube_tubo,huge_enorme",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ES_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.62",
+                    "word": "tune",
+                    "start": "0"
+                },
+                {
+                    "end": "3.38",
+                    "word": "use",
+                    "start": "1.62"
+                },
+                {
+                    "end": "5.07",
+                    "word": "tube",
+                    "start": "3.38"
+                },
+                {
+                    "end": "7.16",
+                    "word": "huge",
+                    "start": "5.07"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "melodía",
+                    "start": "0"
+                },
+                {
+                    "end": "2.967",
+                    "word": "usar",
+                    "start": "1.614"
+                },
+                {
+                    "end": "4.294",
+                    "word": "tubo",
+                    "start": "2.967"
+                },
+                {
+                    "end": "5.856",
+                    "word": "enorme",
+                    "start": "4.294"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "ruler_regla,tune_melodía,tube_tubo,huge_enorme",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUL_ruler_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ruler_regla",
+            "trans_en": "ruler_regla,tune_melodía,tube_tubo,huge_enorme",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ES_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "ruler",
+                    "start": "0"
+                },
+                {
+                    "end": "3.35",
+                    "word": "tune",
+                    "start": "1.73"
+                },
+                {
+                    "end": "5.04",
+                    "word": "tube",
+                    "start": "3.35"
+                },
+                {
+                    "end": "7.12",
+                    "word": "huge",
+                    "start": "5.04"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "regla",
+                    "start": "0"
+                },
+                {
+                    "end": "3.176",
+                    "word": "melodía",
+                    "start": "1.562"
+                },
+                {
+                    "end": "4.503",
+                    "word": "tubo",
+                    "start": "3.176"
+                },
+                {
+                    "end": "6.065",
+                    "word": "enorme",
+                    "start": "4.503"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "ruler_regla,flute_flauta,tube_tubo,tune_melodía",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUL_tune_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "tune_melodía",
+            "trans_en": "ruler_regla,flute_flauta,tube_tubo,tune_melodía",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ES_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "ruler",
+                    "start": "0"
+                },
+                {
+                    "end": "3.49",
+                    "word": "flute",
+                    "start": "1.73"
+                },
+                {
+                    "end": "5.18",
+                    "word": "tube",
+                    "start": "3.49"
+                },
+                {
+                    "end": "6.8",
+                    "word": "tune",
+                    "start": "5.18"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "regla",
+                    "start": "0"
+                },
+                {
+                    "end": "3.176",
+                    "word": "flauta",
+                    "start": "1.562"
+                },
+                {
+                    "end": "4.503",
+                    "word": "tubo",
+                    "start": "3.176"
+                },
+                {
+                    "end": "6.117",
+                    "word": "melodía",
+                    "start": "4.503"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "tube_tubo,tune_melodía,huge_enorme,use_usar",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUL_use_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "use_usar",
+            "trans_en": "tube_tubo,tune_melodía,huge_enorme,use_usar",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ES_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "tube",
+                    "start": "0"
+                },
+                {
+                    "end": "3.31",
+                    "word": "tune",
+                    "start": "1.69"
+                },
+                {
+                    "end": "5.39",
+                    "word": "huge",
+                    "start": "3.31"
+                },
+                {
+                    "end": "7.16",
+                    "word": "use",
+                    "start": "5.39"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.327",
+                    "word": "tubo",
+                    "start": "0"
+                },
+                {
+                    "end": "2.941",
+                    "word": "melodía",
+                    "start": "1.327"
+                },
+                {
+                    "end": "4.503",
+                    "word": "enorme",
+                    "start": "2.941"
+                },
+                {
+                    "end": "5.856",
+                    "word": "usar",
+                    "start": "4.503"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "flute_flauta,tube_tubo,tune_melodía,use_usar",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUL_tube_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "tube_tubo",
+            "trans_en": "flute_flauta,tube_tubo,tune_melodía,use_usar",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ES_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.76",
+                    "word": "flute",
+                    "start": "0"
+                },
+                {
+                    "end": "3.45",
+                    "word": "tube",
+                    "start": "1.76"
+                },
+                {
+                    "end": "5.07",
+                    "word": "tune",
+                    "start": "3.45"
+                },
+                {
+                    "end": "6.84",
+                    "word": "use",
+                    "start": "5.07"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "flauta",
+                    "start": "0"
+                },
+                {
+                    "end": "2.941",
+                    "word": "tubo",
+                    "start": "1.614"
+                },
+                {
+                    "end": "4.555",
+                    "word": "melodía",
+                    "start": "2.941"
+                },
+                {
+                    "end": "5.908",
+                    "word": "usar",
+                    "start": "4.555"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "ruler_regla,flute_flauta,huge_enorme,tune_melodía",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UUL_flute_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "flute_flauta",
+            "trans_en": "ruler_regla,flute_flauta,huge_enorme,tune_melodía",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ES_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "ruler",
+                    "start": "0"
+                },
+                {
+                    "end": "3.49",
+                    "word": "flute",
+                    "start": "1.73"
+                },
+                {
+                    "end": "5.57",
+                    "word": "huge",
+                    "start": "3.49"
+                },
+                {
+                    "end": "7.19",
+                    "word": "tune",
+                    "start": "5.57"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.562",
+                    "word": "regla",
+                    "start": "0"
+                },
+                {
+                    "end": "3.176",
+                    "word": "flauta",
+                    "start": "1.562"
+                },
+                {
+                    "end": "4.738",
+                    "word": "enorme",
+                    "start": "3.176"
+                },
+                {
+                    "end": "6.352",
+                    "word": "melodía",
+                    "start": "4.738"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UUL_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UUL\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 4,\n        \"ES\": 4,\n        \"ZH\": 4,\n        \"VI\": 4,\n        \"AR\": 4,\n        \"KO\": 4,\n        \"DA\": 4,\n        \"PS\": 4,\n        \"TL\": 4,\n        \"BN\": 4,\n        \"PT\": 4,\n        \"HK\": 4,\n        \"TW\": 4\n    },\n    \"title\": {\n        \"EN\": \"U u  (long u)\",\n        \"ES\": \"U u  (long u)\",\n        \"ZH\": \"U u  (long u)\",\n        \"VI\": \"U u  (long u)\",\n        \"AR\": \"U u  (long u)\",\n        \"KO\": \"U u  (long u)\",\n        \"DA\": \"U u  (long u)\",\n        \"PS\": \"U u  (long u)\",\n        \"TL\": \"U u  (long u)\",\n        \"BN\": \"U u  (long u)\",\n        \"PT\": \"U u  (long u)\",\n        \"HK\": \"U u  (long u)\",\n        \"TW\": \"U u  (long u)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Luis Montiel & Mafe Pulido Duarte",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Escrito y narrado por:Cynthia Harrison Barbera",
+                "Traducido por:Luis Montiel & Mafe Pulido Duarte",
+                "Ilustrado por:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_UUL"
+        }
+    ]
+}

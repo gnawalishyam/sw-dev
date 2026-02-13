@@ -1,0 +1,990 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O o",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "O o",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": ""
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "O o",
+            "en_trans": "o o_o o_o o",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "o o_o o_o o",
+            "trans_text": "O o",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "o o",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "o o",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "o o",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "o o",
+                    "roman": "o o",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "OLO_narr_OLO_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "o o",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "O O",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "food",
+            "en_trans": "food_食物_shí wù",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_food_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "食物_food_shí wù",
+            "trans_text": "食物",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "food",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "food",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "食物",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "食物",
+                    "roman": "shí wù",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "OLO_narr_food_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "食物",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "food",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "root",
+            "en_trans": "root_根_gēn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_root_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "根_root_gēn",
+            "trans_text": "根",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "root",
+                    "start": "0"
+                },
+                {
+                    "end": "1.88",
+                    "word": "root",
+                    "start": "1.88"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.144",
+                    "word": "根",
+                    "start": "0"
+                },
+                {
+                    "end": "2.28",
+                    "word": "根",
+                    "roman": "gēn",
+                    "start": "1.14"
+                }
+            ],
+            "nar_audio_en": "OLO_narr_root_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "根",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "root",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "pool",
+            "en_trans": "pool_水池_shuǐ chí",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_pool_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "水池_pool_shuǐ chí",
+            "trans_text": "水池",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "pool",
+                    "start": "0"
+                },
+                {
+                    "end": "1.82",
+                    "word": "pool",
+                    "start": "1.82"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.771",
+                    "word": "水池",
+                    "start": "0"
+                },
+                {
+                    "end": "3.54",
+                    "word": "水池",
+                    "roman": "shuǐ chí",
+                    "start": "1.77"
+                }
+            ],
+            "nar_audio_en": "OLO_narr_pool_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "水池",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "pool",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "spoon",
+            "en_trans": "spoon_勺子_sháo zi",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_spoon_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "勺子_spoon_sháo zi",
+            "trans_text": "勺子",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "spoon",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "spoon",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "勺子",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "勺子",
+                    "roman": "sháo zi",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "OLO_narr_spoon_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "勺子",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "spoon",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "roof",
+            "en_trans": "roof_屋顶_wū dǐng",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_roof_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "屋顶_roof_wū dǐng",
+            "trans_text": "屋顶",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "roof",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "roof",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "屋顶",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "屋顶",
+                    "roman": "wū dǐng",
+                    "start": "1.46"
+                }
+            ],
+            "nar_audio_en": "OLO_narr_roof_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "屋顶",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "roof",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "tools",
+            "en_trans": "tools_工具_gōng jù",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_tools_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "工具_tools_gōng jù",
+            "trans_text": "工具",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "tools",
+                    "start": "0"
+                },
+                {
+                    "end": "1.74",
+                    "word": "tools",
+                    "start": "1.74"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "工具",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "工具",
+                    "roman": "gōng jù",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "OLO_narr_tools_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "工具",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "tools",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "roof_屋顶_wū dǐng,tools_工具_gōng jù,food_食物_shí wù,pool_水池_shuǐ chí",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OLO_tools_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "tools_工具",
+            "trans_en": "roof_屋顶_roof,tools_工具_tools,food_食物_food,pool_水池_pool",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "roof",
+                    "start": "0"
+                },
+                {
+                    "end": "3.65",
+                    "word": "tools",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.63",
+                    "word": "food",
+                    "start": "3.65"
+                },
+                {
+                    "end": "7.45",
+                    "word": "pool",
+                    "start": "5.63"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "屋顶",
+                    "roman": "wū dǐng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.098",
+                    "word": "工具",
+                    "roman": "gōng jù",
+                    "start": "1.457"
+                },
+                {
+                    "end": "4.738",
+                    "word": "食物",
+                    "roman": "shí wù",
+                    "start": "3.098"
+                },
+                {
+                    "end": "6.509",
+                    "word": "水池",
+                    "roman": "shuǐ chí",
+                    "start": "4.738"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "root_根_gēn,pool_水池_shuǐ chí,roof_屋顶_wū dǐng,food_食物_shí wù",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OLO_food_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "food_食物",
+            "trans_en": "root_根_root,pool_水池_pool,roof_屋顶_roof,food_食物_food",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.88",
+                    "word": "root",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "pool",
+                    "start": "1.88"
+                },
+                {
+                    "end": "5.6",
+                    "word": "roof",
+                    "start": "3.7"
+                },
+                {
+                    "end": "7.58",
+                    "word": "food",
+                    "start": "5.6"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.144",
+                    "word": "根",
+                    "roman": "gēn",
+                    "start": "0"
+                },
+                {
+                    "end": "2.915",
+                    "word": "水池",
+                    "roman": "shuǐ chí",
+                    "start": "1.144"
+                },
+                {
+                    "end": "4.372",
+                    "word": "屋顶",
+                    "roman": "wū dǐng",
+                    "start": "2.915"
+                },
+                {
+                    "end": "6.013",
+                    "word": "食物",
+                    "roman": "shí wù",
+                    "start": "4.372"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "tools_工具_gōng jù,spoon_勺子_sháo zi,roof_屋顶_wū dǐng,pool_水池_shuǐ chí",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OLO_spoon_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "spoon_勺子",
+            "trans_en": "tools_工具_tools,spoon_勺子_spoon,roof_屋顶_roof,pool_水池_pool",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.74",
+                    "word": "tools",
+                    "start": "0"
+                },
+                {
+                    "end": "3.65",
+                    "word": "spoon",
+                    "start": "1.74"
+                },
+                {
+                    "end": "5.55",
+                    "word": "roof",
+                    "start": "3.65"
+                },
+                {
+                    "end": "7.37",
+                    "word": "pool",
+                    "start": "5.55"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "工具",
+                    "roman": "gōng jù",
+                    "start": "0"
+                },
+                {
+                    "end": "3.307",
+                    "word": "勺子",
+                    "roman": "sháo zi",
+                    "start": "1.64"
+                },
+                {
+                    "end": "4.764",
+                    "word": "屋顶",
+                    "roman": "wū dǐng",
+                    "start": "3.307"
+                },
+                {
+                    "end": "6.535",
+                    "word": "水池",
+                    "roman": "shuǐ chí",
+                    "start": "4.764"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "food_食物_shí wù,pool_水池_shuǐ chí,root_根_gēn,spoon_勺子_sháo zi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OLO_root_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "root_根",
+            "trans_en": "food_食物_food,pool_水池_pool,root_根_root,spoon_勺子_spoon",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "food",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "pool",
+                    "start": "1.98"
+                },
+                {
+                    "end": "5.68",
+                    "word": "root",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.58",
+                    "word": "spoon",
+                    "start": "5.68"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "食物",
+                    "roman": "shí wù",
+                    "start": "0"
+                },
+                {
+                    "end": "3.411",
+                    "word": "水池",
+                    "roman": "shuǐ chí",
+                    "start": "1.64"
+                },
+                {
+                    "end": "4.555",
+                    "word": "根",
+                    "roman": "gēn",
+                    "start": "3.411"
+                },
+                {
+                    "end": "6.222",
+                    "word": "勺子",
+                    "roman": "sháo zi",
+                    "start": "4.555"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "roof_屋顶_wū dǐng,pool_水池_shuǐ chí,tools_工具_gōng jù,spoon_勺子_sháo zi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OLO_pool_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "pool_水池",
+            "trans_en": "roof_屋顶_roof,pool_水池_pool,tools_工具_tools,spoon_勺子_spoon",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "roof",
+                    "start": "0"
+                },
+                {
+                    "end": "3.72",
+                    "word": "pool",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.47",
+                    "word": "tools",
+                    "start": "3.72"
+                },
+                {
+                    "end": "7.37",
+                    "word": "spoon",
+                    "start": "5.47"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "屋顶",
+                    "roman": "wū dǐng",
+                    "start": "0"
+                },
+                {
+                    "end": "3.228",
+                    "word": "水池",
+                    "roman": "shuǐ chí",
+                    "start": "1.457"
+                },
+                {
+                    "end": "4.869",
+                    "word": "工具",
+                    "roman": "gōng jù",
+                    "start": "3.228"
+                },
+                {
+                    "end": "6.535",
+                    "word": "勺子",
+                    "roman": "sháo zi",
+                    "start": "4.869"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "spoon_勺子_sháo zi,pool_水池_shuǐ chí,root_根_gēn,roof_屋顶_wū dǐng",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_OLO_roof_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "roof_屋顶",
+            "trans_en": "spoon_勺子_spoon,pool_水池_pool,root_根_root,roof_屋顶_roof",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "credit_html": "",
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "spoon",
+                    "start": "0"
+                },
+                {
+                    "end": "3.72",
+                    "word": "pool",
+                    "start": "1.9"
+                },
+                {
+                    "end": "5.6",
+                    "word": "root",
+                    "start": "3.72"
+                },
+                {
+                    "end": "7.5",
+                    "word": "roof",
+                    "start": "5.6"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "勺子",
+                    "roman": "sháo zi",
+                    "start": "0"
+                },
+                {
+                    "end": "3.437",
+                    "word": "水池",
+                    "roman": "shuǐ chí",
+                    "start": "1.666"
+                },
+                {
+                    "end": "4.581",
+                    "word": "根",
+                    "roman": "gēn",
+                    "start": "3.437"
+                },
+                {
+                    "end": "6.039",
+                    "word": "屋顶",
+                    "roman": "wū dǐng",
+                    "start": "4.581"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_OLO_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_OLO\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ES\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"ZH\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"VI\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"AR\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"KO\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"DA\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PS\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TL\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"BN\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"PT\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"HK\": \"OO  oo  (long \\\"oo\\\" sound)\",\n        \"TW\": \"OO  oo  (long \\\"oo\\\" sound)\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "credit_html": "",
+            "book_name": "LB_OLO"
+        }
+    ]
+}

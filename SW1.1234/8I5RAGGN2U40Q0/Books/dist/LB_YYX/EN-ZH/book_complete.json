@@ -1,0 +1,975 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Y y",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Y y",
+            "en_trans": "y y_y y_y y",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "y y_y y_y y",
+            "trans_text": "Y y",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.91",
+                    "word": "y y",
+                    "start": "0"
+                },
+                {
+                    "end": "2.91",
+                    "word": "y y",
+                    "start": "2.91"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.797",
+                    "word": "y y",
+                    "start": "0"
+                },
+                {
+                    "end": "3.6",
+                    "word": "y y",
+                    "roman": "y y",
+                    "start": "1.8"
+                }
+            ],
+            "nar_audio_en": "YYX_narr_Yy_p1.mp3",
+            "nar_audio_trans": "ZH_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "y y",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "Y Y",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "yell",
+            "en_trans": "yell_叫喊_jiào hǎn",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_yell_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "叫喊_yell_jiào hǎn",
+            "trans_text": "叫喊",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "yell",
+                    "start": "0"
+                },
+                {
+                    "end": "1.75",
+                    "word": "yell",
+                    "start": "1.75"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "叫喊",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "叫喊",
+                    "roman": "jiào hǎn",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "YYX_narr_yell_p2.mp3",
+            "nar_audio_trans": "ZH_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "叫喊",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "yell",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "yawn",
+            "en_trans": "yawn_打哈欠_dǎ hā qian",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_yawn_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "打哈欠_yawn_dǎ hā qian",
+            "trans_text": "打哈欠",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "yawn",
+                    "start": "0"
+                },
+                {
+                    "end": "2.16",
+                    "word": "yawn",
+                    "start": "2.16"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.823",
+                    "word": "打哈欠",
+                    "start": "0"
+                },
+                {
+                    "end": "3.64",
+                    "word": "打哈欠",
+                    "roman": "dǎ hā qian",
+                    "start": "1.82"
+                }
+            ],
+            "nar_audio_en": "YYX_narr_yawn_p3.mp3",
+            "nar_audio_trans": "ZH_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "打哈欠",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "yawn",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "yogurt",
+            "en_trans": "yogurt_酸奶_suān nǎi",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_yogurt_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "酸奶_yogurt_suān nǎi",
+            "trans_text": "酸奶",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.92",
+                    "word": "yogurt",
+                    "start": "0"
+                },
+                {
+                    "end": "1.92",
+                    "word": "yogurt",
+                    "start": "1.92"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.823",
+                    "word": "酸奶",
+                    "start": "0"
+                },
+                {
+                    "end": "3.64",
+                    "word": "酸奶",
+                    "roman": "suān nǎi",
+                    "start": "1.82"
+                }
+            ],
+            "nar_audio_en": "YYX_narr_yogurt_p4.mp3",
+            "nar_audio_trans": "ZH_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "酸奶",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "yogurt",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "year",
+            "en_trans": "year_年_nián",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_year_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "年_year_nián",
+            "trans_text": "年",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.87",
+                    "word": "year",
+                    "start": "0"
+                },
+                {
+                    "end": "1.87",
+                    "word": "year",
+                    "start": "1.87"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.405",
+                    "word": "年",
+                    "start": "0"
+                },
+                {
+                    "end": "2.81",
+                    "word": "年",
+                    "roman": "nián",
+                    "start": "1.41"
+                }
+            ],
+            "nar_audio_en": "YYX_narr_year_p5.mp3",
+            "nar_audio_trans": "ZH_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "年",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "year",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "yellow",
+            "en_trans": "yellow_黄色_huáng sè",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_yellow_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "黄色_yellow_huáng sè",
+            "trans_text": "黄色",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "yellow",
+                    "start": "0"
+                },
+                {
+                    "end": "1.75",
+                    "word": "yellow",
+                    "start": "1.75"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "黄色",
+                    "start": "0"
+                },
+                {
+                    "end": "3.49",
+                    "word": "黄色",
+                    "roman": "huáng sè",
+                    "start": "1.74"
+                }
+            ],
+            "nar_audio_en": "YYX_narr_yellow_p6.mp3",
+            "nar_audio_trans": "ZH_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "黄色",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "yellow",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "yoyo",
+            "en_trans": "yoyo_溜溜球_liū liū qiú",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_yo-yo_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "溜溜球_yoyo_liū liū qiú",
+            "trans_text": "溜溜球",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.92",
+                    "word": "yoyo",
+                    "start": "0"
+                },
+                {
+                    "end": "1.92",
+                    "word": "yoyo",
+                    "start": "1.92"
+                }
+            ],
+            "trans_vocab_audio": "ZH_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.006",
+                    "word": "溜溜球",
+                    "start": "0"
+                },
+                {
+                    "end": "4.02",
+                    "word": "溜溜球",
+                    "roman": "liū liū qiú",
+                    "start": "2.01"
+                }
+            ],
+            "nar_audio_en": "YYX_narr_yo-yo_p7.mp3",
+            "nar_audio_trans": "ZH_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "溜溜球",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "yoyo",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "yogurt_酸奶_suān nǎi,yawn_打哈欠_dǎ hā qian,yellow_黄色_huáng sè,year_年_nián",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YYX_yellow_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "yellow_黄色",
+            "trans_en": "yogurt_酸奶_yogurt,yawn_打哈欠_yawn,yellow_黄色_yellow,year_年_year",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ZH_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.92",
+                    "word": "yogurt",
+                    "start": "0"
+                },
+                {
+                    "end": "4.08",
+                    "word": "yawn",
+                    "start": "1.92"
+                },
+                {
+                    "end": "5.83",
+                    "word": "yellow",
+                    "start": "4.08"
+                },
+                {
+                    "end": "7.69",
+                    "word": "year",
+                    "start": "5.83"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.823",
+                    "word": "酸奶",
+                    "roman": "suān nǎi",
+                    "start": "0"
+                },
+                {
+                    "end": "3.646",
+                    "word": "打哈欠",
+                    "roman": "dǎ hā qian",
+                    "start": "1.823"
+                },
+                {
+                    "end": "5.391",
+                    "word": "黄色",
+                    "roman": "huáng sè",
+                    "start": "3.646"
+                },
+                {
+                    "end": "6.796",
+                    "word": "年",
+                    "roman": "nián",
+                    "start": "5.391"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "yellow_黄色_huáng sè,year_年_nián,yawn_打哈欠_dǎ hā qian,yogurt_酸奶_suān nǎi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YYX_yogurt_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "yogurt_酸奶",
+            "trans_en": "yellow_黄色_yellow,year_年_year,yawn_打哈欠_yawn,yogurt_酸奶_yogurt",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ZH_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "yellow",
+                    "start": "0"
+                },
+                {
+                    "end": "3.61",
+                    "word": "year",
+                    "start": "1.75"
+                },
+                {
+                    "end": "5.77",
+                    "word": "yawn",
+                    "start": "3.61"
+                },
+                {
+                    "end": "7.69",
+                    "word": "yogurt",
+                    "start": "5.77"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "黄色",
+                    "roman": "huáng sè",
+                    "start": "0"
+                },
+                {
+                    "end": "3.15",
+                    "word": "年",
+                    "roman": "nián",
+                    "start": "1.745"
+                },
+                {
+                    "end": "4.973",
+                    "word": "打哈欠",
+                    "roman": "dǎ hā qian",
+                    "start": "3.15"
+                },
+                {
+                    "end": "6.796",
+                    "word": "酸奶",
+                    "roman": "suān nǎi",
+                    "start": "4.973"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "yellow_黄色_huáng sè,yoyo_溜溜球_liū liū qiú,yell_叫喊_jiào hǎn,year_年_nián",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YYX_year_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "year_年",
+            "trans_en": "yellow_黄色_yellow,yoyo_溜溜球_yoyo,yell_叫喊_yell,year_年_year",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ZH_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "yellow",
+                    "start": "0"
+                },
+                {
+                    "end": "3.67",
+                    "word": "yoyo",
+                    "start": "1.75"
+                },
+                {
+                    "end": "5.42",
+                    "word": "yell",
+                    "start": "3.67"
+                },
+                {
+                    "end": "7.29",
+                    "word": "year",
+                    "start": "5.42"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.745",
+                    "word": "黄色",
+                    "roman": "huáng sè",
+                    "start": "0"
+                },
+                {
+                    "end": "3.751",
+                    "word": "溜溜球",
+                    "roman": "liū liū qiú",
+                    "start": "1.745"
+                },
+                {
+                    "end": "5.417",
+                    "word": "叫喊",
+                    "roman": "jiào hǎn",
+                    "start": "3.751"
+                },
+                {
+                    "end": "6.822",
+                    "word": "年",
+                    "roman": "nián",
+                    "start": "5.417"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "yell_叫喊_jiào hǎn,yawn_打哈欠_dǎ hā qian,year_年_nián,yogurt_酸奶_suān nǎi",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YYX_yell_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "yell_叫喊",
+            "trans_en": "yell_叫喊_yell,yawn_打哈欠_yawn,year_年_year,yogurt_酸奶_yogurt",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ZH_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.75",
+                    "word": "yell",
+                    "start": "0"
+                },
+                {
+                    "end": "3.91",
+                    "word": "yawn",
+                    "start": "1.75"
+                },
+                {
+                    "end": "5.77",
+                    "word": "year",
+                    "start": "3.91"
+                },
+                {
+                    "end": "7.69",
+                    "word": "yogurt",
+                    "start": "5.77"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "叫喊",
+                    "roman": "jiào hǎn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.49",
+                    "word": "打哈欠",
+                    "roman": "dǎ hā qian",
+                    "start": "1.666"
+                },
+                {
+                    "end": "4.895",
+                    "word": "年",
+                    "roman": "nián",
+                    "start": "3.49"
+                },
+                {
+                    "end": "6.718",
+                    "word": "酸奶",
+                    "roman": "suān nǎi",
+                    "start": "4.895"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "yoyo_溜溜球_liū liū qiú,yogurt_酸奶_suān nǎi,year_年_nián,yell_叫喊_jiào hǎn",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YYX_yo-yo_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "yoyo_溜溜球",
+            "trans_en": "yoyo_溜溜球_yoyo,yogurt_酸奶_yogurt,year_年_year,yell_叫喊_yell",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ZH_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.92",
+                    "word": "yoyo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.85",
+                    "word": "yogurt",
+                    "start": "1.92"
+                },
+                {
+                    "end": "5.71",
+                    "word": "year",
+                    "start": "3.85"
+                },
+                {
+                    "end": "7.46",
+                    "word": "yell",
+                    "start": "5.71"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.006",
+                    "word": "溜溜球",
+                    "roman": "liū liū qiú",
+                    "start": "0"
+                },
+                {
+                    "end": "3.829",
+                    "word": "酸奶",
+                    "roman": "suān nǎi",
+                    "start": "2.006"
+                },
+                {
+                    "end": "5.234",
+                    "word": "年",
+                    "roman": "nián",
+                    "start": "3.829"
+                },
+                {
+                    "end": "6.901",
+                    "word": "叫喊",
+                    "roman": "jiào hǎn",
+                    "start": "5.234"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "yoyo_溜溜球_liū liū qiú,yogurt_酸奶_suān nǎi,yell_叫喊_jiào hǎn,yawn_打哈欠_dǎ hā qian",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_YYX_yawn_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "yawn_打哈欠",
+            "trans_en": "yoyo_溜溜球_yoyo,yogurt_酸奶_yogurt,yell_叫喊_yell,yawn_打哈欠_yawn",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ZH_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "这张照片是什么？",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ZH_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.92",
+                    "word": "yoyo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.85",
+                    "word": "yogurt",
+                    "start": "1.92"
+                },
+                {
+                    "end": "5.6",
+                    "word": "yell",
+                    "start": "3.85"
+                },
+                {
+                    "end": "7.75",
+                    "word": "yawn",
+                    "start": "5.6"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.006",
+                    "word": "溜溜球",
+                    "roman": "liū liū qiú",
+                    "start": "0"
+                },
+                {
+                    "end": "3.829",
+                    "word": "酸奶",
+                    "roman": "suān nǎi",
+                    "start": "2.006"
+                },
+                {
+                    "end": "5.496",
+                    "word": "叫喊",
+                    "roman": "jiào hǎn",
+                    "start": "3.829"
+                },
+                {
+                    "end": "7.319",
+                    "word": "打哈欠",
+                    "roman": "dǎ hā qian",
+                    "start": "5.496"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_YYX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_YYX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"Y y\",\n        \"ES\": \"Y y\",\n        \"ZH\": \"Y y\",\n        \"VI\": \"Y y\",\n        \"AR\": \"Y y\",\n        \"KO\": \"Y y\",\n        \"DA\": \"Y y\",\n        \"PS\": \"Y y\",\n        \"TL\": \"Y y\",\n        \"BN\": \"Y y\",\n        \"PT\": \"Y y\",\n        \"HK\": \"Y y\",\n        \"TW\": \"Y y\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Ally Lin & Qui Yi",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "撰写和叙述者:Cynthia Harrison Barbera",
+                "由... 翻译:Ally Lin & Qui Yi",
+                "由插图:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_YYX"
+        }
+    ]
+}

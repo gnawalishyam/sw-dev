@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U e",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "U e",
+            "en_trans": "u e_u e",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "u e_u e",
+            "trans_text": "U e",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "u e",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "u e",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.222",
+                    "word": "u e",
+                    "start": "0"
+                },
+                {
+                    "end": "2.44",
+                    "word": "u e",
+                    "start": "1.22"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_UE_p1.mp3",
+            "nar_audio_trans": "PT_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "u e",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "U e",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "glue",
+            "en_trans": "glue_cola",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_glue_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "cola_glue",
+            "trans_text": "cola",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "0"
+                },
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "2.11"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "cola",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "cola",
+                    "start": "1.46"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_glue_p2.mp3",
+            "nar_audio_trans": "PT_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "cola",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "glue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "clue",
+            "en_trans": "clue_dica",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_clue_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "dica_clue",
+            "trans_text": "dica",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "clue",
+                    "start": "0"
+                },
+                {
+                    "end": "1.95",
+                    "word": "clue",
+                    "start": "1.95"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "dica",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "dica",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_clue_p3.mp3",
+            "nar_audio_trans": "PT_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "dica",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "clue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "true",
+            "en_trans": "true_verdadeiro",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_true_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "verdadeiro_true",
+            "trans_text": "verdadeiro",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "0"
+                },
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "2.08"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.928",
+                    "word": "verdadeiro",
+                    "start": "0"
+                },
+                {
+                    "end": "3.86",
+                    "word": "verdadeiro",
+                    "start": "1.93"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_true_p4.mp3",
+            "nar_audio_trans": "PT_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "verdadeiro",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "true",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "blue",
+            "en_trans": "blue_azul",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_blue_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "azul_blue",
+            "trans_text": "azul",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "blue",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "blue",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "azul",
+                    "start": "0"
+                },
+                {
+                    "end": "2.96",
+                    "word": "azul",
+                    "start": "1.48"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_blue_p5.mp3",
+            "nar_audio_trans": "PT_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "azul",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "blue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "argue",
+            "en_trans": "argue_discutir",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_argue_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "discutir_argue",
+            "trans_text": "discutir",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.32",
+                    "word": "argue",
+                    "start": "0"
+                },
+                {
+                    "end": "2.32",
+                    "word": "argue",
+                    "start": "2.32"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.823",
+                    "word": "discutir",
+                    "start": "0"
+                },
+                {
+                    "end": "3.64",
+                    "word": "discutir",
+                    "start": "1.82"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_argue_p6.mp3",
+            "nar_audio_trans": "PT_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "discutir",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "argue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "rescue",
+            "en_trans": "rescue_resgatar",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_rescue_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "resgatar_rescue",
+            "trans_text": "resgatar",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "rescue",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "rescue",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.849",
+                    "word": "resgatar",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "resgatar",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "UEX_narr_rescue_p7.mp3",
+            "nar_audio_trans": "PT_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "resgatar",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "rescue",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "glue_cola,rescue_resgatar,blue_azul,clue_dica",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_rescue_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "rescue_resgatar",
+            "trans_en": "glue_cola,rescue_resgatar,blue_azul,clue_dica",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "PT_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "0"
+                },
+                {
+                    "end": "4.12",
+                    "word": "rescue",
+                    "start": "2.11"
+                },
+                {
+                    "end": "5.97",
+                    "word": "blue",
+                    "start": "4.12"
+                },
+                {
+                    "end": "7.92",
+                    "word": "clue",
+                    "start": "5.97"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "cola",
+                    "start": "0"
+                },
+                {
+                    "end": "3.307",
+                    "word": "resgatar",
+                    "start": "1.457"
+                },
+                {
+                    "end": "4.79",
+                    "word": "azul",
+                    "start": "3.307"
+                },
+                {
+                    "end": "6.326",
+                    "word": "dica",
+                    "start": "4.79"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "true_verdadeiro,glue_cola,rescue_resgatar,argue_discutir",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_argue_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "argue_discutir",
+            "trans_en": "true_verdadeiro,glue_cola,rescue_resgatar,argue_discutir",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "PT_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "glue",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.2",
+                    "word": "rescue",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.52",
+                    "word": "argue",
+                    "start": "6.2"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.928",
+                    "word": "verdadeiro",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "cola",
+                    "start": "1.928"
+                },
+                {
+                    "end": "5.234",
+                    "word": "resgatar",
+                    "start": "3.385"
+                },
+                {
+                    "end": "7.058",
+                    "word": "discutir",
+                    "start": "5.234"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "clue_dica,argue_discutir,glue_cola,blue_azul",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_glue_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "glue_cola",
+            "trans_en": "clue_dica,argue_discutir,glue_cola,blue_azul",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "PT_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "clue",
+                    "start": "0"
+                },
+                {
+                    "end": "4.27",
+                    "word": "argue",
+                    "start": "1.95"
+                },
+                {
+                    "end": "6.38",
+                    "word": "glue",
+                    "start": "4.27"
+                },
+                {
+                    "end": "8.23",
+                    "word": "blue",
+                    "start": "6.38"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "dica",
+                    "start": "0"
+                },
+                {
+                    "end": "3.359",
+                    "word": "discutir",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.816",
+                    "word": "cola",
+                    "start": "3.359"
+                },
+                {
+                    "end": "6.3",
+                    "word": "azul",
+                    "start": "4.816"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "blue_azul,argue_discutir,true_verdadeiro,rescue_resgatar",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_true_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "true_verdadeiro",
+            "trans_en": "blue_azul,argue_discutir,true_verdadeiro,rescue_resgatar",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "PT_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "blue",
+                    "start": "0"
+                },
+                {
+                    "end": "4.17",
+                    "word": "argue",
+                    "start": "1.85"
+                },
+                {
+                    "end": "6.25",
+                    "word": "true",
+                    "start": "4.17"
+                },
+                {
+                    "end": "8.26",
+                    "word": "rescue",
+                    "start": "6.25"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "azul",
+                    "start": "0"
+                },
+                {
+                    "end": "3.307",
+                    "word": "discutir",
+                    "start": "1.484"
+                },
+                {
+                    "end": "5.234",
+                    "word": "verdadeiro",
+                    "start": "3.307"
+                },
+                {
+                    "end": "7.084",
+                    "word": "resgatar",
+                    "start": "5.234"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "glue_cola,blue_azul,clue_dica,true_verdadeiro",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_blue_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "blue_azul",
+            "trans_en": "glue_cola,blue_azul,clue_dica,true_verdadeiro",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "PT_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.11",
+                    "word": "glue",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "blue",
+                    "start": "2.11"
+                },
+                {
+                    "end": "5.91",
+                    "word": "clue",
+                    "start": "3.96"
+                },
+                {
+                    "end": "8.0",
+                    "word": "true",
+                    "start": "5.91"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "cola",
+                    "start": "0"
+                },
+                {
+                    "end": "2.941",
+                    "word": "azul",
+                    "start": "1.457"
+                },
+                {
+                    "end": "4.477",
+                    "word": "dica",
+                    "start": "2.941"
+                },
+                {
+                    "end": "6.405",
+                    "word": "verdadeiro",
+                    "start": "4.477"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "true_verdadeiro,glue_cola,clue_dica,argue_discutir",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_UEX_clue_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "clue_dica",
+            "trans_en": "true_verdadeiro,glue_cola,clue_dica,argue_discutir",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "PT_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.08",
+                    "word": "true",
+                    "start": "0"
+                },
+                {
+                    "end": "4.19",
+                    "word": "glue",
+                    "start": "2.08"
+                },
+                {
+                    "end": "6.15",
+                    "word": "clue",
+                    "start": "4.19"
+                },
+                {
+                    "end": "8.47",
+                    "word": "argue",
+                    "start": "6.15"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.928",
+                    "word": "verdadeiro",
+                    "start": "0"
+                },
+                {
+                    "end": "3.385",
+                    "word": "cola",
+                    "start": "1.928"
+                },
+                {
+                    "end": "4.921",
+                    "word": "dica",
+                    "start": "3.385"
+                },
+                {
+                    "end": "6.744",
+                    "word": "discutir",
+                    "start": "4.921"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_UEX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_UEX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 6,\n        \"ES\": 6,\n        \"ZH\": 6,\n        \"VI\": 6,\n        \"AR\": 6,\n        \"KO\": 6,\n        \"DA\": 6,\n        \"PS\": 6,\n        \"TL\": 6,\n        \"BN\": 6,\n        \"PT\": 6,\n        \"HK\": 6,\n        \"TW\": 6\n    },\n    \"title\": {\n        \"EN\": \"UE  ue\",\n        \"ES\": \"UE  ue\",\n        \"ZH\": \"UE  ue\",\n        \"VI\": \"UE  ue\",\n        \"AR\": \"UE  ue\",\n        \"KO\": \"UE  ue\",\n        \"DA\": \"UE  ue\",\n        \"PS\": \"UE  ue\",\n        \"TL\": \"UE  ue\",\n        \"BN\": \"UE  ue\",\n        \"PT\": \"UE  ue\",\n        \"HK\": \"UE  ue\",\n        \"TW\": \"UE  ue\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Diego Dauer",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Escrito e narrado por:Cynthia Harrison Barbera",
+                "Traduzido por:Diego Dauer",
+                "Ilustrado por:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_UEX"
+        }
+    ]
+}
