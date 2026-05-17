@@ -23,6 +23,267 @@
    },
    "library": [
       {
+      "set": 4,
+      "path": "P01",
+      "sortkey": {
+        "EN": "4",
+        "ES": "4"
+      },
+      "title": {
+        "EN": "P01",
+        "ES": "P01"
+      },
+      "level": {
+        "EN": 1,
+        "ES": 1
+      },
+      "lexile": {
+        "EN": -1,
+        "ES": 70
+      },
+      "fp": "A",
+      "versions": [
+        "EN-ES"
+      ],
+      "about": "An inspirational book that suggests getting exercise in many ways.",
+      "genre": [
+        "Fiction: topical texts"
+      ],
+      "subjects": [
+        "body",
+        "daily life",
+        "friends"
+      ],
+      "grammar": [
+        "present"
+      ],
+      "keywords": [
+        "ride",
+        "kick",
+        "jump",
+        "run",
+        "dance",
+        "play"
+      ],
+      "mine": true,
+      "display": "normal",
+      "materials": {
+        "proficiency": {
+          "EN": "Proficiency Assessment - Get Strong (EN).pdf",
+          "ES": "Proficiency Assessment-Get Strong (ES).pdf",
+          "ZH": ""
+        },
+        "activity": {
+          "EN": "SB_GetStrong_Worksheet_EN.pdf",
+          "ES": "SB_GetStrong_Worksheet_ES.pdf",
+          "ZH": "SB_GetStrong_Worksheet_ZH.pdf"
+        },
+        "lesson_plan": {
+          "EN": "Lesson_Plan_Get Strong.pdf"
+        }
+      },
+      "themes": [
+        "Body",
+        "Sports"
+      ]
+    },
+   {
+      "set": 4,
+      "path": "P02",
+      "sortkey": {
+        "EN": "4",
+        "ES": "4"
+      },
+      "title": {
+        "EN": "P02",
+        "ES": "P02"
+      },
+      "level": {
+        "EN": 1,
+        "ES": 1
+      },
+      "lexile": {
+        "EN": -1,
+        "ES": 70
+      },
+      "fp": "A",
+      "versions": [
+        "EN-ES"
+      ],
+      "about": "An inspirational book that suggests getting exercise in many ways.",
+      "genre": [
+        "Fiction: topical texts"
+      ],
+      "subjects": [
+        "body",
+        "daily life",
+        "friends"
+      ],
+      "grammar": [
+        "present"
+      ],
+      "keywords": [
+        "ride",
+        "kick",
+        "jump",
+        "run",
+        "dance",
+        "play"
+      ],
+      "mine": true,
+      "display": "normal",
+      "materials": {
+        "proficiency": {
+          "EN": "Proficiency Assessment - Get Strong (EN).pdf",
+          "ES": "Proficiency Assessment-Get Strong (ES).pdf",
+          "ZH": ""
+        },
+        "activity": {
+          "EN": "SB_GetStrong_Worksheet_EN.pdf",
+          "ES": "SB_GetStrong_Worksheet_ES.pdf",
+          "ZH": "SB_GetStrong_Worksheet_ZH.pdf"
+        },
+        "lesson_plan": {
+          "EN": "Lesson_Plan_Get Strong.pdf"
+        }
+      },
+      "themes": [
+        "Body",
+        "Sports"
+      ]
+    },
+    {
+      "set": 4,
+      "path": "P03",
+      "sortkey": {
+        "EN": "4",
+        "ES": "4"
+      },
+      "title": {
+        "EN": "P03",
+        "ES": "P03"
+      },
+      "level": {
+        "EN": 1,
+        "ES": 1
+      },
+      "lexile": {
+        "EN": -1,
+        "ES": 70
+      },
+      "fp": "A",
+      "versions": [
+        "EN-ES"
+      ],
+      "about": "An inspirational book that suggests getting exercise in many ways.",
+      "genre": [
+        "Fiction: topical texts"
+      ],
+      "subjects": [
+        "body",
+        "daily life",
+        "friends"
+      ],
+      "grammar": [
+        "present"
+      ],
+      "keywords": [
+        "ride",
+        "kick",
+        "jump",
+        "run",
+        "dance",
+        "play"
+      ],
+      "mine": true,
+      "display": "normal",
+      "materials": {
+        "proficiency": {
+          "EN": "Proficiency Assessment - Get Strong (EN).pdf",
+          "ES": "Proficiency Assessment-Get Strong (ES).pdf",
+          "ZH": ""
+        },
+        "activity": {
+          "EN": "SB_GetStrong_Worksheet_EN.pdf",
+          "ES": "SB_GetStrong_Worksheet_ES.pdf",
+          "ZH": "SB_GetStrong_Worksheet_ZH.pdf"
+        },
+        "lesson_plan": {
+          "EN": "Lesson_Plan_Get Strong.pdf"
+        }
+      },
+      "themes": [
+        "Body",
+        "Sports"
+      ]
+    }, 
+    {
+      "set": 4,
+      "path": "P04",
+      "sortkey": {
+        "EN": "4",
+        "ES": "4"
+      },
+      "title": {
+        "EN": "P04",
+        "ES": "P04"
+      },
+      "level": {
+        "EN": 1,
+        "ES": 1
+      },
+      "lexile": {
+        "EN": -1,
+        "ES": 70
+      },
+      "fp": "A",
+      "versions": [
+        "EN-ES"
+      ],
+      "about": "An inspirational book that suggests getting exercise in many ways.",
+      "genre": [
+        "Fiction: topical texts"
+      ],
+      "subjects": [
+        "body",
+        "daily life",
+        "friends"
+      ],
+      "grammar": [
+        "present"
+      ],
+      "keywords": [
+        "ride",
+        "kick",
+        "jump",
+        "run",
+        "dance",
+        "play"
+      ],
+      "mine": true,
+      "display": "normal",
+      "materials": {
+        "proficiency": {
+          "EN": "Proficiency Assessment - Get Strong (EN).pdf",
+          "ES": "Proficiency Assessment-Get Strong (ES).pdf",
+          "ZH": ""
+        },
+        "activity": {
+          "EN": "SB_GetStrong_Worksheet_EN.pdf",
+          "ES": "SB_GetStrong_Worksheet_ES.pdf",
+          "ZH": "SB_GetStrong_Worksheet_ZH.pdf"
+        },
+        "lesson_plan": {
+          "EN": "Lesson_Plan_Get Strong.pdf"
+        }
+      },
+      "themes": [
+        "Body",
+        "Sports"
+      ]
+    }, 
+    
+      {
          "set": 1,
          "path": "1-Food_",
          "sortkey": {
