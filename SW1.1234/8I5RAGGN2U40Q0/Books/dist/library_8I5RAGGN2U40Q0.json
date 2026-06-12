@@ -23,6 +23,119 @@
    },
    "library": [
       {
+            "path": "A_Pride_of_Lions",
+            "sortkey": {
+                  "EN": 1,
+                  "ES": 1
+            },
+            "title": {
+                  "EN": "A Pride of Lions",
+                  "ES": "A Pride of Lions",
+                  "ZH": "A Pride of Lions"
+            },
+            "level": {
+                  "EN": 0,
+                  "ES": 0
+            },
+            "lexile": {
+                  "EN": "BR",
+                  "ES": ""
+            },
+            "fp": "",
+            "versions": [
+                  "EN-ES",
+                  "EN-ZH"
+            ],
+            "about": "Two smaller words can be combined to form a new word with its own meaning. ",
+            "genre": [
+                  "phonology",
+                  "orthography",
+                  "morphology"
+            ],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [
+                  "rainbow",
+                  "popcorn",
+                  "sidewalk",
+                  "baseball",
+                  "sunshine",
+                  "outside"
+            ],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                  "proficiency": {
+                        "EN": "",
+                        "ES": ""
+                  },
+                  "activity": {
+                        "EN": "",
+                        "ES": ""
+                  },
+                  "lesson_plan": {
+                        "EN": ""
+                  }
+            },
+            "content": "pom"
+      },
+      {
+            "path": "Bobbys_Story",
+            "sortkey": {
+                  "EN": 1,
+                  "ES": 1
+            },
+            "title": {
+                  "EN": "Compound Words",
+                  "ES": "Compound Words"
+            },
+            "level": {
+                  "EN": 0,
+                  "ES": 0
+            },
+            "lexile": {
+                  "EN": "BR",
+                  "ES": ""
+            },
+            "fp": "",
+            "versions": [
+                  "EN-ES",
+                  "EN-ZH"
+            ],
+            "about": "Two smaller words can be combined to form a new word with its own meaning. ",
+            "genre": [
+                  "phonology",
+                  "orthography",
+                  "morphology"
+            ],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [
+                  "rainbow",
+                  "popcorn",
+                  "sidewalk",
+                  "baseball",
+                  "sunshine",
+                  "outside"
+            ],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                  "proficiency": {
+                        "EN": "",
+                        "ES": ""
+                  },
+                  "activity": {
+                        "EN": "",
+                        "ES": ""
+                  },
+                  "lesson_plan": {
+                        "EN": ""
+                  }
+            },
+            "content": "pom"
+      },
+      {
             "path": "P01_CompoundWords",
             "sortkey": {
                   "EN": 1,
