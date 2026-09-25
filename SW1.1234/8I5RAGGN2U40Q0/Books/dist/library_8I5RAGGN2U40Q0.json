@@ -22,7 +22,547 @@
         }
     },
     "library": [
+                {
+            "set": 12,
+            "path": "12-Axolotl",
+            "sortkey": {
+                "EN": 100,
+                "ES": 100
+            },
+            "title": {
+                "EN": "Axolotl",
+                "ES": "Axolotl"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Axolotl",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
         {
+            "set": 13,
+            "path": "13-DiggingForDinosaurs",
+            "sortkey": {
+                "EN": 101,
+                "ES": 101
+            },
+            "title": {
+                "EN": "DiggingForDinosaurs",
+                "ES": "DiggingForDinosaurs"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "DiggingForDinosaurs",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 12,
+            "path": "12-Gemini",
+            "sortkey": {
+                "EN": 102,
+                "ES": 102
+            },
+            "title": {
+                "EN": "Gemini",
+                "ES": "Gemini"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Gemini",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 12,
+            "path": "12-NaturesPower",
+            "sortkey": {
+                "EN": 103,
+                "ES": 103
+            },
+            "title": {
+                "EN": "NaturesPower",
+                "ES": "NaturesPower"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "NaturesPower",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 10,
+            "path": "10-OxAndTheDonkey",
+            "sortkey": {
+                "EN": 104,
+                "ES": 104
+            },
+            "title": {
+                "EN": "OxAndTheDonkey",
+                "ES": "OxAndTheDonkey"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "OxAndTheDonkey",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 12,
+            "path": "12-Planets",
+            "sortkey": {
+                "EN": 105,
+                "ES": 105
+            },
+            "title": {
+                "EN": "Planets",
+                "ES": "Planets"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Planets",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 13,
+            "path": "13-Shipwreck",
+            "sortkey": {
+                "EN": 106,
+                "ES": 106
+            },
+            "title": {
+                "EN": "Shipwreck",
+                "ES": "Shipwreck"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Shipwreck",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 10,
+            "path": "10-StoneSoup",
+            "sortkey": {
+                "EN": 107,
+                "ES": 107
+            },
+            "title": {
+                "EN": "StoneSoup",
+                "ES": "StoneSoup"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "StoneSoup",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 10,
+            "path": "10-TheElephantAndTheBlindMen",
+            "sortkey": {
+                "EN": 108,
+                "ES": 108
+            },
+            "title": {
+                "EN": "TheElephantAndTheBlindMen",
+                "ES": "TheElephantAndTheBlindMen"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "TheElephantAndTheBlindMen",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 10,
+            "path": "10-TheHawksAndTheirFriends",
+            "sortkey": {
+                "EN": 109,
+                "ES": 109
+            },
+            "title": {
+                "EN": "TheHawksAndTheirFriends",
+                "ES": "TheHawksAndTheirFriends"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "TheHawksAndTheirFriends",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 13,
+            "path": "13-TheThankfulTurkey",
+            "sortkey": {
+                "EN": 110,
+                "ES": 110
+            },
+            "title": {
+                "EN": "TheThankfulTurkey",
+                "ES": "TheThankfulTurkey"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "TheThankfulTurkey",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        },
+        {
+            "set": 13,
+            "path": "13-TheDolphinsAndTheFishermen",
+            "sortkey": {
+                "EN": 111,
+                "ES": 111
+            },
+            "title": {
+                "EN": "DolphinsAndTheFishermen",
+                "ES": "DolphinsAndTheFishermen"
+            },
+            "level": {
+                "EN": "",
+                "ES": ""
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "DolphinsAndTheFishermen",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            },
+            "content": "full-length"
+        }
+        ,{
             "set": 1,
             "path": "1-Food_",
             "sortkey": {
