@@ -22,547 +22,7 @@
         }
     },
     "library": [
-                {
-            "set": 12,
-            "path": "12-Axolotl",
-            "sortkey": {
-                "EN": 100,
-                "ES": 100
-            },
-            "title": {
-                "EN": "Axolotl",
-                "ES": "Axolotl"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "Axolotl",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
         {
-            "set": 13,
-            "path": "13-DiggingForDinosaurs",
-            "sortkey": {
-                "EN": 101,
-                "ES": 101
-            },
-            "title": {
-                "EN": "DiggingForDinosaurs",
-                "ES": "DiggingForDinosaurs"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "DiggingForDinosaurs",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 12,
-            "path": "12-Gemini",
-            "sortkey": {
-                "EN": 102,
-                "ES": 102
-            },
-            "title": {
-                "EN": "Gemini",
-                "ES": "Gemini"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "Gemini",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 12,
-            "path": "12-NaturesPower",
-            "sortkey": {
-                "EN": 103,
-                "ES": 103
-            },
-            "title": {
-                "EN": "NaturesPower",
-                "ES": "NaturesPower"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "NaturesPower",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 10,
-            "path": "10-OxAndTheDonkey",
-            "sortkey": {
-                "EN": 104,
-                "ES": 104
-            },
-            "title": {
-                "EN": "OxAndTheDonkey",
-                "ES": "OxAndTheDonkey"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "OxAndTheDonkey",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 12,
-            "path": "12-Planets",
-            "sortkey": {
-                "EN": 105,
-                "ES": 105
-            },
-            "title": {
-                "EN": "Planets",
-                "ES": "Planets"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "Planets",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 13,
-            "path": "13-Shipwreck",
-            "sortkey": {
-                "EN": 106,
-                "ES": 106
-            },
-            "title": {
-                "EN": "Shipwreck",
-                "ES": "Shipwreck"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "Shipwreck",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 10,
-            "path": "10-StoneSoup",
-            "sortkey": {
-                "EN": 107,
-                "ES": 107
-            },
-            "title": {
-                "EN": "StoneSoup",
-                "ES": "StoneSoup"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "StoneSoup",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 10,
-            "path": "10-TheElephantAndTheBlindMen",
-            "sortkey": {
-                "EN": 108,
-                "ES": 108
-            },
-            "title": {
-                "EN": "TheElephantAndTheBlindMen",
-                "ES": "TheElephantAndTheBlindMen"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "TheElephantAndTheBlindMen",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 10,
-            "path": "10-TheHawksAndTheirFriends",
-            "sortkey": {
-                "EN": 109,
-                "ES": 109
-            },
-            "title": {
-                "EN": "TheHawksAndTheirFriends",
-                "ES": "TheHawksAndTheirFriends"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "TheHawksAndTheirFriends",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 13,
-            "path": "13-TheThankfulTurkey",
-            "sortkey": {
-                "EN": 110,
-                "ES": 110
-            },
-            "title": {
-                "EN": "TheThankfulTurkey",
-                "ES": "TheThankfulTurkey"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "TheThankfulTurkey",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        },
-        {
-            "set": 13,
-            "path": "13-TheDolphinsAndTheFishermen",
-            "sortkey": {
-                "EN": 111,
-                "ES": 111
-            },
-            "title": {
-                "EN": "DolphinsAndTheFishermen",
-                "ES": "DolphinsAndTheFishermen"
-            },
-            "level": {
-                "EN": "",
-                "ES": ""
-            },
-            "lexile": {
-                "EN": 600,
-                "ES": 600
-            },
-            "fp": "",
-            "versions": [
-                "EN-ES"
-            ],
-            "about": "DolphinsAndTheFishermen",
-            "genre": [],
-            "subjects": [],
-            "grammar": [],
-            "keywords": [],
-            "mine": true,
-            "display": "normal",
-            "materials": {
-                "proficiency": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "activity": {
-                    "EN": "",
-                    "ES": ""
-                },
-                "lesson_plan": {
-                    "EN": ""
-                }
-            },
-            "content": "full-length"
-        }
-        ,{
             "set": 1,
             "path": "1-Food_",
             "sortkey": {
@@ -18476,6 +17936,534 @@
                 "sunshine",
                 "outside"
             ],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 12,
+            "path": "12-Axolotl",
+            "sortkey": {
+                "EN": 100,
+                "ES": 100
+            },
+            "title": {
+                "EN": "Axolotl: The Salamander with Superpowers!",
+                "ES": "Ajolote: la salamandra con superpoderes"
+            },
+            "level": {
+                "EN": 4,
+                "ES": 4
+            },
+            "lexile": {
+                "EN": 550,
+                "ES": 550
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Meet the axolotl—the remarkable little salamander that regrows body parts, keeps its feathery gills, and lives underwater for life!",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 13,
+            "path": "13-DiggingForDinosaurs",
+            "sortkey": {
+                "EN": 101,
+                "ES": 101
+            },
+            "title": {
+                "EN": "Digging for Dinosaurs",
+                "ES": "En busca de dinosaurios"
+            },
+            "level": {
+                "EN": 4,
+                "ES": 4
+            },
+            "lexile": {
+                "EN": 540,
+                "ES": 540
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Two cousins dig for dinosaurs in the New Mexico desert and uncover two little black points that change everything.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 12,
+            "path": "12-Gemini",
+            "sortkey": {
+                "EN": 102,
+                "ES": 102
+            },
+            "title": {
+                "EN": "Gemini: The Story of Castor and Pollux",
+                "ES": "Géminis: La historia de Cástor y Pólux"
+            },
+            "level": {
+                "EN": 5,
+                "ES": 5
+            },
+            "lexile": {
+                "EN": 700,
+                "ES": 700
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Twin brothers, Castor and Pollux, share adventures, face loss of life, and eventually become the bright stars of the constellation Gemini.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 12,
+            "path": "12-NaturesPower",
+            "sortkey": {
+                "EN": 103,
+                "ES": 103
+            },
+            "title": {
+                "EN": "Nature's Power",
+                "ES": "El poder de la naturaleza"
+            },
+            "level": {
+                "EN": 5,
+                "ES": 5
+            },
+            "lexile": {
+                "EN": 900,
+                "ES": 900
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Sometimes our Earth shakes, roars, burns, or floods! Discover how nature's wildest forces tear our world apart, but also build it anew.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 10,
+            "path": "10-OxAndTheDonkey",
+            "sortkey": {
+                "EN": 104,
+                "ES": 104
+            },
+            "title": {
+                "EN": "Ox and Donkey  (A story from Africa)",
+                "ES": "Buey y Burro  (Un cuento de África)"
+            },
+            "level": {
+                "EN": 4,
+                "ES": 4
+            },
+            "lexile": {
+                "EN": 490,
+                "ES": 490
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Ox thinks Donkey has the easier job—until a clever trick teaches both friends to appreciate their own work.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 12,
+            "path": "12-Planets",
+            "sortkey": {
+                "EN": 105,
+                "ES": 105
+            },
+            "title": {
+                "EN": "Planets: How Our Neighbors Got Their Names",
+                "ES": "Planetas: Cómo nuestros vecinos recibieron sus nombres"
+            },
+            "level": {
+                "EN": 5,
+                "ES": 5
+            },
+            "lexile": {
+                "EN": 720,
+                "ES": 720
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Discover how the all planets in our solar system got their names—and why Earth’s name tells a different story.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 13,
+            "path": "13-Shipwreck",
+            "sortkey": {
+                "EN": 106,
+                "ES": 106
+            },
+            "title": {
+                "EN": "Shipwreck!",
+                "ES": "¡Naufragio!"
+            },
+            "level": {
+                "EN": 5,
+                "ES": 5
+            },
+            "lexile": {
+                "EN": 600,
+                "ES": 600
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "A shipwrecked family uses courage and creativity to build a surprising new life on an island. When a ship finally comes, will they choose to leave?",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 10,
+            "path": "10-StoneSoup",
+            "sortkey": {
+                "EN": 107,
+                "ES": 107
+            },
+            "title": {
+                "EN": "Stone Soup",
+                "ES": "Sopa de piedra"
+            },
+            "level": {
+                "EN": 4,
+                "ES": 4
+            },
+            "lexile": {
+                "EN": 500,
+                "ES": 500
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "A hungry traveler with nothing but a stone somehow creates a delicious soup for an entire village as everyone starts to help.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 10,
+            "path": "10-TheElephantAndTheBlindMen",
+            "sortkey": {
+                "EN": 108,
+                "ES": 108
+            },
+            "title": {
+                "EN": "The Elephant and the Blind Men",
+                "ES": "El elefante y los hombres ciegos"
+            },
+            "level": {
+                "EN": 4,
+                "ES": 4
+            },
+            "lexile": {
+                "EN": 530,
+                "ES": 530
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "When six blind men meet an elephant, everyone discovers why listening to each other helps to understand the whole picture.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 10,
+            "path": "10-TheHawksAndTheirFriends",
+            "sortkey": {
+                "EN": 109,
+                "ES": 109
+            },
+            "title": {
+                "EN": "The Hawks and Their Friends",
+                "ES": "Los halcones y sus amigos"
+            },
+            "level": {
+                "EN": 4,
+                "ES": 4
+            },
+            "lexile": {
+                "EN": 470,
+                "ES": 470
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "In this story of friendship, a family of hawks reach out to different animals for their special strengths and save their babies from danger.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 13,
+            "path": "13-TheThankfulTurkey",
+            "sortkey": {
+                "EN": 110,
+                "ES": 110
+            },
+            "title": {
+                "EN": "The Thankful Turkey",
+                "ES": "El pavo agradecido"
+            },
+            "level": {
+                "EN": 5,
+                "ES": 5
+            },
+            "lexile": {
+                "EN": 630,
+                "ES": 630
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "A quiet turkey gets a surprising Thanksgiving gift from the President. The story behind the first White House turkey pardon.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
+            "mine": true,
+            "display": "normal",
+            "materials": {
+                "proficiency": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "activity": {
+                    "EN": "",
+                    "ES": ""
+                },
+                "lesson_plan": {
+                    "EN": ""
+                }
+            }
+        },
+        {
+            "set": 13,
+            "path": "13-TheDolphinsAndTheFishermen",
+            "sortkey": {
+                "EN": 111,
+                "ES": 111
+            },
+            "title": {
+                "EN": "Dolphins and Fishermen",
+                "ES": "Delfines y pescadores"
+            },
+            "level": {
+                "EN": 5,
+                "ES": 5
+            },
+            "lexile": {
+                "EN": 710,
+                "ES": 710
+            },
+            "fp": "",
+            "versions": [
+                "EN-ES"
+            ],
+            "about": "Wild dolphins help fishermen catch fish—and get a meal themselves! Discover how this amazing partnership works off the coast of Brazil.",
+            "genre": [],
+            "subjects": [],
+            "grammar": [],
+            "keywords": [],
             "mine": true,
             "display": "normal",
             "materials": {
