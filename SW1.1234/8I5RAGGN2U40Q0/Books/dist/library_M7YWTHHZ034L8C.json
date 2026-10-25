@@ -22,7 +22,402 @@
         }
     },
     "library": [
-                {
+    {
+        "set": 10,
+        "path": "10-FrogOnAPot",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Frog on the Pot",
+            "ES": "Una rana sobre la olla"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "11-TheGirl_sGarden",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "The Girl's Garden",
+            "ES": "El jardín de la niña"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 17,
+        "path": "17-NateLovesNuts",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Nate Loves Nuts",
+            "ES": "A Nate le encantan las nueces"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 21,
+        "path": "21-WormInAWell",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Worm in a Well",
+            "ES": "Un gusano en un pozo"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 24,
+        "path": "24-ILoveYogurt",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "I Love Yogurt!",
+            "ES": "¡Me encanta el yogur!"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 29,
+        "path": "29-ThornInMyThumb",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Thorn in My Thumb",
+            "ES": "Una espina en mi pulgar"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 31,
+        "path": "31-TheWhiteWhale",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "The White Whale",
+            "ES": "La ballena blanca"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 35,
+        "path": "35-ILikeToRide",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "I Like to Ride!",
+            "ES": "¡Me gusta montar en bicicleta!"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 41,
+        "path": "41-GooseOnTheRoof",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Goose on the Roof!",
+            "ES": "¡Un ganso en el techo!"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },                {
             "set": 12,
             "path": "12-Axolotl",
             "sortkey": {
