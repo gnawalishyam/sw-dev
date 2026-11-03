@@ -23,6 +23,94 @@
     },
     "library": [
     {
+        "set": 12,
+        "path": "12-TigerWhoTalkedTooMuch",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "The Tiger Who Talked Too Much (A Story from Asia)",
+            "ES": "El tigre que hablaba demasiado (Un cuento de Asia)"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 12,
+        "path": "12-ChickenLittle",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Chicken Little",
+            "ES": "Chicken Little"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },        
+    {
         "set": 10,
         "path": "10-FrogOnAPot",
         "sortkey": {
