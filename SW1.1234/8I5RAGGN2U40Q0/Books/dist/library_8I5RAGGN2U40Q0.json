@@ -23,6 +23,138 @@
     },
     "library": [
     {
+        "set": 2,
+        "path": "2-AntsOnABag",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Ants on a Bag",
+            "ES": "Hormigas sobre una bolsa"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 3,
+        "path": "3-MaxIsMad",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Max Is Mad",
+            "ES": "Max está enojado"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 4,
+        "path": "4-TurtleTapsATiger",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Turtle Taps a Tiger",
+            "ES": "Una tortuga golpea a un tigre"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
         "set": 12,
         "path": "12-TigerWhoTalkedTooMuch",
         "sortkey": {
