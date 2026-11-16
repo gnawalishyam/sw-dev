@@ -24,6 +24,798 @@
   "library": [
     {
         "set": 11,
+        "path": "EmailTheEvent",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Email the Event!",
+            "ES": "¡Envía el evento por correo electrónico!"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "BeeInTheTree",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Bee in the Tree",
+            "ES": "Una abeja en el árbol"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "WeighTheSleigh",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Weigh the Sleigh",
+            "ES": "Pesar el trineo"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "TheKnockOfAKnight",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "The Knock of a Knight",
+            "ES": "Un caballero toca a la puerta"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "AMouseFoundSprouts",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "A Mouse Found Sprouts",
+            "ES": "Un ratón encontró brotes"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "PeopleAtThePark",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "People at the Park",
+            "ES": "Gente en el parque"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "CuteCubsOnAKite",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Cute Cubs on a Kite",
+            "ES": "Lindos cachorros en una cometa"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "SnakeOnAHike",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Snake on a Hike",
+            "ES": "Una serpiente en una caminata"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "ElvesAndThieves",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Elves and Thieves",
+            "ES": "Elfos y ladrones"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "TheThankfulPuppy",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "The Thankful Puppy",
+            "ES": "El perrito agradecido"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "TimWins",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Tim Wins",
+            "ES": "Tim gana"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "SwingingAndSinging",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Swinging and Singing",
+            "ES": "Columpiarse y cantar"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "TheSoupSpills",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "The Soup Spills",
+            "ES": "La sopa se derrama"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "TheWhiteWhale",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "The White Whale",
+            "ES": "La ballena blanca"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "WormInAWell",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Worm in a Well",
+            "ES": "Un gusano en un pozo"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "ElephantsAndDolphins",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Elephants and Dolphins",
+            "ES": "Elefantes y delfines"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "NateLovesNuts",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "Nate Loves Nuts",
+            "ES": "A Nate le encantan las nueces"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
+        "path": "GooseOnTheRoof",
+        "sortkey": {
+            "EN": 101,
+            "ES": 101
+        },
+        "title": {
+            "EN": "A Goose on the Roof!",
+            "ES": "¡Un ganso en el techo!"
+        },
+        "level": {
+            "EN": 4,
+            "ES": ""
+        },
+        "lexile": {
+            "EN": 520,
+            "ES": 600
+        },
+        "fp": "",
+        "versions": [
+            "EN-ES"
+        ],
+        "about": "",
+        "genre": [],
+        "subjects": [],
+        "grammar": [],
+        "keywords": [],
+        "mine": true,
+        "display": "normal",
+        "materials": {
+            "proficiency": {
+                "EN": "",
+                "ES": ""
+            },
+            "activity": {
+                "EN": "",
+                "ES": ""
+            },
+            "lesson_plan": {
+                "EN": ""
+            }
+        }
+    },
+    {
+        "set": 11,
         "path": "ASnakeAtTheLake",
         "sortkey": {
             "EN": 101,
