@@ -15412,7 +15412,7 @@
                 "TL": "Pinagmulan"
             },
             "level": {
-                "EN": 5,
+                "EN":5,
                 "ES": "",
                 "TL": ""
             },
@@ -18571,33 +18571,43 @@
             }
         },
         {
-            "set": 11,
             "path": "MB_AAL_ASnakeAtTheLake",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 34,
+                "ES": 34
             },
             "title": {
                 "EN": "A Snake at the Lake",
                 "ES": "Una serpiente en el lago"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl takes a cake to a lake and then discovers a snake.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Reptiles and Amphibians"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "bake",
+                "cake",
+                "lake",
+                "plane",
+                "snake",
+                "cave",
+                "gate",
+                "wave"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18616,33 +18626,44 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_AIX_ASnailOnARail",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 47,
+                "ES": 47
             },
             "title": {
                 "EN": "A Snail on a Rail",
                 "ES": "Un caracol en un riel"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A snail tries to stop a train with red paint, but is washed off the rail by the rain.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel & Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "paint",
+                "waist",
+                "snail",
+                "rain",
+                "tail",
+                "train",
+                "wait",
+                "rail",
+                "frail"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18661,33 +18682,43 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_AUX_TheNaughtyDaughter",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 63,
+                "ES": 63
             },
             "title": {
                 "EN": "The Naughty Daughter",
                 "ES": "La hija traviesa"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A mother sees her naughty daughter get wet at the faucet, but then they have a good laugh.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Family"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "caught",
+                "naughty",
+                "daughter",
+                "taught",
+                "autumn",
+                "faucet",
+                "pause",
+                "laugh"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18706,33 +18737,46 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_AWX_DadDrawsAtDawn",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 64,
+                "ES": 64
             },
             "title": {
                 "EN": "Dad Draws at Dawn",
                 "ES": "Papá dibuja al amanecer"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A dad draws a hawk at dawn on a lawn, and then includes his pup tin the drawing too.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Art & Music"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "claw",
+                "hawk",
+                "jaw",
+                "paw",
+                "yawn",
+                "dawn",
+                "lawn",
+                "saw",
+                "straw",
+                "crawls",
+                "draw"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18751,33 +18795,43 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_AYX_DogsPlayInTheHay",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 50,
+                "ES": 50
             },
             "title": {
                 "EN": "Dogs Play in the Hay",
                 "ES": "Los perros juegan en el heno"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A farmer was mad when his two dogs hit a tray of milk and then ran away.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Pets"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "hay",
+                "play",
+                "pay",
+                "tray",
+                "spray",
+                "stay",
+                "away",
+                "say"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18796,33 +18850,42 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_CCS_CircusInTheCity",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 53,
+                "ES": 53
             },
             "title": {
                 "EN": "Circus in the City",
                 "ES": "Circo en la ciudad"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Cindy spent all of her cents on cereal and celery, and didn't have any left for the circus.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Shopping"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "city",
+                "cents",
+                "circus",
+                "celery",
+                "cereal",
+                "circle",
+                "center"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18841,33 +18904,43 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_CKX_MyLockIsStuck",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 33,
+                "ES": 33
             },
             "title": {
                 "EN": "My Lock Is Stuck",
                 "ES": "Mi cerradura está atascada"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl is sick and wants a snack in her truck but needs her key to open a stuck lock.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Body and senses"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "snack",
+                "backpack",
+                "sick",
+                "lock",
+                "truck",
+                "luck",
+                "back",
+                "stuck"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18886,33 +18959,45 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_EAL_TheTeamEats",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 39,
+                "ES": 39
             },
             "title": {
                 "EN": "The Team Eats!",
                 "ES": "¡El equipo come!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A hungry team sits down to eat but has to say \"please\" if they want to eat meat.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Food and Cooking"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "team",
+                "eat",
+                "heat",
+                "beans",
+                "peas",
+                "peach",
+                "seat",
+                "meat",
+                "reach",
+                "please"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18931,33 +19016,46 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_EAS_UnsteadyWeather",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 43,
+                "ES": 43
             },
             "title": {
                 "EN": "Unsteady Weather",
                 "ES": "Clima inestable"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "When bad weather makes a girl puts on her sweater, she pulls a thread and decides to read instead.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Clothes"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "bread",
+                "thread",
+                "heavy",
+                "weather",
+                "head",
+                "sweater",
+                "ahead",
+                "ready",
+                "unsteady",
+                "read",
+                "instead"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -18976,33 +19074,44 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_EEL_EmailTheEvent",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 37,
+                "ES": 37
             },
             "title": {
                 "EN": "Email the Event!",
                 "ES": "¡Envía el evento por correo electrónico!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A woman plans a Chinese and Japanese themed event and sends out the emails.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Jobs"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "email",
+                "equal",
+                "eve",
+                "here",
+                "scene",
+                "these",
+                "complete",
+                "Chinese",
+                "Japanese"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19021,33 +19130,45 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_EEX_BeeInTheTree",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 40,
+                "ES": 40
             },
             "title": {
                 "EN": "Bee in the Tree",
                 "ES": "Una abeja en el árbol"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl sees a sleeping bee in a tree and warns not to wake the bee because it can sting..",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Insects & Spiders"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "bee",
+                "tree",
+                "seed",
+                "feet",
+                "teeth",
+                "asleep",
+                "freeze",
+                "sneeze",
+                "meet",
+                "need"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19066,33 +19187,42 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_EIX_WeighTheSleigh",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 62,
+                "ES": 62
             },
             "title": {
                 "EN": "Weigh the Sleigh",
                 "ES": "Pesar el trineo"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Friends weigh and pay the freight to send a toy sleigh to a neighbor who will be turning eighteen.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Friends"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "weigh",
+                "sleigh",
+                "eight",
+                "reindeer",
+                "neighbor",
+                "freight",
+                "eighteen"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19111,33 +19241,42 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_EYX_TheMonkeyAndTheDonkey",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 46,
+                "ES": 46
             },
             "title": {
                 "EN": "The Monkey and the Donkey",
                 "ES": "El mono y el burro"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A monkey and a donkey are disappointed that they can't find the hockey game in a valley.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "monkey",
+                "donkey",
+                "hockey",
+                "money",
+                "trolley",
+                "valley",
+                "chimney"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19156,33 +19295,42 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_IEX_AChiefWithAShield",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 58,
+                "ES": 58
             },
             "title": {
                 "EN": "A Chief with a Shield",
                 "ES": "Un jefe con un escudo"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "In a movie a thief steals a piece off a shield from a chief and runs away.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Art & Music"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "chief",
+                "piece",
+                "field",
+                "shield",
+                "thief",
+                "movie",
+                "grief"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19201,33 +19349,43 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_IGH_LightInTheNight",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 54,
+                "ES": 54
             },
             "title": {
                 "EN": "Light in the Night",
                 "ES": "Luz en la noche"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Two girls are grateful to have a light so they can see the pillow fight on their right.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Friends"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "fight",
+                "light",
+                "night",
+                "right",
+                "sight",
+                "thigh",
+                "bright",
+                "tonight"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19246,33 +19404,48 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_IIL_ILikeToRide",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 35,
+                "ES": 35
             },
             "title": {
                 "EN": "I Like to Ride!",
                 "ES": "¡Me gusta montar en bicicleta!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy loves to ride his bike with a wide white line on it.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "ice",
+                "bike",
+                "ride",
+                "five",
+                "hide",
+                "like",
+                "line",
+                "white",
+                "wide",
+                "drive",
+                "mine",
+                "time",
+                "smile"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19291,33 +19464,41 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_KNX_TheKnockOfAKnight",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 55,
+                "ES": 55
             },
             "title": {
                 "EN": "The Knock of a Knight",
                 "ES": "Un caballero toca a la puerta"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A knight with a knack for fun knocks on a friend's door.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Friends"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "knee",
+                "knot",
+                "knife",
+                "knock",
+                "knight",
+                "knack"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19336,33 +19517,44 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OAX_AGoatInABoat",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 59,
+                "ES": 59
             },
             "title": {
                 "EN": "A Goat in a Boat",
                 "ES": "Una cabra en un bote"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A goat washes his boat on the side of a road but forgets his toast as he sets off to the coast.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel and Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "boat",
+                "goat",
+                "coat",
+                "road",
+                "goal",
+                "soap",
+                "toast",
+                "coast",
+                "float"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19381,33 +19573,45 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OIX_CoinsInTheSoil",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 60,
+                "ES": 60
             },
             "title": {
                 "EN": "Coins in the Soil",
                 "ES": "Monedas en la tierra"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Some kids use clues to discover coins in foil buried in the soil.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "oil",
+                "boil",
+                "coins",
+                "point",
+                "toilet",
+                "soil",
+                "coil",
+                "foil",
+                "hoist",
+                "choice"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19426,33 +19630,44 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OLO_AGooseOnTheRoof",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 41,
+                "ES": 41
             },
             "title": {
                 "EN": "A Goose on the Roof!",
                 "ES": "¡Un ganso en el techo!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A goose on a roof falls into a pool and decides he'll never go back to the roof.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Birds"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "goose",
+                "room",
+                "food",
+                "pool",
+                "spoon",
+                "roof",
+                "tool",
+                "soon",
+                "scoop"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19471,33 +19686,44 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OOL_SmokeInTheHole",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 36,
+                "ES": 36
             },
             "title": {
                 "EN": "Smoke in the Hole",
                 "ES": "Humo en el hoyo"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl sees an open hole with smoke coming out and a note that is not a joke.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Jobs"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "open",
+                "hole",
+                "note",
+                "pole",
+                "smoke",
+                "rope",
+                "joke",
+                "hope",
+                "close"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19516,33 +19742,45 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OSO_ACookNeedsAHook",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 44,
+                "ES": 44
             },
             "title": {
                 "EN": "A Cook Needs a Hook",
                 "ES": "Un cocinero necesita un gancho"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A cook in the woods hurts his foot and needs a hook to get his cookbook.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Food and Cooking"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "look",
+                "wood",
+                "book",
+                "foot",
+                "cook",
+                "hook",
+                "took",
+                "cookbook",
+                "good",
+                "shook"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19561,33 +19799,47 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OUX_AMouseFoundSprouts",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 49,
+                "ES": 49
             },
             "title": {
                 "EN": "A Mouse Found Sprouts",
                 "ES": "Un ratón encontró brotes"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A mouse did not like the sour sprouts she found when she ran out of the house.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Growing Plants"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "cloud",
+                "house",
+                "loud",
+                "mouse",
+                "sour",
+                "sound",
+                "around",
+                "ground",
+                "sprouts",
+                "shouted",
+                "ouch",
+                "mouth"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19606,33 +19858,45 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OWL_ASnowmanForAShow",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 48,
+                "ES": 48
             },
             "title": {
                 "EN": "A Snowman for a Show",
                 "ES": "Un muñeco de nieve para un espectáculo"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Two kids make a snowman using a bowl and arrows just for a show.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Weather & Seasons"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "grow",
+                "blow",
+                "snow",
+                "bowl",
+                "arrows",
+                "throw",
+                "snowman",
+                "window",
+                "grow",
+                "show"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19651,33 +19915,41 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OWX_TheOwlAndTheTowel",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 45,
+                "ES": 45
             },
             "title": {
                 "EN": "The Owl and the Towel",
                 "ES": "El búho y la toalla"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "An owl flies away with a brown towel, but not a crown when a young girl acts quickly.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Birds"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "owl",
+                "crown",
+                "town",
+                "frown",
+                "towel",
+                "brown"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19696,33 +19968,42 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_OYX_Don_tDestroyTheToy",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 61,
+                "ES": 61
             },
             "title": {
                 "EN": "Don’t Destroy the Toy!",
                 "ES": "¡No rompas el juguete!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A father asks others not to destroy his son's toy cowboy.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Feelings"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "toy",
+                "boy",
+                "joy",
+                "cowboy",
+                "destroy",
+                "enjoy",
+                "annoy"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19741,33 +20022,41 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_PHX_ElephantsAndDolphins",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 57,
+                "ES": 57
             },
             "title": {
                 "EN": "Elephants and Dolphins",
                 "ES": "Elefantes y delfines"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl gets a trophy after feeding an elephant and swimming with dolphins, then writes about the photos.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "dolphins",
+                "elephant",
+                "paragraph",
+                "phone",
+                "photo",
+                "trophy"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19786,33 +20075,41 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_UEX_BlueGlue",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 42,
+                "ES": 42
             },
             "title": {
                 "EN": "Blue Glue",
                 "ES": "Pegamento azul"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Sue gets stuck with blue glue and finds the clue to removing it is on the tube.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Art & Music"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "glue",
+                "true",
+                "blue",
+                "rescue",
+                "argue",
+                "clue"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19831,33 +20128,42 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_UUL_Don_tMuteMyFlute",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 38,
+                "ES": 38
             },
             "title": {
                 "EN": "Don't Mute My Flute",
                 "ES": "No silencies mi flauta"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl measures how large her flute is and does not want it to be muted.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Art & Music"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "use",
+                "flute",
+                "huge",
+                "ruler",
+                "tune",
+                "tube",
+                "mute"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19876,33 +20182,42 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_WRX_TheWrongWrench",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 56,
+                "ES": 56
             },
             "title": {
                 "EN": "The Wrong Wrench",
                 "ES": "La llave inglesa equivocada"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl uses a wrench to hang a wreath, but wrecks her wall and hurts her wrist.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Jobs"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "wrist",
+                "wrecks",
+                "wrong",
+                "write",
+                "wrench",
+                "wreath",
+                "wrap"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19921,33 +20236,47 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_YEX_BabyAndBunnyAtAParty",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 51,
+                "ES": 51
             },
             "title": {
                 "EN": "Baby and Bunny at a Party",
                 "ES": "Un bebé y un conejito en una fiesta"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A baby and a bunny went to a party and got messy and messy before they got candy.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Friends"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "bunny",
+                "baby",
+                "party",
+                "sunny",
+                "dressy",
+                "windy",
+                "messy",
+                "raimy",
+                "muddy",
+                "hungry",
+                "candy",
+                "happy"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -19966,33 +20295,41 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_YIX_TheShyFly",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 52,
+                "ES": 52
             },
             "title": {
                 "EN": "The Shy Fly",
                 "ES": "La mosca tímida"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A shy fly waited for the sun to come out before it would fly and not cry.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Insects & Spiders"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "fly",
+                "cry",
+                "dry",
+                "shy",
+                "sky",
+                "try"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20011,33 +20348,47 @@
             "carousel_cat": "minibooksklettersounds"
         },
         {
-            "set": 11,
             "path": "MB_P01_TheRainbow",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 65,
+                "ES": 65
             },
             "title": {
                 "EN": "The Rainbow",
                 "ES": "El arcoíris"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "When it rains at a girl's birthday, the friends go inside until they see a rainbow over the sidewalk.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Celebrations"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "rainbow",
+                "baseball",
+                "outside",
+                "sidewalk",
+                "popcorn",
+                "sunshine",
+                "birthday",
+                "playground",
+                "cupcakes",
+                "rain clouds",
+                "raincoat",
+                "backpack"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20056,33 +20407,45 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P02_PeopleAtThePark",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 66,
+                "ES": 66
             },
             "title": {
                 "EN": "People at the Park",
                 "ES": "Gente en el parque"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "At the park everyone enjoys doing different things, including taking a nap!",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Routines"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "people",
+                "feet",
+                "women",
+                "teeth",
+                "children",
+                "men",
+                "geese",
+                "mice",
+                "balls",
+                "books"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20101,33 +20464,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P03_SummerPicnic",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 67,
+                "ES": 67
             },
             "title": {
                 "EN": "Summer Picnic",
                 "ES": "Pícnic de verano"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Two sisters go to a summer cottage and enjoy a picnic by the sunset.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Family"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "traffic",
+                "basket",
+                "napkin",
+                "pepper",
+                "kitten",
+                "muffin",
+                "sister",
+                "dinner",
+                "summer",
+                "cottage",
+                "picnic",
+                "blanket"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20146,33 +20523,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P04_HotelBonus",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 68,
+                "ES": 68
             },
             "title": {
                 "EN": "Hotel Bonus",
                 "ES": "Bono de hotel"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A family goes to a hotel and loves every moment, especially when they get a bonus!",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel & Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "hotel",
+                "robot",
+                "lady",
+                "music",
+                "sofa",
+                "paper",
+                "total",
+                "basic",
+                "moment",
+                "zero",
+                "even",
+                "bonus"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20191,33 +20582,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P05_MyPurpleShirt",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 72,
+                "ES": 72
             },
             "title": {
                 "EN": "My Purple Shirt",
                 "ES": "Mi camisa morada"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A student protects some lemon trees from getting frozen but runs out of time.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel & Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "cabin",
+                "lemon",
+                "frozen",
+                "student",
+                "protect",
+                "river",
+                "second",
+                "visit",
+                "began",
+                "limit",
+                "travel",
+                "finish"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20236,33 +20641,43 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P06_ThePositiveWay",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 71,
+                "ES": 71
             },
             "title": {
                 "EN": "The Positive Way",
                 "ES": "La manera positiva"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A group of kids repare a kite by gluing a cute cub on it and it flies high.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "kite",
+                "tape",
+                "cube",
+                "hope",
+                "tube",
+                "made",
+                "cute",
+                "cape"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20281,33 +20696,48 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P07_CuteCubOnAKite",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 69,
+                "ES": 69
             },
             "title": {
                 "EN": "Cute Cub on a Kite",
                 "ES": "Lindo cachorro en una cometa"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Everyone finds something wrong with a girl's purple shirt. After it gets torn and dirty, her mother wants to burn it.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Clothes",
+                "Colors"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "morning",
+                "torn",
+                "dirt",
+                "burn",
+                "mother",
+                "dark",
+                "purple",
+                "shirt",
+                "short",
+                "sister",
+                "arm",
+                "hurt"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20326,33 +20756,49 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P08_FrozenLemons",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 83,
+                "ES": 83
             },
             "title": {
                 "EN": "Frozen Lemons",
                 "ES": "Limones congelados"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A camel keeps blocking a girl's photos until she aims her camera right at it.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "family",
+                "animal",
+                "holiday",
+                "collect",
+                "remember",
+                "camera",
+                "memory",
+                "before",
+                "began",
+                "camel",
+                "together",
+                "about",
+                "possible",
+                "others"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20371,33 +20817,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P09_MyShyPuppy",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 73,
+                "ES": 73
             },
             "title": {
                 "EN": "My Shy Puppy",
                 "ES": "Mi perrito tímido"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A shy puppy starts to cry during an early walk in the rain but is happy after he eats and drinks.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Pets"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "stormy",
+                "muddy",
+                "icy",
+                "noisy",
+                "cry",
+                "shy",
+                "chilly",
+                "early",
+                "hungry",
+                "thirsty",
+                "why",
+                "try"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20416,33 +20876,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P11_FriendsInArtClasses",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 80,
+                "ES": 80
             },
             "title": {
                 "EN": "Friends in Art Classes",
                 "ES": "Amigos en clases de arte"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "After a boy sees a snake on a hike, he and decides to go home to read a book instead.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel & Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "snack",
+                "rock",
+                "check",
+                "stick",
+                "book",
+                "weak",
+                "bike",
+                "back",
+                "quick",
+                "pick",
+                "snake",
+                "park"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20461,33 +20935,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P12_HelpForDad",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 70,
+                "ES": 70
             },
             "title": {
                 "EN": "Help for Dad",
                 "ES": "Ayuda para Papá"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl talks about how she always works to be positive - never negative - and help others.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Feelings"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "love",
+                "move",
+                "give",
+                "shove",
+                "above",
+                "positive",
+                "believe",
+                "active",
+                "negative",
+                "behave",
+                "brave",
+                "have"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20506,33 +20994,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P13_WorkingForMom",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 81,
+                "ES": 81
             },
             "title": {
                 "EN": "Working for Mom",
                 "ES": "Trabajando para Mamá"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "At a baseball game, a boy tries to catch a ball, slips in a ditch, but gets a badge at the end.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "match",
+                "edge",
+                "bridge",
+                "catch",
+                "scratch",
+                "badge",
+                "watch",
+                "stretch",
+                "ditch",
+                "lodge",
+                "hedge",
+                "smudge"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20551,33 +21053,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P14_FunAtTheLake",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 74,
+                "ES": 74
             },
             "title": {
                 "EN": "Fun at the Lake",
                 "ES": "Diversión en el lago"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A group of kids enjoy a trip to a cliff, but a mess of glass on the way creates a bad smell.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Friends"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "hill",
+                "cliff",
+                "bell",
+                "mess",
+                "glass",
+                "sniff",
+                "miss",
+                "dress",
+                "smell",
+                "yell",
+                "pass",
+                "buzz"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20596,33 +21112,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P15_HappierAtNight",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 84,
+                "ES": 84
             },
             "title": {
                 "EN": "Happier at Night",
                 "ES": "Más feliz de noche"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "At lunch with her uncle, a girl doesn't like the noodles and orders waffles instead.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Food and Cooking"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "candle",
+                "middle",
+                "bottle",
+                "circle",
+                "sparkle",
+                "noodle",
+                "terrible",
+                "little",
+                "uncle",
+                "table",
+                "apple",
+                "purple"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20641,33 +21171,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P16_SnakeOnAHike",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 75,
+                "ES": 75
             },
             "title": {
                 "EN": "Snake on a Hike",
                 "ES": "Una serpiente en una caminata"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "At art class, kids make robots with huge glasses who wave goodbye when the kids go home.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Art & Music"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "kids",
+                "waves",
+                "smiles",
+                "boxes",
+                "lunches",
+                "buses",
+                "glasses",
+                "names",
+                "benches",
+                "brushes",
+                "girls",
+                "boys"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20686,33 +21230,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P17_TheBaseballMatch",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 76,
+                "ES": 76
             },
             "title": {
                 "EN": "The Baseball Match",
                 "ES": "El partido de béisbol"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Some kids stop playing after the rain when dad asks for help to plant some seeds.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Family"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "rained",
+                "played",
+                "cleaned",
+                "opened",
+                "jumped",
+                "washed",
+                "asked",
+                "thanked",
+                "wanted",
+                "planted",
+                "ended",
+                "decided"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20731,33 +21289,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P18_GingerTheGentleGiraffe",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 77,
+                "ES": 77
             },
             "title": {
                 "EN": "Ginger, the Gentle Giraffe",
                 "ES": "Ginger, la jirafa gentil"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A bored boy and girl help their mother clean the house and then everyone enjoys sleeping.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Family"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "singing",
+                "looking",
+                "sleeping",
+                "cleaning",
+                "working",
+                "reading",
+                "opening",
+                "washing",
+                "going",
+                "talking",
+                "asking",
+                "thinking"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20776,33 +21348,49 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P19_CamelInTheCamera",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 78,
+                "ES": 78
             },
             "title": {
                 "EN": "Camel in the Camera",
                 "ES": "Un camello en la cámara"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Kids look forward to playing with friends at a lake and hate to leave at the end.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Friends"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "driving",
+                "leaving",
+                "running",
+                "swimming",
+                "hopped",
+                "hugged",
+                "sitting",
+                "making",
+                "arriving",
+                "taking",
+                "hugged",
+                "hated",
+                "tasty",
+                "setting"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20821,33 +21409,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P20_TerribleNoodles",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 79,
+                "ES": 79
             },
             "title": {
                 "EN": "Terrible Noodles",
                 "ES": "Fideos terribles"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl notices all the many activities people do during the day, but feels happier when things are quieter at night.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Feelings"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "babies",
+                "parties",
+                "puppies",
+                "cried",
+                "tries",
+                "playing",
+                "stories",
+                "fairies",
+                "berries",
+                "libraries",
+                "pennies",
+                "tried"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20866,33 +21468,43 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P21_AdventureInNature",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 88,
+                "ES": 88
             },
             "title": {
                 "EN": "Adventure in Nature",
                 "ES": "Una aventura en la naturaleza"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "When some thieves grabbed scarves and knives from some elves, they left behind the loaves of bread.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Food and Cooking"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "loaves",
+                "knives",
+                "elves",
+                "thieves",
+                "shelves",
+                "scarves",
+                "halves",
+                "lives"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20911,33 +21523,48 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P22_AVacationAcrossTheNation",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 91,
+                "ES": 91
             },
             "title": {
                 "EN": "A Vacation Across the Nation",
                 "ES": "Unas vacaciones al otro lado del país"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A team played their best and later enjoyed the snacks their parents prepared.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "went",
+                "came",
+                "took",
+                "saw",
+                "ate",
+                "flew",
+                "began",
+                "told",
+                "sat",
+                "gave",
+                "had",
+                "ran",
+                "did"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -20956,33 +21583,45 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P23_TheHappiestAndBusiestDay",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 87,
+                "ES": 87
             },
             "title": {
                 "EN": "The Happiest and Busiest Day!",
                 "ES": "¡El día más feliz y más movido!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A group of kids enjoy games at a park and decide it was their best and busiest day.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "tallest",
+                "busier",
+                "busiest",
+                "biggest",
+                "good",
+                "better",
+                "best",
+                "harder",
+                "easier",
+                "funnier"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21001,33 +21640,46 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P24_ElvesAndThieves",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 85,
+                "ES": 85
             },
             "title": {
                 "EN": "Elves and Thieves",
                 "ES": "Elfos y ladrones"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "On an outdoor adventure, a teacher susggests learning about nature will help students care about their future.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Environment & Habitats"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "adventure",
+                "capture",
+                "picture",
+                "furniture",
+                "nature",
+                "mixture",
+                "structure",
+                "temperature",
+                "future",
+                "creature",
+                "lecture"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21046,33 +21698,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P25_ExcitedToExplore",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 86,
+                "ES": 86
             },
             "title": {
                 "EN": "Excited to Explore",
                 "ES": "Con ganas de explorar"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "On a train ride across a nation, kids learn about direction and location, and have a good conversation.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel & Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "motion",
+                "station",
+                "nation",
+                "education",
+                "question",
+                "vacation",
+                "information",
+                "location",
+                "section",
+                "conversation",
+                "direction",
+                "celebration"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21091,33 +21757,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P26_TheThankfulPuppy",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 89,
+                "ES": 89
             },
             "title": {
                 "EN": "The Thankful Puppy",
                 "ES": "El perrito agradecido"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A friend helps a fellow student unpack his lunch and retie his shoes as they prepare for class together.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "School"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "unhappy",
+                "refill",
+                "prepare",
+                "mistake",
+                "misread",
+                "dislike",
+                "unpack",
+                "retie",
+                "preview",
+                "disrespect",
+                "explore",
+                "excited"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21136,33 +21816,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P27_PlayingOurBest",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 90,
+                "ES": 90
             },
             "title": {
                 "EN": "Playing Our Best",
                 "ES": "Jugando lo mejor que podemos"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl helps a homeless puppy by giving it milk and kindness.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Pets"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "helpless",
+                "slowly",
+                "thankful",
+                "cheerful",
+                "darkness",
+                "goodness",
+                "homeless",
+                "kindly",
+                "hopeful",
+                "softly",
+                "carefully",
+                "brightly"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21181,33 +21875,66 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P28_ACloud_sShadow",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 94,
+                "ES": 94
             },
             "title": {
                 "EN": "A Cloud’s Shadow",
                 "ES": "La sombra de una nube"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Two friends share details about stories they are writing, while another friend wants to read them when finished.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Conversations"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "peace",
+                "piece",
+                "rode",
+                "road",
+                "tale",
+                "tail",
+                "meet",
+                "meat",
+                "witch",
+                "which",
+                "right",
+                "write",
+                "blew",
+                "blue",
+                "whole",
+                "hole",
+                "sea",
+                "see",
+                "sun",
+                "son",
+                "plain",
+                "plane",
+                "one",
+                "won",
+                "here",
+                "hear",
+                "to",
+                "too",
+                "two",
+                "by",
+                "bye"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21226,33 +21953,61 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P29_Don_tForgetTheCages",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 95,
+                "ES": 95
             },
             "title": {
                 "EN": "Don’t Forget the Cages!",
                 "ES": "¡No olvides las jaulas!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "At a bookstore, two friends discuss which books to buy for school and thankfully have enough money.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Shopping"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "bought",
+                "brought",
+                "thought",
+                "through",
+                "could",
+                "should",
+                "would",
+                "enough",
+                "once",
+                "young",
+                "answer",
+                "search",
+                "friend",
+                "because",
+                "busy",
+                "people",
+                "great",
+                "two",
+                "one",
+                "school",
+                "were",
+                "where",
+                "done",
+                "again",
+                "said",
+                "trouble"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21271,33 +22026,42 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P30_WriteTheRightStory",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 92,
+                "ES": 92
             },
             "title": {
                 "EN": "Write the Right Story!",
                 "ES": "¡Escribe la historia correcta!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "As kids fly their kites, a dark cloud blocks their view and they run before the rain starts.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Weather & Seasons"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "children's voices",
+                "friend's hat",
+                "sun’s rays",
+                "wind's gusts",
+                "cloud’s shadow",
+                "kite’s string",
+                "everyone’s"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21316,33 +22080,47 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P31_EnoughMoneyForBooks",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 93,
+                "ES": 93
             },
             "title": {
                 "EN": "Enough Money for Books",
                 "ES": "Dinero suficiente para libros"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Two friends care for a neighbor's pets and make sure they don't forget anything.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Pets"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "it’s",
+                "there’s",
+                "you’re",
+                "let’s",
+                "I’m",
+                "don’t",
+                "we’re",
+                "they’re",
+                "that’s",
+                "here’s",
+                "can’t",
+                "didn’t"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21361,33 +22139,60 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_P32_MyFamily_sAdventures",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 96,
+                "ES": 96
             },
             "title": {
                 "EN": "My Family’s Adventures",
                 "ES": "Las aventuras de mi familia"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "After a family goes to a zoo for a special holiday, dad suggests volunteering at a hospital the next weekend.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Family"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "important",
+                "different",
+                "remember",
+                "favorite",
+                "yesterday",
+                "interesting",
+                "afternoon",
+                "adventure",
+                "tomorrow",
+                "hospital",
+                "probably",
+                "family",
+                "special",
+                "holiday",
+                "discover",
+                "something",
+                "everyone",
+                "butterfly",
+                "brother",
+                "wonderful",
+                "weekend",
+                "before",
+                "because",
+                "people",
+                "again"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21406,33 +22211,43 @@
             "carousel_cat": "minibooks2ndpom"
         },
         {
-            "set": 11,
             "path": "MB_AAS_AntsOnABag",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 2,
+                "ES": 2
             },
             "title": {
                 "EN": "Ants on a Bag",
                 "ES": "Hormigas sobre una bolsa"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A bat runs away after ants show up on his bag.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Insects & Spiders"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "ant",
+                "bag",
+                "fan",
+                "bag",
+                "mat",
+                "fat",
+                "sat",
+                "ran"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21451,33 +22266,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_BBX_TheBabyAndTheBird",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 16,
+                "ES": 16
             },
             "title": {
                 "EN": "The Baby and the Bird",
                 "ES": "El bebé y el pájaro"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A baby loves his big ball but not the bell of his bird.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Birds"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "ball",
+                "baby",
+                "bird",
+                "bell",
+                "body",
+                "bed",
+                "big",
+                "bigger",
+                "but"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21496,33 +22322,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_CCX_CowsCatsAndCandy",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 15,
+                "ES": 15
             },
             "title": {
                 "EN": "Cows, Cats, and Candy",
                 "ES": "Vacas, gatos y dulces"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "On a farm with cows and cats, a boy gets candy when his dad takes him on a long ride.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Farm Animals"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "cage",
+                "candy",
+                "cow",
+                "corn",
+                "cat",
+                "car"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21541,33 +22375,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_CHX_ChickenCheeseAndChips",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 30,
+                "ES": 30
             },
             "title": {
                 "EN": "Chicken, Cheese, and Chips",
                 "ES": "Pollo, queso y papas fritas"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy loves to chew chicken and cheese but isn't happy when he discovers food on his chair.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Food and cooking"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "chair",
+                "cheese",
+                "chips",
+                "chin",
+                "cherry",
+                "chicken",
+                "cheek",
+                "check",
+                "chore"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21586,33 +22431,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_DDX_DadDidIt",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 8,
+                "ES": 8
             },
             "title": {
                 "EN": "Dad Did It!",
                 "ES": "¡Papá lo hizo!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A dad looks for a doll, a duck and a toy deer, and then does a dance when he finds them all.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Family"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "deer",
+                "door",
+                "doll",
+                "dish",
+                "duck",
+                "dance",
+                "den",
+                "dad",
+                "did"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21631,33 +22487,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_EES_TheHenAndTheNest",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 20,
+                "ES": 20
             },
             "title": {
                 "EN": "The Hen and the Nest",
                 "ES": "La gallina y el nido"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A red hen in a tent finds eggs in a nest and pecks at them until ishe is chased away.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Farm Animals"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "eggs",
+                "nest",
+                "hen",
+                "red",
+                "tent",
+                "smell",
+                "red",
+                "get",
+                "set"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21676,33 +22543,42 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_FFX_TheFlyTheFishAndTheFrog",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 7,
+                "ES": 7
             },
             "title": {
                 "EN": "The Fly, the Fish, and the Frog",
                 "ES": "La mosca, el pez y la rana"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A frog and a fish fight for a fly and then both land in the fire as the fly gets away.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Insects & Spiders"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "fish",
+                "frog",
+                "fly",
+                "fire",
+                "fly",
+                "fall",
+                "fight"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21721,33 +22597,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_GGX_TheGirl_sGarden",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 11,
+                "ES": 11
             },
             "title": {
                 "EN": "The Girl's Garden",
                 "ES": "El jardín de la niña"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl gets a gold star for caring for the grass and grapes in her garden.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Growing Plants"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "girl",
+                "glove",
+                "grapes",
+                "gold",
+                "grass",
+                "garden",
+                "grows",
+                "gets",
+                "good"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21766,33 +22653,45 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_HHX_HoneyInMyHair",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 13,
+                "ES": 13
             },
             "title": {
                 "EN": "Honey in My Hair",
                 "ES": "Miel en mi cabello"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "When a girl finally finds honey in her home, she hits her head and gets honey in her hair.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Body & Senses"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "home",
+                "hands",
+                "hair",
+                "hat",
+                "honey",
+                "head",
+                "home",
+                "have",
+                "hid",
+                "hit"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21811,33 +22710,48 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_IIS_TimWins",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 6,
+                "ES": 6
             },
             "title": {
                 "EN": "Tim Wins",
                 "ES": "Tim gana"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy sits with his mitt in a baseball pit and then wins the game.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "in",
+                "dig",
+                "mix",
+                "lip",
+                "win",
+                "sit",
+                "pit",
+                "mitt",
+                "fit",
+                "hit",
+                "miss",
+                "bit",
+                "did"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21856,33 +22770,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_JJX_JanOnAJet",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 22,
+                "ES": 22
             },
             "title": {
                 "EN": "Jan on a Jet",
                 "ES": "Jan en un avión"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Jan takes care of a baby on a jet by giving him juice and jam.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel and Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "jet",
+                "juice",
+                "jump",
+                "jar",
+                "jam",
+                "job"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21901,33 +22823,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_KKX_TheKing_sKite",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 18,
+                "ES": 18
             },
             "title": {
                 "EN": "The King's Kite",
                 "ES": "La cometa del rey"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A king wants to fly his kite but it is locked in the kitchen until the queen opens the door.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "king",
+                "kicks",
+                "kite",
+                "key",
+                "kiss (kisses)",
+                "kitchen"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21946,33 +22876,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_LLX_LarryTheLizard",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 12,
+                "ES": 12
             },
             "title": {
                 "EN": "Larry the Lizard",
                 "ES": "Larry el lagarto"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A lazy lizard finally gets a leaf for lunch when he climbs a ladder.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Reptiles and Amphibians"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "leg",
+                "leaf",
+                "lizard",
+                "ladder",
+                "lunch",
+                "lamp",
+                "lazy",
+                "left",
+                "likes"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -21991,33 +22932,42 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_MMX_MaxIsMad",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 3,
+                "ES": 3
             },
             "title": {
                 "EN": "Max Is Mad",
                 "ES": "Max está enojado"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy is mad because he has no money, no meat, no music, and only a map to the moon.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Earth & Space"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "map",
+                "meat",
+                "moon",
+                "meal",
+                "music",
+                "money",
+                "mad"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22036,33 +22986,42 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_NGX_SwingingAndSinging",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 32,
+                "ES": 32
             },
             "title": {
                 "EN": "Swinging and Singing",
                 "ES": "Columpiarse y cantar"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy who loves to sing discovers that his swing is broken but that he can still sing.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Art & Music"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "sing",
+                "swing",
+                "hang",
+                "string",
+                "strong",
+                "spring",
+                "bring"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22081,33 +23040,43 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_NNX_NateLovesNuts",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 17,
+                "ES": 17
             },
             "title": {
                 "EN": "Nate Loves Nuts",
                 "ES": "A Nate le encantan las nueces"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Nate loves the smell of nuts and naps with nine of them.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Food and Cooking"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "nut",
+                "nine",
+                "nap",
+                "nose",
+                "neck",
+                "net",
+                "needs",
+                "nice"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22126,33 +23095,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_OOS_FrogOnAPot",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 10,
+                "ES": 10
             },
             "title": {
                 "EN": "Frog on the Pot",
                 "ES": "Una rana sobre la olla"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "When a frog hops on a hot pot, the pot falls on the floor and creates a mess.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Reptiles and Amphibians"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "on",
+                "top",
+                "mop",
+                "hop",
+                "pot",
+                "log",
+                "hot",
+                "not",
+                "spots"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22171,33 +23151,44 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_PPX_PuppyInThePark",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 23,
+                "ES": 23
             },
             "title": {
                 "EN": "Puppy in the Park",
                 "ES": "Un perrito en el parque"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl with a puppy finds a pig in the park and draws them together with her pink pen.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Art & Music"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "pig",
+                "pen",
+                "pet",
+                "pan",
+                "paper",
+                "park",
+                "puppy",
+                "play",
+                "pink"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22216,33 +23207,42 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_QQX_Don_tQuitTheQuiz",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 26,
+                "ES": 26
             },
             "title": {
                 "EN": "Don't Quit the Quiz!",
                 "ES": "¡No abandones el examen!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl needs to take a quiz that has a lot of quotes in the questions.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "School"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "quick",
+                "quiet",
+                "quiz",
+                "quarter",
+                "question",
+                "quotes",
+                "quit"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22261,33 +23261,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_RRX_TheRatAndTheRing",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 9,
+                "ES": 9
             },
             "title": {
                 "EN": "The Rat and the Ring",
                 "ES": "La rata y el anillo"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A rat sees a ring on a rock on top of some rice and then runs away with it.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Pets"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "rock",
+                "run",
+                "rice",
+                "rug",
+                "ring",
+                "rat"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22306,33 +23314,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_SHX_ShirtsOnAShip",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 28,
+                "ES": 28
             },
             "title": {
                 "EN": "Shirts on a Ship",
                 "ES": "Camisas en un barco"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl shops on a ship and decides that the shirt with sharks is her favorite.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Shopping"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "sheep",
+                "shell",
+                "sharks",
+                "ship",
+                "shop",
+                "shirt"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22351,33 +23367,42 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_SSX_TheSoupSpills",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 5,
+                "ES": 5
             },
             "title": {
                 "EN": "The Soup Spills",
                 "ES": "La sopa se derrama"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A cat and a rat fight and spill soup.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Pets"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "stop",
+                "smile",
+                "stick",
+                "soup",
+                "sock",
+                "star",
+                "spill"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22396,33 +23421,42 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_THX_ThornInMyThumb",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 29,
+                "ES": 29
             },
             "title": {
                 "EN": "Thorn in My Thumb",
                 "ES": "Una espina en mi pulgar"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A thirsty boy feels great when he gets a drink and pulls a thorn from his thumb.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Body and Senses"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "thin",
+                "throne",
+                "three",
+                "thumb",
+                "thorn",
+                "throat",
+                "thirsty"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22441,33 +23475,43 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_TTX_TurtleTapsATiger",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 4,
+                "ES": 4
             },
             "title": {
                 "EN": "Turtle Taps a Tiger",
                 "ES": "Una tortuga golpea a un tigre"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A tiger pushes a toy tiger off a table with a tomato.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sports, Games & Hobbies"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "test",
+                "table",
+                "tiger",
+                "toy",
+                "turtle",
+                "tomato",
+                "taps",
+                "tips"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22486,33 +23530,47 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_UUS_BugOnARug",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 14,
+                "ES": 14
             },
             "title": {
                 "EN": "Bug on a Rug",
                 "ES": "Un bicho sobre una alfombra"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A bug falls out of a girl's cup when her pup bumps it, but she has to run to catch the bus.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Routines"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "sun",
+                "bug",
+                "cup",
+                "hug",
+                "bus",
+                "up",
+                "hug",
+                "pup",
+                "bumps",
+                "rug",
+                "must",
+                "run"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22531,33 +23589,42 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_VVX_SaveTheVase",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 19,
+                "ES": 19
             },
             "title": {
                 "EN": "Save the Vase!",
                 "ES": "¡Salven el jarrón!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "Three friends decide to save the vase in their van when a volcano starts to vent.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Travel and Transit"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "van",
+                "vase",
+                "vine",
+                "vote",
+                "volcano",
+                "vegetables",
+                "vents"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22576,33 +23643,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_WHX_TheWhiteWhale",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 31,
+                "ES": 31
             },
             "title": {
                 "EN": "The White Whale",
                 "ES": "La ballena blanca"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A girl sees a white whale and looks for her whistle in the hopes she will see it again.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Sea Animals"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "whale",
+                "wheel",
+                "white",
+                "whistle",
+                "why",
+                "whipped"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22621,33 +23696,43 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_WWX_WormInAWell",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 21,
+                "ES": 21
             },
             "title": {
                 "EN": "Worm in a Well",
                 "ES": "Un gusano en un pozo"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A worm loves living in a wet well but does not like to share it with a wasp.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Insects & Spiders"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "worm",
+                "web",
+                "well",
+                "wet",
+                "wing",
+                "world",
+                "water",
+                "wasp"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22666,33 +23751,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_XXX_FoxInABox",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 25,
+                "ES": 25
             },
             "title": {
                 "EN": "Fox in a Box",
                 "ES": "Un zorro en una caja"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy broke a box with a fox inside and gets wax to fix the box for the fox.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Jobs"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "axe",
+                "box",
+                "fix",
+                "fox",
+                "taxi",
+                "wax"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22711,33 +23804,43 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_YYX_ILoveYogurt",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 24,
+                "ES": 24
             },
             "title": {
                 "EN": "I Love Yogurt!",
                 "ES": "¡Me encanta el yogur!"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy loves yellow yogurt so much that he wants to yell to the world.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Food and Cooking",
+                "colors"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "yell",
+                "yawn",
+                "yogurt",
+                "year",
+                "yo-yo",
+                "yellow",
+                "yummy"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
@@ -22756,33 +23859,41 @@
             "carousel_cat": "minibooks1stdigraphsandtrigraphs"
         },
         {
-            "set": 11,
             "path": "MB_ZZX_ZombiesAtTheZoo",
             "sortkey": {
-                "EN": 101,
-                "ES": 101
+                "EN": 27,
+                "ES": 27
             },
             "title": {
                 "EN": "Zombies at the Zoo",
                 "ES": "Zombis en el zoológico"
             },
             "level": {
-                "EN": 4,
-                "ES": ""
+                "EN": 0,
+                "ES": 0
             },
             "lexile": {
-                "EN": 520,
-                "ES": 600
+                "EN": "BR",
+                "ES": ""
             },
             "fp": "",
             "versions": [
                 "EN-ES"
             ],
-            "about": "",
+            "about": "A boy looks for zombies at a zoo and then feels like one when his zipper breaks and he gets cold.",
             "genre": [],
-            "subjects": [],
+            "subjects": [
+                "Body and Senses"
+            ],
             "grammar": [],
-            "keywords": [],
+            "keywords": [
+                "zero",
+                "zoo",
+                "zipper",
+                "zombie",
+                "zoom",
+                "zigzag"
+            ],
             "mine": true,
             "display": "normal",
             "materials": {
